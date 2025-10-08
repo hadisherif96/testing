@@ -142,9 +142,3 @@ Ensure you have write permissions for the `downloads_full/` directory.
 
 This is a utility script for educational and research purposes. Ensure you comply with Facebook's Terms of Service when scraping ad content.
 
-## Related Files
-
-- `competitor_finder.py` - Find competitor ads
-- `facebook_firecrawl_scraper.py` - Alternative scraping approach
-- `fbAdsPW.py` / `fbAdsPW2.py` - Other Facebook Ads Playwright scripts
-
