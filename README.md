@@ -1,6 +1,6 @@
 # Facebook Ad Media Downloader
 
-A Python script that automatically downloads all media files (videos, images, and streaming segments) from Facebook Ad Library pages using Playwright to intercept network requests.
+A Python script that automatically downloads all media files (videos, images, and streaming segments) from Facebook Ad Library pages (and WEBSITES) using Playwright to intercept network requests.
 
 ## Overview
 
