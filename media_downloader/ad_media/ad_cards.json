@@ -1,0 +1,125 @@
+{
+  "time_of_scrapping": "2025-10-10 02:44:17",
+  "results": [
+    {
+      "status": "Active",
+      "library_id": "1145494554175944",
+      "started_running": "09 Oct 2025",
+      "total_active_time": "9 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1318308822840034",
+      "started_running": "09 Oct 2025",
+      "total_active_time": "9 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1329406172069699",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "2024285685066846",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1324905875678054",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1975714896605937",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "791621873626672",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1160535665949498",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "856037717087945",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1044924310944744",
+      "started_running": "6 Oct 2025",
+      "total_active_time": "99 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "788478290491256",
+      "started_running": "6 Oct 2025",
+      "total_active_time": "99 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "813377881141156",
+      "started_running": "4 Oct 2025",
+      "total_active_time": "147 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1042685104504638",
+      "started_running": "3 Oct 2025",
+      "total_active_time": "171 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "800318262770503",
+      "started_running": "6 Oct 2025",
+      "total_active_time": "99 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "4278331965822073",
+      "started_running": "7 Oct 2025",
+      "total_active_time": "75 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1691279415166263",
+      "started_running": "2 Oct 2025",
+      "total_active_time": "195 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "2656336834718539",
+      "started_running": "8 Oct 2025",
+      "total_active_time": "51 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "793306923426013",
+      "started_running": "3 Oct 2025",
+      "total_active_time": "171 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1353379506511793",
+      "started_running": "4 Oct 2025",
+      "total_active_time": "147 hrs"
+    },
+    {
+      "status": "Active",
+      "library_id": "1513629286553984",
+      "started_running": "4 Oct 2025",
+      "total_active_time": "147 hrs"
+    }
+  ]
+}
