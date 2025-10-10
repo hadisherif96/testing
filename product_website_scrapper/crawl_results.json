@@ -1,0 +1,2146 @@
+{
+  "crawl_time": "2025-10-10 18:55:42",
+  "total_pages": 50,
+  "product_pages": 31,
+  "pages": [
+    {
+      "url": "https://drvegan.com/",
+      "is_product_page": false,
+      "page_title": "DR.VEGAN | Award Winning Vegan Vitamins & Plant-Based Supplements",
+      "crawled_at": "2025-10-10 18:50:57",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/pms",
+      "is_product_page": false,
+      "page_title": "Supplements for PMS | Period Support | DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:03",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/refer-a-friend",
+      "is_product_page": false,
+      "page_title": "Refer a Friend & Get £10 Off | Discounted Supplements Loyalty Program – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:08",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/heart-health-bundle",
+      "is_product_page": true,
+      "page_title": "Heart Health Bundle | Supplements for Heart Health | DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:14",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/heart-health-bundle",
+          "product_name": "HeartPro® 1 pouch",
+          "price": null,
+          "currency": null,
+          "description": null,
+          "sku": "Heart-Pro-025",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HeartPro.png?v=1749646439"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "HeartPro® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HeartPro.png?v=1749646439",
+            "sku": "Heart-Pro-025"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/beauty-bundle",
+      "is_product_page": true,
+      "page_title": "Beauty Bundle | Supplements for Good Skin & Hair | DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:21",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/beauty-bundle",
+          "product_name": "Hair Saviour® 1 pouch",
+          "price": null,
+          "currency": null,
+          "description": null,
+          "sku": "Hair-Saviour-024",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HairSaviour.png?v=1749481333"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Hair Saviour® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HairSaviour.png?v=1749481333",
+            "sku": "Hair-Saviour-024"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/pms-blood-sugar-bundle",
+      "is_product_page": true,
+      "page_title": "PMS & Blood Sugar Bundle | PMS Support | DR. VEGAN – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:27",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/pms-blood-sugar-bundle",
+          "product_name": "GlucoBalance® 1 pouch",
+          "price": "56.97",
+          "currency": "USD",
+          "description": null,
+          "sku": "Gluco-Balance-023",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GlucoBalance.png?v=1749481139"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "GlucoBalance® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GlucoBalance.png?v=1749481139",
+            "sku": "Gluco-Balance-023"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/perimenopause-gut-health-bundle",
+      "is_product_page": true,
+      "page_title": "Perimenopause & Gut Health Bundle | Perimenopause Supplements – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:33",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/perimenopause-gut-health-bundle",
+          "product_name": "Gut Works® 1 pouch",
+          "price": "69.18",
+          "currency": "USD",
+          "description": null,
+          "sku": "gut-works-019",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Gut Works® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+            "sku": "gut-works-019"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/magnesium-glycinate",
+      "is_product_page": true,
+      "page_title": "Magnesium Glycinate 1500mg | Vegan Magnesium Supplement – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:40",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/magnesium-glycinate",
+          "product_name": "Magnesium Glycinate 1 pouch",
+          "price": "17.63",
+          "currency": "USD",
+          "description": null,
+          "sku": "magnesium-glycinate-032",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MagnesiumGlycinate.png?v=1748965428"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Magnesium Glycinate 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MagnesiumGlycinate.png?v=1748965428",
+            "sku": "magnesium-glycinate-032"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/fibre-complex",
+      "is_product_page": true,
+      "page_title": "Vegan Fibre Complex | Fibre Supplements – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:46",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/fibre-complex",
+          "product_name": "Fibre Complex 1 pouch",
+          "price": "20.34",
+          "currency": "USD",
+          "description": null,
+          "sku": "fibre-complex-028",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/FibreComplex.png?v=1749480958"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Fibre Complex 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/FibreComplex.png?v=1749480958",
+            "sku": "fibre-complex-028"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/heartpro",
+      "is_product_page": true,
+      "page_title": "HeartPro® | Plant Sterol Supplements & Probiotic – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:54",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/heartpro",
+          "product_name": "HeartPro® 1 pouch",
+          "price": "33.91",
+          "currency": "USD",
+          "description": null,
+          "sku": "Heart-Pro-025",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HeartPro.png?v=1749646439"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "HeartPro® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HeartPro.png?v=1749646439",
+            "sku": "Heart-Pro-025"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/mental-wellbeing",
+      "is_product_page": false,
+      "page_title": "Mental Health Supplements | Supplements for Mental Wellbeing – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:51:59",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/mens-health",
+      "is_product_page": false,
+      "page_title": "Men's Health Supplements | Supplements for Men – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:05",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/best-sellers",
+      "is_product_page": false,
+      "page_title": "Best Selling Supplements | Vegan Vitamins – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:10",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menopause-support-bundle",
+      "is_product_page": true,
+      "page_title": "Supplements for Menopause | Menopause Support Bundle – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:16",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menopause-support-bundle",
+          "product_name": "Ashwagandha KSM-66® 1 pouch",
+          "price": null,
+          "currency": null,
+          "description": null,
+          "sku": "Ashwagandha-007",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/AshwagandhaKSM-66_e9121520-935d-4f06-935d-5454df18b2f6.png?v=1749480357"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Ashwagandha KSM-66® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/AshwagandhaKSM-66_e9121520-935d-4f06-935d-5454df18b2f6.png?v=1749480357",
+            "sku": "Ashwagandha-007"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/liver-1",
+      "is_product_page": false,
+      "page_title": "DR.VEGAN | Vitamins and Supplements for Liver Function",
+      "crawled_at": "2025-10-10 18:52:22",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/womenshealth",
+      "is_product_page": false,
+      "page_title": "Women's Health Supplements & Vitamins – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:26",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/muscles-joints",
+      "is_product_page": false,
+      "page_title": "Vegan Joint Supplements | Supplements for Bone, Muscles & Joints – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:31",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/curcumin-turmeric",
+      "is_product_page": true,
+      "page_title": "Organic Curcumin Supplements & Turmeric Capsules – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:38",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/curcumin-turmeric",
+          "product_name": "Curcumin & Turmeric 1 pouch",
+          "price": "16.27",
+          "currency": "USD",
+          "description": null,
+          "sku": "curcumin-turmeric-016",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Curcumin_Turmeric.png?v=1749480708"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Curcumin & Turmeric 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Curcumin_Turmeric.png?v=1749480708",
+            "sku": "curcumin-turmeric-016"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/ph-hero",
+      "is_product_page": true,
+      "page_title": "pH Hero® | Vitamins for Vaginal Health & PH Balance – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:43",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/ph-hero",
+          "product_name": "pH Hero®",
+          "price": "39.34",
+          "currency": "USD",
+          "description": null,
+          "sku": "pH-Hero-026",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/pHHero.png?v=1749646736"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "pH Hero®",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/pHHero.png?v=1749646736",
+            "sku": "pH-Hero-026"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/heart-1",
+      "is_product_page": false,
+      "page_title": "Heart Health Vitamins & Supplements – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:48",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/comprehensive-pregnancy-bundle",
+      "is_product_page": true,
+      "page_title": "Comprehensive Pregnancy Bundle – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:52:55",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/comprehensive-pregnancy-bundle",
+          "product_name": "Choline 1 pouch",
+          "price": "74.59",
+          "currency": "USD",
+          "description": null,
+          "sku": "Choline-005",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Choline.png?v=1749480631"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Choline 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Choline.png?v=1749480631",
+            "sku": "Choline-005"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/vitamin-d",
+      "is_product_page": true,
+      "page_title": "Vegan Vitamin D3 Supplement | High Strength Vitamin D3 – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:00",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/vitamin-d",
+          "product_name": "Vitamin D3 1 pouch",
+          "price": "12.20",
+          "currency": "USD",
+          "description": null,
+          "sku": "VitaminD-003",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VitaminD3.png?v=1749483131"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vitamin D3 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VitaminD3.png?v=1749483131",
+            "sku": "VitaminD-003"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/blood-sugar",
+      "is_product_page": false,
+      "page_title": "Blood Sugar Supplement | Glucose Support Supplement – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:06",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/perimenopause",
+      "is_product_page": false,
+      "page_title": "Perimenopause Supplements - Natural Vitamins – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:11",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/hydrate-lemon",
+      "is_product_page": true,
+      "page_title": "Hydrate+ Electrolytes Powder | Lemon Flavour – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:17",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/hydrate-lemon",
+          "product_name": "Hydrate+ Lemon 15 Sachets",
+          "price": null,
+          "currency": null,
+          "description": null,
+          "sku": "Hydrate-L-15-034",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Hydrate+ Lemon 15 Sachets",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+            "sku": "Hydrate-L-15-034"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+      "is_product_page": true,
+      "page_title": "Comprehensive Bone & Body Support Bundle – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:23",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+          "product_name": "Comprehensive Bone & Body Support Bundle",
+          "price": "120.59",
+          "currency": "USD",
+          "description": null,
+          "sku": null,
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://drvegan.com/cdn/shop/files/curc_award_winning.png?v=1754314037&width=640",
+            "https://drvegan.com/cdn/shop/files/AshwagandhaKSM-66_e9121520-935d-4f06-935d-5454df18b2f6.png?v=1749480357&width=200",
+            "https://drvegan.com/cdn/shop/files/Bone_MuscleSupport.png?v=1749480453&width=200",
+            "https://drvegan.com/cdn/shop/files/BrainFuel.png?v=1749480583&width=200",
+            "https://drvegan.com/cdn/shop/files/Choline.png?v=1749480631&width=200",
+            "https://drvegan.com/cdn/shop/files/Curcumin_Turmeric.png?v=1749480708&width=200",
+            "https://drvegan.com/cdn/shop/files/DailyMulti-Vitamin.png?v=1749480782&width=200",
+            "https://drvegan.com/cdn/shop/files/Debloat_Detox.png?v=1749480923&width=200",
+            "https://drvegan.com/cdn/shop/files/FibreComplex.png?v=1749480958&width=200",
+            "https://drvegan.com/cdn/shop/files/GastroAidlowres.png?v=1749481011&width=200"
+          ],
+          "media_files": [],
+          "raw_data": {}
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/vegan-nights-relax-sleep",
+      "is_product_page": true,
+      "page_title": "Vegan Nights® | Sleep Supplement with Magnesium - DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:30",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/vegan-nights-relax-sleep",
+          "product_name": "Vegan Nights® 1 pouch",
+          "price": "24.41",
+          "currency": "USD",
+          "description": null,
+          "sku": "Vegan-Nights-010",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VeganNights.png?v=1749482967"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Nights® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VeganNights.png?v=1749482967",
+            "sku": "Vegan-Nights-010"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/bone-muscle-support",
+      "is_product_page": true,
+      "page_title": "Vitamins for Bones & Muscle | Muscle Support – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:36",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/bone-muscle-support",
+          "product_name": "Bone & Muscle Support 1 pouch",
+          "price": "24.41",
+          "currency": "USD",
+          "description": null,
+          "sku": "Bone-and-Muscle-009",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Bone_MuscleSupport.png?v=1749480453"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Bone & Muscle Support 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Bone_MuscleSupport.png?v=1749480453",
+            "sku": "Bone-and-Muscle-009"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+      "is_product_page": true,
+      "page_title": "Menopause Ultimate Calm Bundle | Menopause Support | DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:42",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+          "product_name": "MenoFriend® 1 pouch",
+          "price": "56.97",
+          "currency": "USD",
+          "description": null,
+          "sku": "Meno-Friend-0012",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "MenoFriend® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+            "sku": "Meno-Friend-0012"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/alcohol-health",
+      "is_product_page": false,
+      "page_title": "Alcohol Health Supplements | Vitamins for Liver Health – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:46",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/all",
+      "is_product_page": false,
+      "page_title": "Browse Vegan Supplements | Plant Based Vitamins – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:52",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/perimenofriend",
+      "is_product_page": true,
+      "page_title": "PeriMenoFriend® | Natural Supplements for Perimenopause – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:53:59",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/perimenofriend",
+          "product_name": "PeriMenoFriend",
+          "price": "30.99",
+          "currency": "USD",
+          "description": "PeriMenoFriend® is a uniquely comprehensive supplement with botanicals, phytoestrogens, vitamins and minerals, to help regulate hormones for perimenopausal women.",
+          "sku": "Peri-MenoFriend-029",
+          "availability": null,
+          "brand": "DR.VEGAN",
+          "images": [
+            "https://drvegan.com/cdn/shop/files/PeriMenoFriend_grande.png?v=1716203171",
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "PeriMenoFriend® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942",
+            "sku": "Peri-MenoFriend-029"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/perimenopause-ultimate-calm-bundle",
+      "is_product_page": true,
+      "page_title": "Perimenopause Ultimate Calm Bundle | Supplements for Stress – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:05",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/perimenopause-ultimate-calm-bundle",
+          "product_name": "PeriMenoFriend® 1 pouch",
+          "price": "56.97",
+          "currency": "USD",
+          "description": null,
+          "sku": "Peri-MenoFriend-029",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "PeriMenoFriend® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942",
+            "sku": "Peri-MenoFriend-029"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/hydrate-lemon-starter-pack",
+      "is_product_page": true,
+      "page_title": "Hydrate+ Lemon Electrolytes Starter Pack & Water Bottle – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:11",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/hydrate-lemon-starter-pack",
+          "product_name": "Hydrate+ Lemon 15 Sachets",
+          "price": "66.49",
+          "currency": "USD",
+          "description": null,
+          "sku": "Hydrate-L-15-034",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Hydrate+ Lemon 15 Sachets",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+            "sku": "Hydrate-L-15-034"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/kids-promulti",
+      "is_product_page": true,
+      "page_title": "Kids ProMulti | Multivitamins for Kids | Kid’s Health & Focus – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:16",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/kids-promulti",
+          "product_name": "Kid's ProMulti",
+          "price": "27.13",
+          "currency": "USD",
+          "description": null,
+          "sku": null,
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://drvegan.com/cdn/shop/files/curc_award_winning.png?v=1754314037&width=640",
+            "https://drvegan.com/cdn/shop/files/AshwagandhaKSM-66_e9121520-935d-4f06-935d-5454df18b2f6.png?v=1749480357&width=200",
+            "https://drvegan.com/cdn/shop/files/Bone_MuscleSupport.png?v=1749480453&width=200",
+            "https://drvegan.com/cdn/shop/files/BrainFuel.png?v=1749480583&width=200",
+            "https://drvegan.com/cdn/shop/files/Choline.png?v=1749480631&width=200",
+            "https://drvegan.com/cdn/shop/files/Curcumin_Turmeric.png?v=1749480708&width=200",
+            "https://drvegan.com/cdn/shop/files/DailyMulti-Vitamin.png?v=1749480782&width=200",
+            "https://drvegan.com/cdn/shop/files/Debloat_Detox.png?v=1749480923&width=200",
+            "https://drvegan.com/cdn/shop/files/FibreComplex.png?v=1749480958&width=200",
+            "https://drvegan.com/cdn/shop/files/GastroAidlowres.png?v=1749481011&width=200"
+          ],
+          "media_files": [],
+          "raw_data": {}
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/advanced-menopause-bundle",
+      "is_product_page": true,
+      "page_title": "Advanced Menopause Bundle | Supplements for Stress & Gut Health – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:22",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/advanced-menopause-bundle",
+          "product_name": "Gut Works® 1 pouch",
+          "price": "96.30",
+          "currency": "USD",
+          "description": null,
+          "sku": "gut-works-019",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Gut Works® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+            "sku": "gut-works-019"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/screen-eyes",
+      "is_product_page": true,
+      "page_title": "Screen Eyes™ | Natural Eye Health Supplement – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:28",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/screen-eyes",
+          "product_name": "Screen Eyes™ 1 pouch",
+          "price": "32.55",
+          "currency": "USD",
+          "description": null,
+          "sku": "Screen-Eyes-0014",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/ScreenEyes.png?v=1749482109"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Screen Eyes™ 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/ScreenEyes.png?v=1749482109",
+            "sku": "Screen-Eyes-0014"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/hydration",
+      "is_product_page": false,
+      "page_title": "Hydration | Hydrate+ Electrolytes Powders – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:32",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/mens-promulti",
+      "is_product_page": true,
+      "page_title": "Men’s ProMulti | Multivitamins for Men | Men’s Health & Vitality – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:39",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/mens-promulti",
+          "product_name": "Men's ProMulti",
+          "price": "40.70",
+          "currency": "USD",
+          "description": null,
+          "sku": "mens-promulti-027",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Men_sProMulti.png?v=1749646559"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Men's ProMulti",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Men_sProMulti.png?v=1749646559",
+            "sku": "mens-promulti-027"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/vaginal-health",
+      "is_product_page": false,
+      "page_title": "Supplements for Vaginal Health | Vaginal Health – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:43",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/pms-hero",
+      "is_product_page": true,
+      "page_title": "PMS Hero® – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:48",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/pms-hero",
+          "product_name": "PMS Hero® 1 pouch",
+          "price": "27.13",
+          "currency": "USD",
+          "description": null,
+          "sku": "PMS-Hero-017",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PMSHero.png?v=1749482032"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "PMS Hero® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PMSHero.png?v=1749482032",
+            "sku": "PMS-Hero-017"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menofriend",
+      "is_product_page": true,
+      "page_title": "MenoFriend® | Vegan & Natural Menopause Supplements – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:55",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menofriend",
+          "product_name": "MenoFriend® 1 pouch",
+          "price": "30.99",
+          "currency": "USD",
+          "description": null,
+          "sku": "Meno-Friend-0012",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "MenoFriend® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+            "sku": "Meno-Friend-0012"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/menopause",
+      "is_product_page": false,
+      "page_title": "Vegan Menopause Supplements | Vitamins for Menopause – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:54:59",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/energy",
+      "is_product_page": false,
+      "page_title": "Vegan Energy Supplements | Vitamins for Energy & Tiredness – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:55:05",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/collections/eyes",
+      "is_product_page": false,
+      "page_title": "Eye Health Supplements | Vitamins for Eye Health – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:55:10",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/brain-fuel",
+      "is_product_page": true,
+      "page_title": "Brain Fuel | Supplements for Concentration, Memory & Focus – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:55:16",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/brain-fuel",
+          "product_name": "Brain Fuel® 1 pouch",
+          "price": "35.27",
+          "currency": "USD",
+          "description": null,
+          "sku": "Brain-Fuel-0011",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/BrainFuel.png?v=1749480583"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Brain Fuel® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/BrainFuel.png?v=1749480583",
+            "sku": "Brain-Fuel-0011"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/gut-health-bundle",
+      "is_product_page": true,
+      "page_title": "Gut Health Bundle | Supplements for Gut Health – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:55:22",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/gut-health-bundle",
+          "product_name": "Debloat & Detox 1 pouch",
+          "price": null,
+          "currency": null,
+          "description": null,
+          "sku": "debloat-detox-018",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Debloat_Detox.png?v=1749480923"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Debloat & Detox 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Debloat_Detox.png?v=1749480923",
+            "sku": "debloat-detox-018"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/vitamin-b12",
+      "is_product_page": true,
+      "page_title": "Vitamin B12 2000ug | Vegan B12 Supplement | DR.VEGAN",
+      "crawled_at": "2025-10-10 18:55:28",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/vitamin-b12",
+          "product_name": "Vitamin B12 1 pouch",
+          "price": "13.56",
+          "currency": "USD",
+          "description": null,
+          "sku": "VitaminB12-002",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VitaminB12.png?v=1749483069"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vitamin B12 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VitaminB12.png?v=1749483069",
+            "sku": "VitaminB12-002"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/advanced-perimenopause-bundle",
+      "is_product_page": true,
+      "page_title": "Advanced Perimenopause Bundle | Support Gut Health & Stress – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:55:35",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/advanced-perimenopause-bundle",
+          "product_name": "Gut Works® 1 pouch",
+          "price": "96.30",
+          "currency": "USD",
+          "description": null,
+          "sku": "gut-works-019",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Gut Works® 1 pouch",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+            "sku": "gut-works-019"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/hydrate-orange-pineapple-starter-pack",
+      "is_product_page": true,
+      "page_title": "Hydrate+ Orange & Pineapple Electrolytes Starter Pack & Water Bottle – DR.VEGAN",
+      "crawled_at": "2025-10-10 18:55:41",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/hydrate-orange-pineapple-starter-pack",
+          "product_name": "Hydrate+ Lemon 15 Sachets",
+          "price": "67.82",
+          "currency": "USD",
+          "description": null,
+          "sku": "Hydrate-L-15-034",
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411"
+          ],
+          "media_files": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Hydrate+ Lemon 15 Sachets",
+            "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+            "sku": "Hydrate-L-15-034"
+          }
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/collections/pms",
+        "https://drvegan.com/pages/refer-a-friend",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/collections/mental-wellbeing",
+        "https://drvegan.com/collections/mens-health",
+        "https://drvegan.com/collections/best-sellers",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/collections/liver-1",
+        "https://drvegan.com/collections/womenshealth",
+        "https://drvegan.com/collections/muscles-joints",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/collections/heart-1",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle"
+      ]
+    }
+  ]
+}
