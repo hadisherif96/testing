@@ -1,0 +1,866 @@
+{
+  "total_products": 39,
+  "products": [
+    {
+      "page_url": "https://drvegan.com/products/menofriend",
+      "product_name": "MenoFriend® 1 pouch",
+      "price": "30.99",
+      "currency": "USD",
+      "description": null,
+      "sku": "Meno-Friend-0012",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/MenoFriend.png?v=1749481588&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\MenoFriend__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "MenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+        "sku": "Meno-Friend-0012"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenofriend",
+      "product_name": "PeriMenoFriend",
+      "price": "30.99",
+      "currency": "USD",
+      "description": "PeriMenoFriend® is a uniquely comprehensive supplement with botanicals, phytoestrogens, vitamins and minerals, to help regulate hormones for perimenopausal women.",
+      "sku": "Peri-MenoFriend-029",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/PeriMenoFriend.png?v=1749481942&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\PeriMenoFriend.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "PeriMenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942",
+        "sku": "Peri-MenoFriend-029"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/osteofriend",
+      "product_name": "OsteoFriend®",
+      "price": "47.67",
+      "currency": "USD",
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/OsteoFriendlowres.png?v=1754579212&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\OsteoFriend_.png"
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/protein-creatine-superblend",
+      "product_name": "Protein & Creatine Superblend",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Protein_CreatineSuperblendlowres.png?v=1757670606&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Protein___Creatine_Superblend.png"
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/womens-promulti",
+      "product_name": "Women's ProMulti",
+      "price": "39.50",
+      "currency": "USD",
+      "description": null,
+      "sku": "Womens-ProMulti-030",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Women_sProMulti.png?v=1749646627&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Women_s_ProMulti.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Women's ProMulti",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Women_sProMulti.png?v=1749646627",
+        "sku": "Womens-ProMulti-030"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/gut-works",
+      "product_name": "Gut Works",
+      "price": "39.50",
+      "currency": "USD",
+      "description": "Gut Works® is the award-winning supplement for complete gut health, providing the most effective support for a healthy gut microbiome. Gut Works® includes 6 scientifically studied probiotic strains and prebiotics, with 50bn CFU.",
+      "sku": "gut-works-019",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/GutWorks.png?v=1749646390&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Gut_Works.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Gut Works® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+        "sku": "gut-works-019"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hair-saviour",
+      "product_name": "Hair Saviour",
+      "price": "35.41",
+      "currency": "USD",
+      "description": "Hair Saviour® is an award-winning, unique formula of scientifically studied ingredients, including AnaGain™, to fuel healthy hair growth and strong, smooth, lustrous hair. Hair Saviour® is a nutrient-rich formula to support hair thinning, dull, dry and brittle hair, and fuelling naturally strong, healthy hair.",
+      "sku": "Hair-Saviour-024",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/HairSaviour.png?v=1749481333&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hair_Saviour.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hair Saviour® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HairSaviour.png?v=1749481333",
+        "sku": "Hair-Saviour-024"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-duo",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/dual_flavour.png?v=1757662875&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-orange-pineapple",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Hydrate_orange_pineappleboxlowres.png?v=1755766416&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-lemon",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Hydrate_lemon_box_low_res.png?v=1755766411&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/muscle-joint-support-bundle",
+      "product_name": "Curcumin & Turmeric 1 pouch",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "curcumin-turmeric-016",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Muscle_JointBundle.png?v=1749484501&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Curcumin___Turmeric_1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Curcumin & Turmeric 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Curcumin_Turmeric.png?v=1749480708",
+        "sku": "curcumin-turmeric-016"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/curcumin-turmeric",
+      "product_name": "Curcumin & Turmeric 1 pouch",
+      "price": "16.34",
+      "currency": "USD",
+      "description": null,
+      "sku": "curcumin-turmeric-016",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Curcumin_Turmeric.png?v=1749480708&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Curcumin___Turmeric_1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Curcumin & Turmeric 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Curcumin_Turmeric.png?v=1749480708",
+        "sku": "curcumin-turmeric-016"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+      "product_name": "MenoFriend® 1 pouch",
+      "price": "57.19",
+      "currency": "USD",
+      "description": null,
+      "sku": "Meno-Friend-0012",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/MenopauseUltimateCalmBundle.png?v=1749484331&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\MenoFriend__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "MenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+        "sku": "Meno-Friend-0012"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenopause-gut-health-bundle",
+      "product_name": "Gut Works® 1 pouch",
+      "price": "69.46",
+      "currency": "USD",
+      "description": null,
+      "sku": "gut-works-019",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/PerimenopauseGutHealthBundlelowres.png?v=1749648682&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Gut_Works__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Gut Works® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+        "sku": "gut-works-019"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/stay-calm",
+      "product_name": "Stay Calm",
+      "price": "27.23",
+      "currency": "USD",
+      "description": "Stay Calm® is a unique blend of botanicals with adaptogenic properties, and minerals, providing natural balance, energy and focus, helping the body cope calmly with stress. Stay Calm® supports a balanced mood, helping the mind and body overcome pressure and tension, so you can rise to the demands of each day.",
+      "sku": "Stay-Calm-0013",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/StayCalm.png?v=1749482258&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Stay_Calm.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Stay Calm® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/StayCalm.png?v=1749482258",
+        "sku": "Stay-Calm-0013"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/mens-promulti",
+      "product_name": "Men's ProMulti",
+      "price": "40.86",
+      "currency": "USD",
+      "description": null,
+      "sku": "mens-promulti-027",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Men_sProMulti.png?v=1749646559&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Men_s_ProMulti.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Men's ProMulti",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Men_sProMulti.png?v=1749646559",
+        "sku": "mens-promulti-027"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/daily-multi-vitamin",
+      "product_name": "Daily Multi-Vitamin",
+      "price": "27.23",
+      "currency": "USD",
+      "description": "Our multi award-winning Daily Multi-Vitamin is an advanced formula of 24 essential and highly bioavailable nutrients for all diet types. Feel the difference with improved daily energy, stronger immunity, healthier skin, hair and nails, improved digestion, mental performance and mood.",
+      "sku": "DailyMulti-001",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/DailyMulti-Vitamin.png?v=1749480782&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Daily_Multi-Vitamin.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Daily Multi-Vitamin 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/DailyMulti-Vitamin.png?v=1749480782",
+        "sku": "DailyMulti-001"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/gut-health-bundle",
+      "product_name": "Debloat & Detox 1 pouch",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "debloat-detox-018",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/GutHealthBundle.png?v=1749648605&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Debloat___Detox_1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Debloat & Detox 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Debloat_Detox.png?v=1749480923",
+        "sku": "debloat-detox-018"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/beauty-bundle",
+      "product_name": "Hair Saviour® 1 pouch",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Hair-Saviour-024",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/BeautyBundle.png?v=1749648562&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hair_Saviour__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hair Saviour® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HairSaviour.png?v=1749481333",
+        "sku": "Hair-Saviour-024"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/advanced-perimenopause-bundle",
+      "product_name": "Gut Works® 1 pouch",
+      "price": "96.43",
+      "currency": "USD",
+      "description": null,
+      "sku": "gut-works-019",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/UltimatePerimenopauseBundlelowres.png?v=1749648538&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Gut_Works__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Gut Works® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+        "sku": "gut-works-019"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/debloat-detox",
+      "product_name": "Debloat & Detox",
+      "price": "25.80",
+      "currency": "USD",
+      "description": "Debloat & Detox is a unique formula of botanicals and amino-acids for digestive related bloating, helping naturally remove toxins from your liver and body. Including Milk Thistle, Artichoke, Burdock, and L-Glutamine. If you have persistent gut health issues, we recommend Gut Works.",
+      "sku": "debloat-detox-018",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Debloat_Detox.png?v=1749480923&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Debloat___Detox.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Debloat & Detox 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Debloat_Detox.png?v=1749480923",
+        "sku": "debloat-detox-018"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/de-stress-and-sleep-bundle",
+      "product_name": "Ashwagandha KSM-66® 1 pouch",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Ashwagandha-007",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/De-stress_SleepBundle.png?v=1749484113&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Ashwagandha_KSM-66__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Ashwagandha KSM-66® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/AshwagandhaKSM-66_e9121520-935d-4f06-935d-5454df18b2f6.png?v=1749480357",
+        "sku": "Ashwagandha-007"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+      "product_name": "Comprehensive Bone & Body Support Bundle",
+      "price": "120.75",
+      "currency": "USD",
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/osteo_protein_bundle_low_res.png?v=1757670552&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Comprehensive_Bone___Body_Support_Bundle.png"
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-duo-starter-pack-copy",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": "67.91",
+      "currency": "USD",
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Hydrate_duo_starter.png?v=1757694299&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/ultimate-gut-health-bundle",
+      "product_name": "Debloat & Detox 1 pouch",
+      "price": "101.86",
+      "currency": "USD",
+      "description": null,
+      "sku": "debloat-detox-018",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Comprehensivedigestivehealthbundle.png?v=1749648732&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Debloat___Detox_1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Debloat & Detox 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Debloat_Detox.png?v=1749480923",
+        "sku": "debloat-detox-018"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/kids-promulti",
+      "product_name": "Kid's ProMulti",
+      "price": "27.16",
+      "currency": "USD",
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Kid_sProMultilowres.png?v=1754579208&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Kid_s_ProMulti.png"
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/skin-saviour",
+      "product_name": "Skin Saviour®",
+      "price": "33.95",
+      "currency": "USD",
+      "description": null,
+      "sku": "Skin-Saviour-022",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/SkinSaviour.png?v=1749646692&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Skin_Saviour_.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Skin Saviour®",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/SkinSaviour.png?v=1749646692",
+        "sku": "Skin-Saviour-022"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/ph-hero",
+      "product_name": "pH Hero®",
+      "price": "39.39",
+      "currency": "USD",
+      "description": null,
+      "sku": "pH-Hero-026",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/pHHero.png?v=1749646736&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\pH_Hero_.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "pH Hero®",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/pHHero.png?v=1749646736",
+        "sku": "pH-Hero-026"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/female-balance-bundle",
+      "product_name": "pH Hero®",
+      "price": "62.47",
+      "currency": "USD",
+      "description": null,
+      "sku": "pH-Hero-026",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/FemaleBalanceBundle.png?v=1749648580&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\pH_Hero_.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "pH Hero®",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/pHHero.png?v=1749646736",
+        "sku": "pH-Hero-026"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenopause-vaginal-health-bundle",
+      "product_name": "PeriMenoFriend® 1 pouch",
+      "price": "69.27",
+      "currency": "USD",
+      "description": null,
+      "sku": "Peri-MenoFriend-029",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Perimenopausevaginalhealthbundle.png?v=1749648688&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\PeriMenoFriend__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "PeriMenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942",
+        "sku": "Peri-MenoFriend-029"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/menopause-gut-health-bundle",
+      "product_name": "Gut Works® 1 pouch",
+      "price": "69.27",
+      "currency": "USD",
+      "description": null,
+      "sku": "gut-works-019",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/MenopauseGutHealthBundlelowres.png?v=1749648651&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Gut_Works__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Gut Works® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+        "sku": "gut-works-019"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/advanced-menopause-bundle",
+      "product_name": "Gut Works® 1 pouch",
+      "price": "96.43",
+      "currency": "USD",
+      "description": null,
+      "sku": "gut-works-019",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/AdvancedMenopausebundlelowres.png?v=1749648504&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Gut_Works__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Gut Works® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+        "sku": "gut-works-019"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/menopause-vaginal-health-bundle",
+      "product_name": "MenoFriend® 1 pouch",
+      "price": "69.27",
+      "currency": "USD",
+      "description": null,
+      "sku": "Meno-Friend-0012",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/MenopausevaginalhealthBundle.png?v=1749648661&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\MenoFriend__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "MenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+        "sku": "Meno-Friend-0012"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/heartpro",
+      "product_name": "HeartPro® 1 pouch",
+      "price": "33.95",
+      "currency": "USD",
+      "description": null,
+      "sku": "Heart-Pro-025",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/HeartPro.png?v=1749646439&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\HeartPro__1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "HeartPro® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HeartPro.png?v=1749646439",
+        "sku": "Heart-Pro-025"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-lemon-starter-pack",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": "66.58",
+      "currency": "USD",
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/lemon_starter.png?v=1756135444&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-orange-pineapple-starter-pack",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": "67.91",
+      "currency": "USD",
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Orange_pineapple_starter.png?v=1756136192&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/dr-vegan-water-bottle",
+      "product_name": "DR.VEGAN® Shaker Bottle",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/DR.VEGANBottle.png?v=1756135050&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\DR.VEGAN__Shaker_Bottle.png"
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/dr-vegan-whisk",
+      "product_name": "DR.VEGAN® Whisk",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/DR.VEGAN_WHISK.png?v=1757425609&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\DR.VEGAN__Whisk.png"
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/vitamin-d3-travel-pack",
+      "product_name": "Vitamin D3 1 pouch",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "VitaminD-003",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/VitaminD3lowres.png?v=1731937150&width=2048"
+      ],
+      "media_files": [
+        "product_data4\\media\\Vitamin_D3_1_pouch.png"
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Vitamin D3 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VitaminD3.png?v=1749483131",
+        "sku": "VitaminD-003"
+      }
+    }
+  ]
+}

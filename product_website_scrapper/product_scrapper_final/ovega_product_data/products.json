@@ -1,0 +1,39 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "page_url": "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+      "product_name": "Ovega-3® 500mg Plant-Based Omega-3",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://ovega.com/cdn/shop/files/ovega3-500mg-hero.png?v=1719947591&width=1500"
+      ],
+      "media_files": [
+        "product_data\\media\\Ovega-3__500mg_Plant-Based_Omega-3.png"
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://ovega.com/products/ovega-3-plant-based-omega-3",
+      "product_name": "Ovega-3® 720mg Plant-Based Omega-3",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://ovega.com/cdn/shop/files/ovega3-720-hero-new.webp?v=1709067797&width=1946"
+      ],
+      "media_files": [
+        "product_data\\media\\Ovega-3__720mg_Plant-Based_Omega-3.png"
+      ],
+      "raw_data": {}
+    }
+  ]
+}

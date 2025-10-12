@@ -1,0 +1,186 @@
+{
+  "crawl_time": "2025-10-12 22:29:24",
+  "total_pages": 8,
+  "product_pages": 0,
+  "total_products": 2,
+  "buy_button_products": 2,
+  "pages": [
+    {
+      "url": "https://ovega.com/",
+      "is_product_page": false,
+      "page_title": "Omega-3 Supplement | Vegan Heart Health Dietary Supplement – Ovega®",
+      "crawled_at": "2025-10-12 22:27:20",
+      "products": [
+        {
+          "page_url": "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+          "product_name": "Ovega-3® 500mg Plant-Based Omega-3",
+          "price": null,
+          "currency": null,
+          "description": null,
+          "sku": null,
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://ovega.com/cdn/shop/files/ovega3-500mg-hero.png?v=1719947591&width=1500"
+          ],
+          "media_files": [
+            "product_data\\media\\Ovega-3__500mg_Plant-Based_Omega-3.png"
+          ],
+          "raw_data": {}
+        }
+      ],
+      "links_found": [
+        "https://ovega.com/",
+        "https://ovega.com/collections/all",
+        "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+        "https://ovega.com/collections/frontpage",
+        "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+        "https://ovega.com/pages/contact",
+        "https://ovega.com/cart",
+        "https://ovega.com/pages/refund-and-return-policy",
+        "https://ovega.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://ovega.com/collections/all",
+      "is_product_page": false,
+      "page_title": "Products – Ovega®",
+      "crawled_at": "2025-10-12 22:27:34",
+      "products": [
+        {
+          "page_url": "https://ovega.com/products/ovega-3-plant-based-omega-3",
+          "product_name": "Ovega-3® 720mg Plant-Based Omega-3",
+          "price": null,
+          "currency": null,
+          "description": null,
+          "sku": null,
+          "availability": null,
+          "brand": null,
+          "images": [
+            "https://ovega.com/cdn/shop/files/ovega3-720-hero-new.webp?v=1709067797&width=1946"
+          ],
+          "media_files": [
+            "product_data\\media\\Ovega-3__720mg_Plant-Based_Omega-3.png"
+          ],
+          "raw_data": {}
+        }
+      ],
+      "links_found": [
+        "https://ovega.com/collections/all",
+        "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+        "https://ovega.com/collections/frontpage",
+        "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+        "https://ovega.com/",
+        "https://ovega.com/pages/contact",
+        "https://ovega.com/cart",
+        "https://ovega.com/products/ovega-3-plant-based-omega-3",
+        "https://ovega.com/pages/refund-and-return-policy",
+        "https://ovega.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+      "is_product_page": false,
+      "page_title": "Sign in - Ovega®",
+      "crawled_at": "2025-10-12 22:28:42",
+      "products": [],
+      "links_found": [
+        "https://ovega.com",
+        "https://ovega.com/78795473195/policies/36491591979.html?locale=en",
+        "https://ovega.com/78795473195/policies/36491624747.html?locale=en"
+      ]
+    },
+    {
+      "url": "https://ovega.com/collections/frontpage",
+      "is_product_page": false,
+      "page_title": "Home page – Ovega®",
+      "crawled_at": "2025-10-12 22:28:51",
+      "products": [],
+      "links_found": [
+        "https://ovega.com/collections/frontpage",
+        "https://ovega.com/collections/all",
+        "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+        "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+        "https://ovega.com/",
+        "https://ovega.com/pages/contact",
+        "https://ovega.com/cart",
+        "https://ovega.com/products/ovega-3-plant-based-omega-3",
+        "https://ovega.com/pages/refund-and-return-policy",
+        "https://ovega.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://ovega.com/pages/contact",
+      "is_product_page": false,
+      "page_title": "Contact Us – Ovega®",
+      "crawled_at": "2025-10-12 22:28:59",
+      "products": [],
+      "links_found": [
+        "https://ovega.com/pages/contact",
+        "https://ovega.com/collections/all",
+        "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+        "https://ovega.com/collections/frontpage",
+        "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+        "https://ovega.com/",
+        "https://ovega.com/cart",
+        "https://ovega.com/pages/refund-and-return-policy",
+        "https://ovega.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://ovega.com/cart",
+      "is_product_page": false,
+      "page_title": "Your Shopping Cart – Ovega®",
+      "crawled_at": "2025-10-12 22:29:07",
+      "products": [],
+      "links_found": [
+        "https://ovega.com/cart",
+        "https://ovega.com/collections/all",
+        "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+        "https://ovega.com/collections/frontpage",
+        "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+        "https://ovega.com/",
+        "https://ovega.com/pages/contact",
+        "https://ovega.com/pages/refund-and-return-policy",
+        "https://ovega.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://ovega.com/pages/refund-and-return-policy",
+      "is_product_page": false,
+      "page_title": "Refund and Return Policy – Ovega®",
+      "crawled_at": "2025-10-12 22:29:13",
+      "products": [],
+      "links_found": [
+        "https://ovega.com/pages/refund-and-return-policy",
+        "https://ovega.com/collections/all",
+        "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+        "https://ovega.com/collections/frontpage",
+        "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+        "https://ovega.com/",
+        "https://ovega.com/pages/contact",
+        "https://ovega.com/cart",
+        "https://ovega.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://ovega.com/pages/privacy-policy",
+      "is_product_page": false,
+      "page_title": "Privacy Policy – Ovega®",
+      "crawled_at": "2025-10-12 22:29:23",
+      "products": [],
+      "links_found": [
+        "https://ovega.com/pages/privacy-policy",
+        "https://ovega.com/collections/all",
+        "https://ovega.com/customer_authentication/redirect?locale=en&region_country=US",
+        "https://ovega.com/collections/frontpage",
+        "https://ovega.com/products/ovega-3-500mg-plant-based-omega-3",
+        "https://ovega.com/",
+        "https://ovega.com/pages/contact",
+        "https://ovega.com/cart",
+        "https://ovega.com/pages/ccpa-cpra-compliance",
+        "https://ovega.com/pages/refund-and-return-policy"
+      ]
+    }
+  ]
+}
