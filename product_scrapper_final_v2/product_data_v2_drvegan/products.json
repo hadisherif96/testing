@@ -1,0 +1,1244 @@
+{
+  "total_products": 17,
+  "products": [
+    {
+      "page_url": "https://drvegan.com/products/menofriend",
+      "product_name": "MenoFriend® 1 pouch",
+      "price": "30.99",
+      "currency": "USD",
+      "description": null,
+      "sku": "Meno-Friend-0012",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/MenoFriend.png?v=1749481588&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\MenoFriend__1_pouch.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "30.99",
+          "updated_price": "26.34",
+          "currency": "USD",
+          "value": "710696599925",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710696599925"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "59.59",
+          "updated_price": "49.20",
+          "currency": "USD",
+          "value": "710696632693",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710696632693"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "73.99",
+          "updated_price": "66.59",
+          "currency": "USD",
+          "value": "710696665461",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710696665461"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "MenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+        "sku": "Meno-Friend-0012"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenofriend",
+      "product_name": "PeriMenoFriend",
+      "price": "30.99",
+      "currency": "USD",
+      "description": "PeriMenoFriend® is a uniquely comprehensive supplement with botanicals, phytoestrogens, vitamins and minerals, to help regulate hormones for perimenopausal women.",
+      "sku": "Peri-MenoFriend-029",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/PeriMenoFriend.png?v=1749481942&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\PeriMenoFriend.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "30.99",
+          "updated_price": "26.34",
+          "currency": "USD",
+          "value": "710697288053",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697288053"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "59.59",
+          "updated_price": "49.20",
+          "currency": "USD",
+          "value": "710697320821",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697320821"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "73.99",
+          "updated_price": "66.59",
+          "currency": "USD",
+          "value": "710697353589",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697353589"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "PeriMenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942",
+        "sku": "Peri-MenoFriend-029"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/osteofriend",
+      "product_name": "OsteoFriend®",
+      "price": "47.41",
+      "currency": "USD",
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/OsteoFriendlowres.png?v=1754579212&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\OsteoFriend_.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "47.41",
+          "updated_price": "40.30",
+          "currency": "USD",
+          "value": "710701875573",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710701875573"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "94.82",
+          "updated_price": "78.23",
+          "currency": "USD",
+          "value": "710701908341",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710701908341"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "142.22",
+          "updated_price": "114.62",
+          "currency": "USD",
+          "value": "710701941109",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710701941109"
+          }
+        }
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/protein-creatine-superblend",
+      "product_name": "Protein & Creatine Superblend",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": null,
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Protein_CreatineSuperblendlowres.png?v=1757670606&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Protein___Creatine_Superblend.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "quantity",
+          "original_price": "55699289440629",
+          "updated_price": "55699289440629",
+          "currency": null,
+          "value": "55699289440629",
+          "unit": "units",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55699289440629"
+          }
+        },
+        {
+          "option_type": "quantity",
+          "original_price": "55699289473397",
+          "updated_price": "55699289473397",
+          "currency": null,
+          "value": "55699289473397",
+          "unit": "units",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55699289473397"
+          }
+        },
+        {
+          "option_type": "quantity",
+          "original_price": "55707406238069",
+          "updated_price": "55707406238069",
+          "currency": null,
+          "value": "55707406238069",
+          "unit": "units",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55707406238069"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "36.57",
+          "updated_price": "31.08",
+          "currency": "USD",
+          "value": "710702334325",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710702334325"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55699289440629",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55699289440629"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55699289473397",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55699289473397"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55707406238069",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55707406238069"
+          }
+        }
+      ],
+      "raw_data": {}
+    },
+    {
+      "page_url": "https://drvegan.com/products/womens-promulti",
+      "product_name": "Women's ProMulti",
+      "price": "39.28",
+      "currency": "USD",
+      "description": null,
+      "sku": "Womens-ProMulti-030",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Women_sProMulti.png?v=1749646627&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Women_s_ProMulti.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "39.28",
+          "updated_price": "33.39",
+          "currency": "USD",
+          "value": "710698795381",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710698795381"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "78.56",
+          "updated_price": "65.20",
+          "currency": "USD",
+          "value": "710698828149",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710698828149"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "117.84",
+          "updated_price": "95.10",
+          "currency": "USD",
+          "value": "710698860917",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710698860917"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Women's ProMulti",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Women_sProMulti.png?v=1749646627",
+        "sku": "Womens-ProMulti-030"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/gut-works",
+      "product_name": "Gut Works",
+      "price": "39.28",
+      "currency": "USD",
+      "description": "Gut Works® is the award-winning supplement for complete gut health, providing the most effective support for a healthy gut microbiome. Gut Works® includes 6 scientifically studied probiotic strains and prebiotics, with 50bn CFU.",
+      "sku": "gut-works-019",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/GutWorks.png?v=1749646390&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Gut_Works.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "39.28",
+          "updated_price": "33.39",
+          "currency": "USD",
+          "value": "710696796533",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710696796533"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "78.56",
+          "updated_price": "65.20",
+          "currency": "USD",
+          "value": "710696829301",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710696829301"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "117.84",
+          "updated_price": "95.10",
+          "currency": "USD",
+          "value": "710696862069",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710696862069"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Gut Works® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+        "sku": "gut-works-019"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hair-saviour",
+      "product_name": "Hair Saviour",
+      "price": "35.21",
+      "currency": "USD",
+      "description": "Hair Saviour® is an award-winning, unique formula of scientifically studied ingredients, including AnaGain™, to fuel healthy hair growth and strong, smooth, lustrous hair. Hair Saviour® is a nutrient-rich formula to support hair thinning, dull, dry and brittle hair, and fuelling naturally strong, healthy hair.",
+      "sku": "Hair-Saviour-024",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/HairSaviour.png?v=1749481333&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Hair_Saviour.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "35.21",
+          "updated_price": "29.93",
+          "currency": "USD",
+          "value": "710696993141",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710696993141"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "70.43",
+          "updated_price": "58.08",
+          "currency": "USD",
+          "value": "710697025909",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697025909"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "105.64",
+          "updated_price": "85.35",
+          "currency": "USD",
+          "value": "710697058677",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697058677"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hair Saviour® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HairSaviour.png?v=1749481333",
+        "sku": "Hair-Saviour-024"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-duo",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/dual_flavour.png?v=1757662875&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "quantity",
+          "original_price": "55934804033909",
+          "updated_price": "55934804033909",
+          "currency": null,
+          "value": "55934804033909",
+          "unit": "units",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55934804033909"
+          }
+        },
+        {
+          "option_type": "quantity",
+          "original_price": "55934804066677",
+          "updated_price": "55934804066677",
+          "currency": null,
+          "value": "55934804066677",
+          "unit": "units",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55934804066677"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "54.17",
+          "updated_price": "40.30",
+          "currency": "USD",
+          "value": "710705480053",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710705480053"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55934804033909",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55934804033909"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55934804066677",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55934804066677"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-orange-pineapple",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Hydrate_orange_pineappleboxlowres.png?v=1755766416&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "quantity",
+          "original_price": "55527032783221",
+          "updated_price": "55527032783221",
+          "currency": null,
+          "value": "55527032783221",
+          "unit": "units",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55527032783221"
+          }
+        },
+        {
+          "option_type": "quantity",
+          "original_price": "55527032815989",
+          "updated_price": "55527032815989",
+          "currency": null,
+          "value": "55527032815989",
+          "unit": "units",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55527032815989"
+          }
+        },
+        {
+          "option_type": "quantity",
+          "original_price": "55825368056181",
+          "updated_price": "55825368056181",
+          "currency": null,
+          "value": "55825368056181",
+          "unit": "units",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55825368056181"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "47.41",
+          "updated_price": "40.30",
+          "currency": "USD",
+          "value": "710547374453",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710547374453"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55527032783221",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55527032783221"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55527032815989",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55527032815989"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55825368056181",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55825368056181"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-lemon",
+      "product_name": "Hydrate+ Lemon 15 Sachets",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "Hydrate-L-15-034",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Hydrate_lemon_box_low_res.png?v=1755766411&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Hydrate__Lemon_15_Sachets.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "quantity",
+          "original_price": "55554734883189",
+          "updated_price": "55554734883189",
+          "currency": null,
+          "value": "55554734883189",
+          "unit": "units",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55554734883189"
+          }
+        },
+        {
+          "option_type": "quantity",
+          "original_price": "55554734915957",
+          "updated_price": "55554734915957",
+          "currency": null,
+          "value": "55554734915957",
+          "unit": "units",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55554734915957"
+          }
+        },
+        {
+          "option_type": "quantity",
+          "original_price": "55825364779381",
+          "updated_price": "55825364779381",
+          "currency": null,
+          "value": "55825364779381",
+          "unit": "units",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "input[type=\"radio\"][id*=\"quantity\"]",
+            "value": "55825364779381"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "47.41",
+          "updated_price": "40.30",
+          "currency": "USD",
+          "value": "710547767669",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710547767669"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55554734883189",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55554734883189"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55554734915957",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55554734915957"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": null,
+          "updated_price": null,
+          "currency": null,
+          "value": "55825364779381",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "55825364779381"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hydrate+ Lemon 15 Sachets",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+        "sku": "Hydrate-L-15-034"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/muscle-joint-support-bundle",
+      "product_name": "Curcumin & Turmeric 1 pouch",
+      "price": null,
+      "currency": null,
+      "description": null,
+      "sku": "curcumin-turmeric-016",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Muscle_JointBundle.png?v=1749484501&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Curcumin___Turmeric_1_pouch.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "24.99",
+          "updated_price": "23.74",
+          "currency": "USD",
+          "value": "710250332533",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710250332533"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Curcumin & Turmeric 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Curcumin_Turmeric.png?v=1749480708",
+        "sku": "curcumin-turmeric-016"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/curcumin-turmeric",
+      "product_name": "Curcumin & Turmeric 1 pouch",
+      "price": "16.25",
+      "currency": "USD",
+      "description": null,
+      "sku": "curcumin-turmeric-016",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Curcumin_Turmeric.png?v=1749480708&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Curcumin___Turmeric_1_pouch.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "16.25",
+          "updated_price": "13.81",
+          "currency": "USD",
+          "value": "710695223669",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710695223669"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "32.49",
+          "updated_price": "26.68",
+          "currency": "USD",
+          "value": "710695256437",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710695256437"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "48.74",
+          "updated_price": "39.01",
+          "currency": "USD",
+          "value": "710695289205",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710695289205"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Curcumin & Turmeric 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Curcumin_Turmeric.png?v=1749480708",
+        "sku": "curcumin-turmeric-016"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+      "product_name": "MenoFriend® 1 pouch",
+      "price": "56.88",
+      "currency": "USD",
+      "description": null,
+      "sku": "Meno-Friend-0012",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/MenopauseUltimateCalmBundle.png?v=1749484331&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\MenoFriend__1_pouch.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "56.88",
+          "updated_price": "48.90",
+          "currency": "USD",
+          "value": "710261047669",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710261047669"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "MenoFriend® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+        "sku": "Meno-Friend-0012"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenopause-gut-health-bundle",
+      "product_name": "Gut Works® 1 pouch",
+      "price": "69.07",
+      "currency": "USD",
+      "description": null,
+      "sku": "gut-works-019",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/PerimenopauseGutHealthBundlelowres.png?v=1749648682&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Gut_Works__1_pouch.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "69.07",
+          "updated_price": "59.19",
+          "currency": "USD",
+          "value": "710239519093",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710239519093"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Gut Works® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+        "sku": "gut-works-019"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/stay-calm",
+      "product_name": "Stay Calm",
+      "price": "27.08",
+      "currency": "USD",
+      "description": "Stay Calm® is a unique blend of botanicals with adaptogenic properties, and minerals, providing natural balance, energy and focus, helping the body cope calmly with stress. Stay Calm® supports a balanced mood, helping the mind and body overcome pressure and tension, so you can rise to the demands of each day.",
+      "sku": "Stay-Calm-0013",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/StayCalm.png?v=1749482258&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Stay_Calm.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "27.08",
+          "updated_price": "23.02",
+          "currency": "USD",
+          "value": "710698008949",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710698008949"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "54.17",
+          "updated_price": "44.46",
+          "currency": "USD",
+          "value": "710698041717",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710698041717"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "81.25",
+          "updated_price": "65.24",
+          "currency": "USD",
+          "value": "710698074485",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710698074485"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Stay Calm® 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/StayCalm.png?v=1749482258",
+        "sku": "Stay-Calm-0013"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/mens-promulti",
+      "product_name": "Men's ProMulti",
+      "price": "40.63",
+      "currency": "USD",
+      "description": null,
+      "sku": "mens-promulti-027",
+      "availability": null,
+      "brand": null,
+      "images": [
+        "https://drvegan.com/cdn/shop/files/Men_sProMulti.png?v=1749646559&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Men_s_ProMulti.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "40.63",
+          "updated_price": "34.54",
+          "currency": "USD",
+          "value": "710697189749",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697189749"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "81.27",
+          "updated_price": "66.98",
+          "currency": "USD",
+          "value": "710697222517",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697222517"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "121.90",
+          "updated_price": "97.54",
+          "currency": "USD",
+          "value": "710697255285",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710697255285"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Men's ProMulti",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Men_sProMulti.png?v=1749646559",
+        "sku": "mens-promulti-027"
+      }
+    },
+    {
+      "page_url": "https://drvegan.com/products/daily-multi-vitamin",
+      "product_name": "Daily Multi-Vitamin",
+      "price": "27.08",
+      "currency": "USD",
+      "description": "Our multi award-winning Daily Multi-Vitamin is an advanced formula of 24 essential and highly bioavailable nutrients for all diet types. Feel the difference with improved daily energy, stronger immunity, healthier skin, hair and nails, improved digestion, mental performance and mood.",
+      "sku": "DailyMulti-001",
+      "availability": null,
+      "brand": "DR.VEGAN",
+      "images": [
+        "https://drvegan.com/cdn/shop/files/DailyMulti-Vitamin.png?v=1749480782&width=2048"
+      ],
+      "media_files": [
+        "product_data_v2\\media\\Daily_Multi-Vitamin.png"
+      ],
+      "buying_options": [
+        {
+          "option_type": "subscription",
+          "original_price": "27.08",
+          "updated_price": "23.02",
+          "currency": "USD",
+          "value": "710694437237",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710694437237"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "54.17",
+          "updated_price": "44.46",
+          "currency": "USD",
+          "value": "710694502773",
+          "unit": "subscription",
+          "is_default": true,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710694502773"
+          }
+        },
+        {
+          "option_type": "subscription",
+          "original_price": "81.25",
+          "updated_price": "65.24",
+          "currency": "USD",
+          "value": "710694470005",
+          "unit": "subscription",
+          "is_default": false,
+          "is_available": true,
+          "raw_data": {
+            "selector": "[class*=\"subscription\"] input[type=\"radio\"]",
+            "value": "710694470005"
+          }
+        }
+      ],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Daily Multi-Vitamin 1 pouch",
+        "image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/DailyMulti-Vitamin.png?v=1749480782",
+        "sku": "DailyMulti-001"
+      }
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "crawl_time": "2025-10-15 02:31:17",
+  "total_pages": 6,
+  "product_pages": 0,
+  "total_products": 17,
+  "buy_button_products": 17,
+  "pages": [
+    {
+      "url": "https://www.vegetology.com",
+      "is_product_page": false,
+      "page_title": "Vegan Vitamins and Tablets - Vegetology",
+      "crawled_at": "2025-10-15 02:28:58",
+      "products": [
+        {
+          "page_url": "https://www.vegetology.com/supplements/omega-3",
+          "product_name": "Vegan Omega-3 Supplements",
+          "price": "19.99",
+          "currency": "GBP",
+          "description": "Vegan High Strength Omega-3  EPA and DHA",
+          "sku": "VEG-2358",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Omega-3/Omega-3-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747127414&s=bea26a34967f36ee5ef60f2af085af5d"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Omega-3_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Omega-3 Supplements",
+            "description": "Vegan High Strength Omega-3  EPA and DHA",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Omega-3/Omega-3-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747127414&s=a808fea386d341af314fe657b2f3b4ef",
+            "url": "https://www.vegetology.com/supplements/omega-3",
+            "sku": "VEG-2358",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380119",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "19.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/vollagen",
+          "product_name": "Vollagen® Vegan Collagen",
+          "price": "19.99",
+          "currency": "GBP",
+          "description": "Hair, skin, nail and joint support",
+          "sku": "VEG-4955",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vollagen/Vollagen-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122431&s=cf20dcf6e7ff5c11d85dc659208d8f5e"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vollagen__Vegan_Collagen.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vollagen® Vegan Collagen",
+            "description": "Hair, skin, nail and joint support",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vollagen/Vollagen-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122431&s=684603acf6fa66cb771ffd65989fc9be",
+            "url": "https://www.vegetology.com/supplements/vollagen",
+            "sku": "VEG-4955",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380485",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "19.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/multi-vit",
+          "product_name": "MultiVit Vegan Supplements",
+          "price": "11.49",
+          "currency": "GBP",
+          "description": "All in one everyday health",
+          "sku": "VEG-2359",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/MultiVit/MultiVit-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747121991&s=97daf3f477f51c5f2ee9731a01b3be9f"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\MultiVit_Vegan_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "MultiVit Vegan Supplements",
+            "description": "All in one everyday health",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/MultiVit/MultiVit-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747121991&s=ec8d1d08921b74d0b63d14c516e8f80f",
+            "url": "https://www.vegetology.com/supplements/multi-vit",
+            "sku": "VEG-2359",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380157",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "11.49",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/vit-d3-2500iu",
+          "product_name": "Vegan Vitamin D3 2500iu Supplements",
+          "price": "11.49",
+          "currency": "GBP",
+          "description": "100% vegan, plant-based Vitamin D3 sourced from lichen",
+          "sku": "VEG-2362",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vitashine-D32500iu/D3-2500iu-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122375&s=18ee8a98dd64fc93e1d4f9fabba06ae1"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Vitamin_D3_2500iu_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Vitamin D3 2500iu Supplements",
+            "description": "100% vegan, plant-based Vitamin D3 sourced from lichen",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vitashine-D32500iu/D3-2500iu-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122375&s=011af9df974d0f2f0b4e13632971ffb7",
+            "url": "https://www.vegetology.com/supplements/vit-d3-2500iu",
+            "sku": "VEG-2362",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380133",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "11.49",
+              "availability": "InStock"
+            }
+          }
+        }
+      ],
+      "links_found": [
+        "https://www.vegetology.com",
+        "https://www.vegetology.com/",
+        "https://www.vegetology.com/account/signin",
+        "https://www.vegetology.com/shop",
+        "https://www.vegetology.com/new-products",
+        "https://www.vegetology.com/bone-muscle",
+        "https://www.vegetology.com/brain-memory",
+        "https://www.vegetology.com/childrens-health",
+        "https://www.vegetology.com/daily-health",
+        "https://www.vegetology.com/eye-health",
+        "https://www.vegetology.com/fatigue",
+        "https://www.vegetology.com/hair-skin-nails",
+        "https://www.vegetology.com/heart-circulation",
+        "https://www.vegetology.com/supplements-to-balance-hormones",
+        "https://www.vegetology.com/immune-support",
+        "https://www.vegetology.com/menopause",
+        "https://www.vegetology.com/perimenopause-supplements",
+        "https://www.vegetology.com/pregnancy",
+        "https://www.vegetology.com/recovery",
+        "https://www.vegetology.com/sleep-relaxation"
+      ]
+    },
+    {
+      "url": "https://www.vegetology.com/",
+      "is_product_page": false,
+      "page_title": "Vegan Vitamins and Tablets - Vegetology",
+      "crawled_at": "2025-10-15 02:29:11",
+      "products": [],
+      "links_found": [
+        "https://www.vegetology.com/",
+        "https://www.vegetology.com/account/signin",
+        "https://www.vegetology.com/shop",
+        "https://www.vegetology.com/new-products",
+        "https://www.vegetology.com/bone-muscle",
+        "https://www.vegetology.com/brain-memory",
+        "https://www.vegetology.com/childrens-health",
+        "https://www.vegetology.com/daily-health",
+        "https://www.vegetology.com/eye-health",
+        "https://www.vegetology.com/fatigue",
+        "https://www.vegetology.com/hair-skin-nails",
+        "https://www.vegetology.com/heart-circulation",
+        "https://www.vegetology.com/supplements-to-balance-hormones",
+        "https://www.vegetology.com/immune-support",
+        "https://www.vegetology.com/menopause",
+        "https://www.vegetology.com/perimenopause-supplements",
+        "https://www.vegetology.com/pregnancy",
+        "https://www.vegetology.com/recovery",
+        "https://www.vegetology.com/sleep-relaxation",
+        "https://www.vegetology.com/calcium"
+      ]
+    },
+    {
+      "url": "https://www.vegetology.com/account/signin",
+      "is_product_page": false,
+      "page_title": "My Account - Sign In - Vegetology",
+      "crawled_at": "2025-10-15 02:29:18",
+      "products": [],
+      "links_found": [
+        "https://www.vegetology.com/",
+        "https://www.vegetology.com/account/signin",
+        "https://www.vegetology.com/shop",
+        "https://www.vegetology.com/new-products",
+        "https://www.vegetology.com/bone-muscle",
+        "https://www.vegetology.com/brain-memory",
+        "https://www.vegetology.com/childrens-health",
+        "https://www.vegetology.com/daily-health",
+        "https://www.vegetology.com/eye-health",
+        "https://www.vegetology.com/fatigue",
+        "https://www.vegetology.com/hair-skin-nails",
+        "https://www.vegetology.com/heart-circulation",
+        "https://www.vegetology.com/supplements-to-balance-hormones",
+        "https://www.vegetology.com/immune-support",
+        "https://www.vegetology.com/menopause",
+        "https://www.vegetology.com/perimenopause-supplements",
+        "https://www.vegetology.com/pregnancy",
+        "https://www.vegetology.com/recovery",
+        "https://www.vegetology.com/sleep-relaxation",
+        "https://www.vegetology.com/calcium"
+      ]
+    },
+    {
+      "url": "https://www.vegetology.com/new-products",
+      "is_product_page": false,
+      "page_title": "Best, New Vegan Health Supplements & Vitamins - Vegetology",
+      "crawled_at": "2025-10-15 02:29:52",
+      "products": [
+        {
+          "page_url": "https://www.vegetology.com/supplements/vegan-childrens-multivit-supplement",
+          "product_name": "Vegan Children’s MultiVit Supplement",
+          "price": "10.99",
+          "currency": "GBP",
+          "description": "Chewable All-in-One Everyday Health",
+          "sku": "VEG-4956",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Kids-MultiVit-Imagess-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747147335&s=02c9329b84ec4cac7f2aa160ef797777"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Children_s_MultiVit_Supplement.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Children’s MultiVit Supplement",
+            "description": "Chewable All-in-One Everyday Health",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Kids-MultiVit-Imagess-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747147335&s=02dbfc03e44d97ae5b202f8baebbb22c",
+            "url": "https://www.vegetology.com/supplements/vegan-childrens-multivit-supplement",
+            "sku": "VEG-4956",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380768",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "10.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/lions-mane",
+          "product_name": "Vegan Lion's Mane Supplement",
+          "price": "16.99",
+          "currency": "GBP",
+          "description": "Mental clarity and energy",
+          "sku": "VEG-4957",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Lions-Mane/Lion_s-Mane-Imaages-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747121889&s=a3377509849c1f074e41a043c3334157"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Lion_s_Mane_Supplement.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Lion's Mane Supplement",
+            "description": "Mental clarity and energy",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Lions-Mane/Lion_s-Mane-Imaages-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747121889&s=2dbd30ead98bd51300bcffa4a6237ebd",
+            "url": "https://www.vegetology.com/supplements/lions-mane",
+            "sku": "VEG-4957",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380799",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "16.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/calcium-vit-d3-vegan-supplements",
+          "product_name": "Calcium + Vit D3 Vegan Supplements",
+          "price": "12.99",
+          "currency": "GBP",
+          "description": "Strong bones, healthy teeth, and muscles",
+          "sku": "VGE-4959",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Calcium/CAL-1.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747395441&s=d60c1af0ba13e682ca0b4ffdd2bd46ac"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Calcium___Vit_D3_Vegan_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Calcium + Vit D3 Vegan Supplements",
+            "description": "Strong bones, healthy teeth, and muscles",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Calcium/CAL-1.png?w=1080&h=1080&auto=compress%2Cformat&fit=crop&dm=1747395441&s=1bea591420e5382b7e1067ac1c290c05",
+            "url": "https://www.vegetology.com/supplements/calcium-vit-d3-vegan-supplements",
+            "sku": "VGE-4959",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380805",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "12.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/magnesium-complex",
+          "product_name": "Magnesium Complex Vegan Supplement",
+          "price": "12.99",
+          "currency": "GBP",
+          "description": "Energy, Muscle Support, and Overall Wellness",
+          "sku": "VEG-4958",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/MAG-1-3.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747395077&s=92528ce9559150de84c0ab311bf541cf"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Magnesium_Complex_Vegan_Supplement.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Magnesium Complex Vegan Supplement",
+            "description": "Energy, Muscle Support, and Overall Wellness",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/MAG-1-3.png?w=1080&h=1080&auto=compress%2Cformat&fit=crop&dm=1747395077&s=a238f1d5e697abb93f838288cbad5bd6",
+            "url": "https://www.vegetology.com/supplements/magnesium-complex",
+            "sku": "VEG-4958",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380782",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "12.99",
+              "availability": "InStock"
+            }
+          }
+        }
+      ],
+      "links_found": [
+        "https://www.vegetology.com/",
+        "https://www.vegetology.com/account/signin",
+        "https://www.vegetology.com/shop",
+        "https://www.vegetology.com/new-products",
+        "https://www.vegetology.com/bone-muscle",
+        "https://www.vegetology.com/brain-memory",
+        "https://www.vegetology.com/childrens-health",
+        "https://www.vegetology.com/daily-health",
+        "https://www.vegetology.com/eye-health",
+        "https://www.vegetology.com/fatigue",
+        "https://www.vegetology.com/hair-skin-nails",
+        "https://www.vegetology.com/heart-circulation",
+        "https://www.vegetology.com/supplements-to-balance-hormones",
+        "https://www.vegetology.com/immune-support",
+        "https://www.vegetology.com/menopause",
+        "https://www.vegetology.com/perimenopause-supplements",
+        "https://www.vegetology.com/pregnancy",
+        "https://www.vegetology.com/recovery",
+        "https://www.vegetology.com/sleep-relaxation",
+        "https://www.vegetology.com/calcium"
+      ]
+    },
+    {
+      "url": "https://www.vegetology.com/bone-muscle",
+      "is_product_page": false,
+      "page_title": "Best Vitamins for Bones - Vegan Bone Tablets - Vegetology",
+      "crawled_at": "2025-10-15 02:30:35",
+      "products": [
+        {
+          "page_url": "https://www.vegetology.com/supplements/bone-care",
+          "product_name": "Bone Care Vegan Health Supplements",
+          "price": "14.99",
+          "currency": "GBP",
+          "description": "Cartilage, muscle, and bone health",
+          "sku": "VEG-2376",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Bone-Care/Bone-Care-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747121790&s=ea7a0b9aba2a47515ede49e32d73a8bf"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Bone_Care_Vegan_Health_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Bone Care Vegan Health Supplements",
+            "description": "Cartilage, muscle, and bone health",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Bone-Care/Bone-Care-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747121790&s=c497c2ea8c31c0d2f0395e04941cb416",
+            "url": "https://www.vegetology.com/supplements/bone-care",
+            "sku": "VEG-2376",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380164",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "14.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/vit-c",
+          "product_name": "Vegan Vitamin C Supplement",
+          "price": "11.49",
+          "currency": "GBP",
+          "description": "Vit C + Citrus Bioflavonoids immune system support",
+          "sku": "VEG-4954",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vit-C/Vit-C-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122183&s=b12baef95adc1bc75f8855598e0091c4"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Vitamin_C_Supplement.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Vitamin C Supplement",
+            "description": "Vit C + Citrus Bioflavonoids immune system support",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vit-C/Vit-C-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122183&s=6486edd04882ce95122c2436d2022e6d",
+            "url": "https://www.vegetology.com/supplements/vit-c",
+            "sku": "VEG-4954",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380416",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "11.49",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/vit-d3-1000iu",
+          "product_name": "Vegan Vitamin D3 1000iu Tablets",
+          "price": "10.49",
+          "currency": "GBP",
+          "description": "100% vegan, plant-based Vitamin D3 sourced from lichen",
+          "sku": "VEG-2361",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vitashine-D31000iu/D3-1000iu-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122338&s=b2fa72a372c3df2082e0e2ab8581fa37"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Vitamin_D3_1000iu_Tablets.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Vitamin D3 1000iu Tablets",
+            "description": "100% vegan, plant-based Vitamin D3 sourced from lichen",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vitashine-D31000iu/D3-1000iu-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122338&s=724fd6bdb3be144fd831ca84e6a0529d",
+            "url": "https://www.vegetology.com/supplements/vit-d3-1000iu",
+            "sku": "VEG-2361",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380140",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "10.49",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/menopause",
+          "product_name": "Vegan Menopause Supplements",
+          "price": "13.99",
+          "currency": "GBP",
+          "description": "Support through perimenopause and menopause",
+          "sku": "VEG-4951",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Menopause/Menopause-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747121941&s=edee4b63c4dc7fff9a2c03da2ab7bb55"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Menopause_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Menopause Supplements",
+            "description": "Support through perimenopause and menopause",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Menopause/Menopause-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747121941&s=dd9864cda18a4253ef2b8f3776664e51",
+            "url": "https://www.vegetology.com/supplements/menopause",
+            "sku": "VEG-4951",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380447",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "13.99",
+              "availability": "InStock"
+            }
+          }
+        }
+      ],
+      "links_found": [
+        "https://www.vegetology.com/",
+        "https://www.vegetology.com/account/signin",
+        "https://www.vegetology.com/shop",
+        "https://www.vegetology.com/new-products",
+        "https://www.vegetology.com/bone-muscle",
+        "https://www.vegetology.com/brain-memory",
+        "https://www.vegetology.com/childrens-health",
+        "https://www.vegetology.com/daily-health",
+        "https://www.vegetology.com/eye-health",
+        "https://www.vegetology.com/fatigue",
+        "https://www.vegetology.com/hair-skin-nails",
+        "https://www.vegetology.com/heart-circulation",
+        "https://www.vegetology.com/supplements-to-balance-hormones",
+        "https://www.vegetology.com/immune-support",
+        "https://www.vegetology.com/menopause",
+        "https://www.vegetology.com/perimenopause-supplements",
+        "https://www.vegetology.com/pregnancy",
+        "https://www.vegetology.com/recovery",
+        "https://www.vegetology.com/sleep-relaxation",
+        "https://www.vegetology.com/calcium"
+      ]
+    },
+    {
+      "url": "https://www.vegetology.com/brain-memory",
+      "is_product_page": false,
+      "page_title": "Brain Supplements - Vegan Brain Vitamins & Tablets - Vegetology",
+      "crawled_at": "2025-10-15 02:31:17",
+      "products": [
+        {
+          "page_url": "https://www.vegetology.com/supplements/vit-b12",
+          "product_name": "Vegan B12 1000mcg Sustained Release Supplement",
+          "price": "10.49",
+          "currency": "GBP",
+          "description": "Boost energy & metabolism",
+          "sku": "VEG-4916",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/B12/Vitamin-B12-Sustained-Release-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122280&s=1478126afdde9886688d5841f8d001de"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_B12_1000mcg_Sustained_Release_Supplement.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan B12 1000mcg Sustained Release Supplement",
+            "description": "Boost energy & metabolism",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/B12/Vitamin-B12-Sustained-Release-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122280&s=7bf08057f92c022fe8dd1fe84d024a41",
+            "url": "https://www.vegetology.com/supplements/vit-b12",
+            "sku": "VEG-4916",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380232",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "10.49",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/vit-b12-sublingual",
+          "product_name": "Vegan Vitamin B12 100mcg Sublingual Tablets",
+          "price": "10.49",
+          "currency": "GBP",
+          "description": "Boost energy & metabolism",
+          "sku": "VEG-4953",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/B12/Vitamin-B12-Sublingual-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122246&s=99df40f3b748e6f9405f0fa153c08ba6"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Vitamin_B12_100mcg_Sublingual_Tablets.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Vitamin B12 100mcg Sublingual Tablets",
+            "description": "Boost energy & metabolism",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/B12/Vitamin-B12-Sublingual-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122246&s=3e421a60f7196eb10e16b8b1e42bc6af",
+            "url": "https://www.vegetology.com/supplements/vit-b12-sublingual",
+            "sku": "VEG-4953",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380317",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "10.49",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/omega-3-liquid-no-added-flavour",
+          "product_name": "Vegan Omega-3 Liquid Supplements",
+          "price": "19.99",
+          "currency": "GBP",
+          "description": "Vegan Omega-3 EPA & DHA Liquid – No Added Flavour",
+          "sku": "VEG-23584",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Omega-3-Unflavoured-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747313286&s=45ded82aab134d9dc6d9bd57dd14a7f5"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Omega-3_Liquid_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Omega-3 Liquid Supplements",
+            "description": "Vegan Omega-3 EPA & DHA Liquid – No Added Flavour",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Omega-3-Unflavoured-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747313286&s=8df1217454a2077f0c13307244ea2234",
+            "url": "https://www.vegetology.com/supplements/omega-3-liquid-no-added-flavour",
+            "sku": "VEG-23584",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380294",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "19.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/omega-3-liquid-mild-orange-flavour",
+          "product_name": "Vegan Omega-3 Orange Flavoured Supplements",
+          "price": "19.99",
+          "currency": "GBP",
+          "description": "Vegan Omega-3 EPA & DHA Liquid – Mild Orange Flavour",
+          "sku": "VEG-23583",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Omega-3-Orange-Flavour-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747313204&s=33914ab2c69a80148cce1c38ff9e0a94"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Vegan_Omega-3_Orange_Flavoured_Supplements.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Vegan Omega-3 Orange Flavoured Supplements",
+            "description": "Vegan Omega-3 EPA & DHA Liquid – Mild Orange Flavour",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Omega-3-Orange-Flavour-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747313204&s=f296123014cd3a1df3ab81abd9bbd7c9",
+            "url": "https://www.vegetology.com/supplements/omega-3-liquid-mild-orange-flavour",
+            "sku": "VEG-23583",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380270",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "19.99",
+              "availability": "InStock"
+            }
+          }
+        },
+        {
+          "page_url": "https://www.vegetology.com/supplements/sleep-support",
+          "product_name": "Sleep Support Vegan Supplements and Capsules",
+          "price": "16.99",
+          "currency": "GBP",
+          "description": "Supports healthy sleep",
+          "sku": "VEG-4950",
+          "availability": "InStock",
+          "brand": "Vegetology",
+          "images": [
+            "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Sleep-Support/Sleep-Support-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122120&s=edf1cec46b97e4e1933c90a2465f5d51"
+          ],
+          "media_files": [
+            "product_data_vegetology\\media\\Sleep_Support_Vegan_Supplements_and_Capsules.png"
+          ],
+          "buying_options": [],
+          "raw_data": {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Sleep Support Vegan Supplements and Capsules",
+            "description": "Supports healthy sleep",
+            "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Sleep-Support/Sleep-Support-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122120&s=391d53008ce3cc50d9b7b6f00111f6e4",
+            "url": "https://www.vegetology.com/supplements/sleep-support",
+            "sku": "VEG-4950",
+            "brand": {
+              "@type": "Brand",
+              "name": "Vegetology"
+            },
+            "gtin13": "5060351380461",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "GBP",
+              "price": "16.99",
+              "availability": "InStock"
+            }
+          }
+        }
+      ],
+      "links_found": [
+        "https://www.vegetology.com/",
+        "https://www.vegetology.com/account/signin",
+        "https://www.vegetology.com/shop",
+        "https://www.vegetology.com/new-products",
+        "https://www.vegetology.com/bone-muscle",
+        "https://www.vegetology.com/brain-memory",
+        "https://www.vegetology.com/childrens-health",
+        "https://www.vegetology.com/daily-health",
+        "https://www.vegetology.com/eye-health",
+        "https://www.vegetology.com/fatigue",
+        "https://www.vegetology.com/hair-skin-nails",
+        "https://www.vegetology.com/heart-circulation",
+        "https://www.vegetology.com/supplements-to-balance-hormones",
+        "https://www.vegetology.com/immune-support",
+        "https://www.vegetology.com/menopause",
+        "https://www.vegetology.com/perimenopause-supplements",
+        "https://www.vegetology.com/pregnancy",
+        "https://www.vegetology.com/recovery",
+        "https://www.vegetology.com/sleep-relaxation",
+        "https://www.vegetology.com/calcium"
+      ]
+    }
+  ]
+}
