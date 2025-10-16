@@ -1,0 +1,153 @@
+{
+  "total_products": 4,
+  "products": [
+    {
+      "page_url": "https://www.vegetology.com/supplements/omega-3",
+      "product_name": "Vegan Omega-3 Supplements",
+      "price": "19.99",
+      "currency": "GBP",
+      "description": "Vegan High Strength Omega-3  EPA and DHA",
+      "sku": "VEG-2358",
+      "availability": "InStock",
+      "brand": "Vegetology",
+      "images": [
+        "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Omega-3/Omega-3-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747127414&s=bea26a34967f36ee5ef60f2af085af5d"
+      ],
+      "media_files": [
+        "shopify_data\\media\\Vegan_Omega-3_Supplements.png"
+      ],
+      "buying_options": [],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Vegan Omega-3 Supplements",
+        "description": "Vegan High Strength Omega-3  EPA and DHA",
+        "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Omega-3/Omega-3-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747127414&s=a808fea386d341af314fe657b2f3b4ef",
+        "url": "https://www.vegetology.com/supplements/omega-3",
+        "sku": "VEG-2358",
+        "brand": {
+          "@type": "Brand",
+          "name": "Vegetology"
+        },
+        "gtin13": "5060351380119",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "GBP",
+          "price": "19.99",
+          "availability": "InStock"
+        }
+      }
+    },
+    {
+      "page_url": "https://www.vegetology.com/supplements/vollagen",
+      "product_name": "Vollagen® Vegan Collagen",
+      "price": "19.99",
+      "currency": "GBP",
+      "description": "Hair, skin, nail and joint support",
+      "sku": "VEG-4955",
+      "availability": "InStock",
+      "brand": "Vegetology",
+      "images": [
+        "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vollagen/Vollagen-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122431&s=cf20dcf6e7ff5c11d85dc659208d8f5e"
+      ],
+      "media_files": [
+        "shopify_data\\media\\Vollagen__Vegan_Collagen.png"
+      ],
+      "buying_options": [],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Vollagen® Vegan Collagen",
+        "description": "Hair, skin, nail and joint support",
+        "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vollagen/Vollagen-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122431&s=684603acf6fa66cb771ffd65989fc9be",
+        "url": "https://www.vegetology.com/supplements/vollagen",
+        "sku": "VEG-4955",
+        "brand": {
+          "@type": "Brand",
+          "name": "Vegetology"
+        },
+        "gtin13": "5060351380485",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "GBP",
+          "price": "19.99",
+          "availability": "InStock"
+        }
+      }
+    },
+    {
+      "page_url": "https://www.vegetology.com/supplements/multi-vit",
+      "product_name": "MultiVit Vegan Supplements",
+      "price": "11.49",
+      "currency": "GBP",
+      "description": "All in one everyday health",
+      "sku": "VEG-2359",
+      "availability": "InStock",
+      "brand": "Vegetology",
+      "images": [
+        "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/MultiVit/MultiVit-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747121991&s=97daf3f477f51c5f2ee9731a01b3be9f"
+      ],
+      "media_files": [
+        "shopify_data\\media\\MultiVit_Vegan_Supplements.png"
+      ],
+      "buying_options": [],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "MultiVit Vegan Supplements",
+        "description": "All in one everyday health",
+        "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/MultiVit/MultiVit-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747121991&s=ec8d1d08921b74d0b63d14c516e8f80f",
+        "url": "https://www.vegetology.com/supplements/multi-vit",
+        "sku": "VEG-2359",
+        "brand": {
+          "@type": "Brand",
+          "name": "Vegetology"
+        },
+        "gtin13": "5060351380157",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "GBP",
+          "price": "11.49",
+          "availability": "InStock"
+        }
+      }
+    },
+    {
+      "page_url": "https://www.vegetology.com/supplements/vit-d3-2500iu",
+      "product_name": "Vegan Vitamin D3 2500iu Supplements",
+      "price": "11.49",
+      "currency": "GBP",
+      "description": "100% vegan, plant-based Vitamin D3 sourced from lichen",
+      "sku": "VEG-2362",
+      "availability": "InStock",
+      "brand": "Vegetology",
+      "images": [
+        "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vitashine-D32500iu/D3-2500iu-Images-04.png?w=592&h=592&q=82&auto=format&fit=crop&dm=1747122375&s=18ee8a98dd64fc93e1d4f9fabba06ae1"
+      ],
+      "media_files": [
+        "shopify_data\\media\\Vegan_Vitamin_D3_2500iu_Supplements.png"
+      ],
+      "buying_options": [],
+      "raw_data": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Vegan Vitamin D3 2500iu Supplements",
+        "description": "100% vegan, plant-based Vitamin D3 sourced from lichen",
+        "image": "https://energetic-alpaca.transforms.svdcdn.com/production/Images/Products/Vitashine-D32500iu/D3-2500iu-Images-04.png?w=2000&h=2000&auto=compress%2Cformat&fit=crop&dm=1747122375&s=011af9df974d0f2f0b4e13632971ffb7",
+        "url": "https://www.vegetology.com/supplements/vit-d3-2500iu",
+        "sku": "VEG-2362",
+        "brand": {
+          "@type": "Brand",
+          "name": "Vegetology"
+        },
+        "gtin13": "5060351380133",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "GBP",
+          "price": "11.49",
+          "availability": "InStock"
+        }
+      }
+    }
+  ]
+}
