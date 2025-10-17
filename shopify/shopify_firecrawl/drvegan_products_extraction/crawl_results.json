@@ -1,0 +1,3976 @@
+{
+  "crawl_time": "2025-10-17 19:43:45",
+  "total_pages": 80,
+  "product_pages": 60,
+  "total_products": 60,
+  "is_shopify": true,
+  "pages": [
+    {
+      "url": "https://drvegan.com/",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:29:03",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/womens-promulti",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/muscle-joint-support-bundle",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/mens-promulti",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-health-bundle",
+        "https://drvegan.com/products/beauty-bundle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/vegan-omega-3",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:29:17",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/vegan-omega-3",
+          "product_name": "Vegan Omega 3",
+          "prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99",
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "buy_once_prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99"
+          ],
+          "subscription_prices": [
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "main_price": "£21.99",
+          "compare_price": "£21.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/VeganOmega3.png?v=1749483032&width=2048",
+          "description": "DHAEPADHAEPADR.VEGAN®Our Vegan Omega 3 contains the optimal dosage of 300mg DHA.300mgStandard Omega 3 supplements200mgDR.VEGAN®Our Vegan Omega 3 contains the optimal dosage of 150mg EPA.150mgStandard Omega 3 supplements100mg",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/brain-health-bundle",
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/products/skin-health-bundle",
+        "https://drvegan.com/products/vegan-essentials-bundle",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/why-algae-omega-3-is-better-than-fish-oil-1",
+        "https://drvegan.com/pages/algae-omega-schizochytrium-sp",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/blogs/articles/recommended-nutrients-for-brain-health",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menofriend",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:29:35",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menofriend",
+          "product_name": "MenoFriend®",
+          "prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99",
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "buy_once_prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99"
+          ],
+          "subscription_prices": [
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "main_price": "£21.99",
+          "compare_price": "£21.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/MenoFriend.png?v=1749481588&width=2048",
+          "description": "Verified CustomerMariam Kurshid-Khan",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/advanced-menopause-bundle",
+        "https://drvegan.com/products/menopause-gut-health-bundle",
+        "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+        "https://drvegan.com/products/menopause-vaginal-health-bundle",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/blogs/articles/surgical-induced-menopause-what-you-need-to-know"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/perimenofriend",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:30:04",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/perimenofriend",
+          "product_name": "PeriMenoFriend®",
+          "prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99",
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "buy_once_prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99"
+          ],
+          "subscription_prices": [
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "main_price": "£21.99",
+          "compare_price": "£21.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/PeriMenoFriend.png?v=1749481942&width=2048",
+          "description": "Verified CustomerShirley Daly",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/advanced-perimenopause-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/products/perimenopause-ultimate-calm-bundle",
+        "https://drvegan.com/products/perimenopause-vaginal-health-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/common-signs-of-perimenopause",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/sea-moss",
+        "https://drvegan.com/pages/lemon-balm",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/sage-leaf-extract",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/vitamin-b6",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/gut-works"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/osteofriend",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:30:14",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/osteofriend",
+          "product_name": "OsteoFriend®",
+          "prices": [
+            "£34.99",
+            "£65.99",
+            "£93.99",
+            "£29.74",
+            "£57.74",
+            "£84.59"
+          ],
+          "buy_once_prices": [
+            "£34.99",
+            "£65.99",
+            "£93.99"
+          ],
+          "subscription_prices": [
+            "£29.74",
+            "£57.74",
+            "£84.59"
+          ],
+          "main_price": "£34.99",
+          "compare_price": "£34.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/OsteoFriendlowres.png?v=1754579212&width=2048",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/why-is-bone-health-so-important-in-menopause",
+        "https://drvegan.com/blogs/recipes/anti-inflammatory-smoothie-bowl",
+        "https://drvegan.com/blogs/recipes/quinoa-kale-salad",
+        "https://drvegan.com/blogs/recipes/creamy-sweet-potato-red-lentil-stew",
+        "https://drvegan.com/pages/calcium",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/vitamin-k2",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/turmeric-root-curcuma-longa",
+        "https://drvegan.com/pages/Lactobacillus-Reuteri",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/blogs/articles/why-exercise-helps-through-menopause",
+        "https://drvegan.com/blogs/articles/the-benefits-of-turmeric?_pos=1&_psq=turmeric&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/joint-pain-and-postmenopause-what-s-really-going-on-what-can-help"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/protein-creatine-superblend",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:30:24",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/protein-creatine-superblend",
+          "product_name": "Protein & Creatine Superblend",
+          "prices": [
+            "£26.99",
+            "£50.99",
+            "£72.50",
+            "£22.94",
+            "£43.34",
+            "£61.63"
+          ],
+          "buy_once_prices": [
+            "£26.99",
+            "£50.99",
+            "£72.50"
+          ],
+          "subscription_prices": [
+            "£22.94",
+            "£43.34",
+            "£61.63"
+          ],
+          "main_price": "£26.99",
+          "compare_price": "£26.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Protein_CreatineSuperblendlowres.png?v=1757670606&width=2048",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/protein-and-postmenopause-why-it-matters-more-than-ever",
+        "https://drvegan.com/pages/cordyceps-cordyceps-sinensis",
+        "https://drvegan.com/pages/reishi-mushroom",
+        "https://drvegan.com/pages/pea-protein",
+        "https://drvegan.com/pages/pumpkin-seed-protein",
+        "https://drvegan.com/pages/hemp-protein",
+        "https://drvegan.com/pages/creatine",
+        "https://drvegan.com/blogs/recipes/protein-powered-breakfast-bowl-ve",
+        "https://drvegan.com/blogs/recipes/warm-protein-lunch-bowl-ve",
+        "https://drvegan.com/blogs/recipes/creamy-protein-mushroom-pasta-ve",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/ultraenergy",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/blogs/articles/best-protein-sources-on-a-plant-based-diet",
+        "https://drvegan.com/blogs/articles/what-happens-when-you-start-taking-creatine",
+        "https://drvegan.com/blogs/articles/functional-mushrooms-explained-benefits-uses-who-should-take-them",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/womens-promulti",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:30:33",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/womens-promulti",
+          "product_name": "Women's ProMulti",
+          "prices": [
+            "£28.99",
+            "£54.99",
+            "£77.99",
+            "£24.64",
+            "£48.12",
+            "£70.19"
+          ],
+          "buy_once_prices": [
+            "£28.99",
+            "£54.99",
+            "£77.99"
+          ],
+          "subscription_prices": [
+            "£24.64",
+            "£48.12",
+            "£70.19"
+          ],
+          "main_price": "£28.99",
+          "compare_price": "£28.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Women_sProMulti.png?v=1749646627&width=2048",
+          "description": "Verified CustomerMark Daws",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/best-supplements-for-women-over-50",
+        "https://drvegan.com/pages/cranberry-vaccinium-macrocarpon",
+        "https://drvegan.com/pages/Lactobacillus-Crispatus",
+        "https://drvegan.com/pages/Lactobacillus-Reuteri",
+        "https://drvegan.com/pages/ginkgo-biloba",
+        "https://drvegan.com/pages/folic-acid-folate",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/blogs/articles/how-your-gut-and-vagina-are-linked",
+        "https://drvegan.com/blogs/articles/best-supplements-for-women-over-50?_pos=1&_psq=best+supplem&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/why-is-bone-health-so-important-in-menopause",
+        "https://drvegan.com/blogs/articles/the-role-of-nutrition-in-vaginal-and-bladder-health",
+        "https://drvegan.com/blogs/articles/is-vaginal-eczema-a-thing?_pos=2&_psq=is+vaginal&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/are-womens-gut-microbiome-different-to-men",
+        "https://drvegan.com/blogs/articles/female-hormones-and-hormonal-belly?_pos=1&_psq=female&_ss=e&_v=1.0",
+        "https://drvegan.com/pages/menopause-hub"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/gut-works",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:30:43",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/gut-works",
+          "product_name": "Gut Works®",
+          "prices": [
+            "£28.99",
+            "£54.99",
+            "£77.99",
+            "£24.64",
+            "£48.12",
+            "£70.19"
+          ],
+          "buy_once_prices": [
+            "£28.99",
+            "£54.99",
+            "£77.99"
+          ],
+          "subscription_prices": [
+            "£24.64",
+            "£48.12",
+            "£70.19"
+          ],
+          "main_price": "£28.99",
+          "compare_price": "£28.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/GutWorks.png?v=1749646390&width=2048",
+          "description": "Verified CustomerAnonymous",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/advanced-menopause-bundle",
+        "https://drvegan.com/products/advanced-perimenopause-bundle",
+        "https://drvegan.com/products/ultimate-gut-health-bundle",
+        "https://drvegan.com/products/gut-health-bundle",
+        "https://drvegan.com/products/menopause-gut-health-bundle",
+        "https://drvegan.com/products/perimenopause-gut-health-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/latest-gut-health-research-ibs-causes-and-symptoms",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/pages/lactobacillus-rhamnosus",
+        "https://drvegan.com/pages/bifidobacterium-lactis",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/psyllium-husk",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/pages/about",
+        "https://drvegan.com/pages/diet-profile",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/debloat-detox"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/hair-saviour",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:30:55",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/hair-saviour",
+          "product_name": "Hair Saviour®",
+          "prices": [
+            "£25.99",
+            "£48.99",
+            "£69.99",
+            "£22.09",
+            "£42.87",
+            "£62.99"
+          ],
+          "buy_once_prices": [
+            "£25.99",
+            "£48.99",
+            "£69.99"
+          ],
+          "subscription_prices": [
+            "£22.09",
+            "£42.87",
+            "£62.99"
+          ],
+          "main_price": "£25.99",
+          "compare_price": "£25.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/HairSaviour.png?v=1749481333&width=2048",
+          "description": "Verified CustomerNATALIE WILLS",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/why-hair-saviour-is-so-good",
+        "https://drvegan.com/pages/anagain%E2%84%A2-pisum-sativum",
+        "https://drvegan.com/pages/saw-palmetto-extract-serenoa-repens",
+        "https://drvegan.com/pages/silica",
+        "https://drvegan.com/pages/methylsulphonylmethane-msm-powder",
+        "https://drvegan.com/pages/alfalfa-medicago-sativa",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/blogs/articles/best-foods-for-hair-loss-thinning?_pos=1&_psq=hair&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/how-menopause-impacts-your-skin-and-hair",
+        "https://drvegan.com/blogs/articles/key-nutrients-for-healthy-hair",
+        "https://drvegan.com/blogs/articles/understanding-premature-grey-hair",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/hydrate-duo",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:31:04",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/hydrate-duo",
+          "product_name": "Hydrate+ Duo",
+          "prices": [
+            "£34.99",
+            "£62.99",
+            "£29.74",
+            "£53.54"
+          ],
+          "buy_once_prices": [
+            "£34.99",
+            "£62.99"
+          ],
+          "subscription_prices": [
+            "£29.74",
+            "£53.54"
+          ],
+          "main_price": "£39.98",
+          "compare_price": "£39.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/dual_flavour.png?v=1757662875&width=2048",
+          "description": "Our go-to recommendation. Refreshingly light, the best taste.",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/sodium",
+        "https://drvegan.com/pages/potassium",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/calcium",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/products/vitamin-b12",
+        "https://drvegan.com/pages/l-taurine",
+        "https://drvegan.com/blogs/articles/plant-sweeteners-and-type-2-diabetes",
+        "https://drvegan.com/products/bone-muscle-support",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ultraenergy",
+        "https://drvegan.com/blogs/articles/why-hydration-matters",
+        "https://drvegan.com/blogs/articles/a-complete-guide-to-electrolytes",
+        "https://drvegan.com/blogs/articles/good-vs-bad-electrolytes",
+        "https://drvegan.com/blogs/articles/electrolytes-and-endurance-what-you-need-to-know",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/hydrate-orange-pineapple",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:31:13",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/hydrate-orange-pineapple",
+          "product_name": "Hydrate+ Orange & Pineapple",
+          "prices": [
+            "£19.99",
+            "£34.99",
+            "£62.99",
+            "£16.99",
+            "£29.74",
+            "£53.54"
+          ],
+          "buy_once_prices": [
+            "£19.99",
+            "£34.99",
+            "£62.99"
+          ],
+          "subscription_prices": [
+            "£16.99",
+            "£29.74",
+            "£53.54"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Hydrate_orange_pineappleboxlowres.png?v=1755766416&width=2048",
+          "description": "Our go-to recommendation. Refreshingly light, the best taste.",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/sodium",
+        "https://drvegan.com/pages/potassium",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/calcium",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/products/vitamin-b12",
+        "https://drvegan.com/pages/l-taurine",
+        "https://drvegan.com/blogs/articles/plant-sweeteners-and-type-2-diabetes",
+        "https://drvegan.com/products/bone-muscle-support",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ultraenergy",
+        "https://drvegan.com/blogs/articles/why-hydration-matters",
+        "https://drvegan.com/blogs/articles/a-complete-guide-to-electrolytes",
+        "https://drvegan.com/blogs/articles/good-vs-bad-electrolytes",
+        "https://drvegan.com/blogs/articles/electrolytes-and-endurance-what-you-need-to-know",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/hydrate-lemon",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:31:25",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/hydrate-lemon",
+          "product_name": "Hydrate+ Lemon",
+          "prices": [
+            "£19.99",
+            "£34.99",
+            "£62.99",
+            "£16.99",
+            "£29.74",
+            "£53.54"
+          ],
+          "buy_once_prices": [
+            "£19.99",
+            "£34.99",
+            "£62.99"
+          ],
+          "subscription_prices": [
+            "£16.99",
+            "£29.74",
+            "£53.54"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Hydrate_lemon_box_low_res.png?v=1755766411&width=2048",
+          "description": "Our go-to recommendation. Refreshingly light, the best taste.",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/sodium",
+        "https://drvegan.com/pages/potassium",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/calcium",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/products/vitamin-b12",
+        "https://drvegan.com/pages/l-taurine",
+        "https://drvegan.com/blogs/articles/plant-sweeteners-and-type-2-diabetes",
+        "https://drvegan.com/products/bone-muscle-support",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ultraenergy",
+        "https://drvegan.com/blogs/articles/why-hydration-matters",
+        "https://drvegan.com/blogs/articles/a-complete-guide-to-electrolytes",
+        "https://drvegan.com/blogs/articles/good-vs-bad-electrolytes",
+        "https://drvegan.com/blogs/articles/electrolytes-and-endurance-what-you-need-to-know",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/muscle-joint-support-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:31:34",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/muscle-joint-support-bundle",
+          "product_name": "Muscle & Joint Support Bundle",
+          "prices": [
+            "£17.99",
+            "£17.09"
+          ],
+          "buy_once_prices": [
+            "£17.99"
+          ],
+          "subscription_prices": [
+            "£17.09"
+          ],
+          "main_price": "£20.98",
+          "compare_price": "£20.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/Muscle_JointBundle.png?v=1749484501&width=2048",
+          "description": "Verified CustomerAnonymous",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/magnesium",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/why-our-curcumin-turmeric-is-so-good-1",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/turmeric-root-curcuma-longa",
+        "https://drvegan.com/pages/bioperine%C2%AE-black-pepper-extract-piper-nigrum",
+        "https://drvegan.com/pages/ginger-root-zingiber-officinale",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/bone-muscle-support",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/blogs/articles/magnesium-the-mineral-superhero",
+        "https://drvegan.com/blogs/articles/the-benefits-of-turmeric",
+        "https://drvegan.com/blogs/articles/how-do-i-know-if-im-deficient-in-magnesium",
+        "https://drvegan.com/blogs/articles/most-googled-turmeric-questions-answered"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/curcumin-turmeric",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:31:43",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/curcumin-turmeric",
+          "product_name": "Curcumin & Turmeric",
+          "prices": [
+            "£11.99",
+            "£22.50",
+            "£31.99",
+            "£10.19",
+            "£19.69",
+            "£28.79"
+          ],
+          "buy_once_prices": [
+            "£11.99",
+            "£22.50",
+            "£31.99"
+          ],
+          "subscription_prices": [
+            "£10.19",
+            "£19.69",
+            "£28.79"
+          ],
+          "main_price": "£11.99",
+          "compare_price": "£11.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Curcumin_Turmeric.png?v=1749480708&width=2048",
+          "description": "CurcuminDR.VEGAN®Our Curcumin & Turmeric is an advanced formula providing more Curcumin than standard turmeric supplements.200mgStandard Curcumin supplements160mg",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/muscle-joint-support-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/why-our-curcumin-turmeric-is-so-good-1",
+        "https://drvegan.com/pages/turmeric-root-curcuma-longa",
+        "https://drvegan.com/pages/ginger-root-zingiber-officinale",
+        "https://drvegan.com/pages/bioperine%C2%AE-black-pepper-extract-piper-nigrum",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/magnesium-citrate",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/blogs/articles/the-benefits-of-turmeric",
+        "https://drvegan.com/blogs/articles/why-you-re-wasting-money-on-turmeric",
+        "https://drvegan.com/blogs/articles/most-googled-turmeric-questions-answered",
+        "https://drvegan.com/blogs/articles/why-exercise-helps-through-menopause",
+        "https://drvegan.com/blogs/articles/top-6-foods-every-vegan-should-eat-and-why",
+        "https://drvegan.com/blogs/articles/8-immunity-boosting-foods",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:31:54",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+          "product_name": "Menopause Ultimate Calm Bundle",
+          "prices": [
+            "£37.99",
+            "£36.09"
+          ],
+          "buy_once_prices": [
+            "£37.99"
+          ],
+          "subscription_prices": [
+            "£36.09"
+          ],
+          "main_price": "£41.98",
+          "compare_price": "£41.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/MenopauseUltimateCalmBundle.png?v=1749484331&width=2048",
+          "description": "Verified CustomerMariam Kurshid-Khan",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/rhodiola",
+        "https://drvegan.com/pages/schisandra-schisandra-chinensis-berry-powder",
+        "https://drvegan.com/pages/cordyceps-cordyceps-sinensis",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/blogs/articles/foods-and-vitamins-to-help-relieve-anxiety"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/perimenopause-gut-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:32:03",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/perimenopause-gut-health-bundle",
+          "product_name": "Perimenopause Gut Health Bundle",
+          "prices": [
+            "£44.99",
+            "£42.74"
+          ],
+          "buy_once_prices": [
+            "£44.99"
+          ],
+          "subscription_prices": [
+            "£42.74"
+          ],
+          "main_price": "£50.98",
+          "compare_price": "£50.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/PerimenopauseGutHealthBundlelowres.png?v=1749648682&width=2048",
+          "description": "Verified CustomerShirley Daly",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/common-signs-of-perimenopause",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/pages/sea-moss",
+        "https://drvegan.com/pages/lemon-balm",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/sage-leaf-extract",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/vitamin-b6",
+        "https://drvegan.com/pages/lactobacillus-rhamnosus",
+        "https://drvegan.com/pages/bifidobacterium-lactis",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/psyllium-husk"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/stay-calm",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:32:13",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/stay-calm",
+          "product_name": "Stay Calm®",
+          "prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50",
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "buy_once_prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50"
+          ],
+          "subscription_prices": [
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/StayCalm.png?v=1749482258&width=2048",
+          "description": "Verified CustomerMr   Rothery",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/advanced-menopause-bundle",
+        "https://drvegan.com/products/advanced-perimenopause-bundle",
+        "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+        "https://drvegan.com/products/perimenopause-ultimate-calm-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/the-effects-of-stress-anxiety-latest-research",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/rhodiola",
+        "https://drvegan.com/pages/schisandra-schisandra-chinensis-berry-powder",
+        "https://drvegan.com/pages/cordyceps-cordyceps-sinensis",
+        "https://drvegan.com/pages/l-theanine",
+        "https://drvegan.com/pages/l-tyrosine",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/vegan-nights-relax-sleep",
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/blogs/articles/foods-and-vitamins-to-help-relieve-anxiety",
+        "https://drvegan.com/blogs/articles/what-is-cortisol",
+        "https://drvegan.com/blogs/articles/5-adaptogens-that-can-change-your-life"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/mens-promulti",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:32:23",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/mens-promulti",
+          "product_name": "Men's ProMulti",
+          "prices": [
+            "£29.99",
+            "£56.50",
+            "£79.99",
+            "£25.49",
+            "£49.44",
+            "£71.99"
+          ],
+          "buy_once_prices": [
+            "£29.99",
+            "£56.50",
+            "£79.99"
+          ],
+          "subscription_prices": [
+            "£25.49",
+            "£49.44",
+            "£71.99"
+          ],
+          "main_price": "£29.99",
+          "compare_price": "£29.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Men_sProMulti.png?v=1749646559&width=2048",
+          "description": "Verified CustomerConal Dunn",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/how-the-mens-promulti-works",
+        "https://drvegan.com/pages/reishi-mushroom",
+        "https://drvegan.com/pages/bifidobacterium-bifidum",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/beta-sitosterol",
+        "https://drvegan.com/pages/lycopene",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/products/glucobalance",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/blogs/articles/testosterone-levels-explained",
+        "https://drvegan.com/blogs/articles/prostate-health-a-comprehensive-guide",
+        "https://drvegan.com/blogs/articles/what-causes-erectile-dysfunction",
+        "https://drvegan.com/blogs/articles/does-sperm-impact-the-risk-of-diabetes",
+        "https://drvegan.com/blogs/articles/how-to-get-clear-skin-for-men-a-mens-skincare-guide",
+        "https://drvegan.com/blogs/articles/how-to-support-mens-mental-health",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/daily-multi-vitamin",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:32:34",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/daily-multi-vitamin",
+          "product_name": "Daily Multi-Vitamin",
+          "prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50",
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "buy_once_prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50"
+          ],
+          "subscription_prices": [
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/DailyMulti-Vitamin.png?v=1749480782&width=2048",
+          "description": "Verified CustomerNATALIE WILLS",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/daily-digestion-bundle",
+        "https://drvegan.com/products/immunity-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/daily-multi-vitamins-do-they-work",
+        "https://drvegan.com/pages/vitamin-b1",
+        "https://drvegan.com/pages/vitamin-k2",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/vitamin-a",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/pregnancy",
+        "https://drvegan.com/blogs/articles/should-i-take-a-multivitamin-every-day",
+        "https://drvegan.com/blogs/articles/mistakes-to-avoid-on-a-vegetarian-or-vegan-diet",
+        "https://drvegan.com/blogs/recipes/granola-bars-ve",
+        "https://drvegan.com/blogs/articles/tips-to-boost-your-energy"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/gut-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:32:47",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/gut-health-bundle",
+          "product_name": "Gut Health Bundle",
+          "prices": [
+            "£42.99",
+            "£40.84"
+          ],
+          "buy_once_prices": [
+            "£42.99"
+          ],
+          "subscription_prices": [
+            "£40.84"
+          ],
+          "main_price": "£47.98",
+          "compare_price": "£47.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/GutHealthBundle.png?v=1749648605&width=2048",
+          "description": "Verified CustomerLynn Bee",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/latest-gut-health-research-ibs-causes-and-symptoms",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/pages/milk-thistle-silybum-marianum-l-1",
+        "https://drvegan.com/pages/fennel-seed-extract-foeniculum-vulgare",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/psyllium-husk",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/ultraenergy",
+        "https://drvegan.com/products/de-stress-and-sleep-bundle",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/pages/why-gutworks-is-so-good",
+        "https://drvegan.com/blogs/articles/the-reasons-you-might-be-bloated",
+        "https://drvegan.com/blogs/articles/10-practical-tips-to-reduce-bloating",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/beauty-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:32:56",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/beauty-bundle",
+          "product_name": "Beauty Bundle",
+          "prices": [
+            "£45.50",
+            "£43.23"
+          ],
+          "buy_once_prices": [
+            "£45.50"
+          ],
+          "subscription_prices": [
+            "£43.23"
+          ],
+          "main_price": "£50.98",
+          "compare_price": "£50.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/BeautyBundle.png?v=1749648562&width=2048",
+          "description": "Verified CustomerNATALIE WILLS",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/why-hair-saviour-is-so-good",
+        "https://drvegan.com/pages/grape-seed-extract-vitis-vinifera",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/pages/anagain%E2%84%A2-pisum-sativum",
+        "https://drvegan.com/pages/methylsulphonylmethane-msm-powder",
+        "https://drvegan.com/pages/saw-palmetto-extract-serenoa-repens",
+        "https://drvegan.com/pages/silica",
+        "https://drvegan.com/pages/alfalfa-medicago-sativa",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/blogs/articles/why-your-gut-is-your-second-brain",
+        "rosaceahttps://drvegan.com/blogs/articles/5-natural-remedies-to-help-treat-rosacea",
+        "https://drvegan.com/blogs/articles/how-to-get-rid-of-acne",
+        "https://drvegan.com/blogs/articles/natural-ways-to-treat-eczema"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/perimenopause-ultimate-calm-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:33:06",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/perimenopause-ultimate-calm-bundle",
+          "product_name": "Perimenopause Ultimate Calm Bundle",
+          "prices": [
+            "£36.99",
+            "£35.14"
+          ],
+          "buy_once_prices": [
+            "£36.99"
+          ],
+          "subscription_prices": [
+            "£35.14"
+          ],
+          "main_price": "£41.98",
+          "compare_price": "£41.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/PerimenopauseUltimateCalmBundlelowres.png?v=1749484548&width=2048",
+          "description": "Verified CustomerShirley Daly",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/common-signs-of-perimenopause",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/sea-moss",
+        "https://drvegan.com/pages/lemon-balm",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/sage-leaf-extract",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/vitamin-b6",
+        "https://drvegan.com/pages/rhodiola",
+        "https://drvegan.com/pages/schisandra-schisandra-chinensis-berry-powder",
+        "https://drvegan.com/pages/cordyceps-cordyceps-sinensis",
+        "https://drvegan.com/pages/l-theanine",
+        "https://drvegan.com/pages/l-tyrosine",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/advanced-perimenopause-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:33:16",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/advanced-perimenopause-bundle",
+          "product_name": "Advanced Perimenopause Bundle",
+          "prices": [
+            "£63.99",
+            "£60.79"
+          ],
+          "buy_once_prices": [
+            "£63.99"
+          ],
+          "subscription_prices": [
+            "£60.79"
+          ],
+          "main_price": "£70.97",
+          "compare_price": "£70.97",
+          "main_image": "https://drvegan.com/cdn/shop/files/UltimatePerimenopauseBundlelowres.png?v=1749648538&width=2048",
+          "description": "Verified CustomerShirley Daly",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/common-signs-of-perimenopause",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/bifidobacterium-lactis",
+        "https://drvegan.com/pages/lactobacillus-rhamnosus",
+        "https://drvegan.com/pages/psyllium-husk",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/schisandra-schisandra-chinensis-berry-powder",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause",
+        "https://drvegan.com/pages/dr-vegan-subscriptions"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menopause-gut-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:33:26",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menopause-gut-health-bundle",
+          "product_name": "Menopause Gut Health Bundle",
+          "prices": [
+            "£44.99",
+            "£42.74"
+          ],
+          "buy_once_prices": [
+            "£44.99"
+          ],
+          "subscription_prices": [
+            "£42.74"
+          ],
+          "main_price": "£50.98",
+          "compare_price": "£50.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/MenopauseGutHealthBundlelowres.png?v=1749648651&width=2048",
+          "description": "Verified CustomerAnonymous",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/bifidobacterium-lactis",
+        "https://drvegan.com/pages/lactobacillus-rhamnosus",
+        "https://drvegan.com/pages/psyllium-husk",
+        "https://drvegan.com/products/gut-health-bundle",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/hair-saviour"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/advanced-menopause-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:33:37",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/advanced-menopause-bundle",
+          "product_name": "Advanced Menopause Bundle",
+          "prices": [
+            "£63.99",
+            "£60.79"
+          ],
+          "buy_once_prices": [
+            "£63.99"
+          ],
+          "subscription_prices": [
+            "£60.79"
+          ],
+          "main_price": "£70.97",
+          "compare_price": "£70.97",
+          "main_image": "https://drvegan.com/cdn/shop/files/AdvancedMenopausebundlelowres.png?v=1749648504&width=2048",
+          "description": "Verified CustomerAnonymous",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/bifidobacterium-lactis",
+        "https://drvegan.com/pages/lactobacillus-rhamnosus",
+        "https://drvegan.com/pages/psyllium-husk",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/schisandra-schisandra-chinensis-berry-powder",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause",
+        "https://drvegan.com/pages/dr-vegan-subscriptions"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/perimenopause-vaginal-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:33:47",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/perimenopause-vaginal-health-bundle",
+          "product_name": "Perimenopause Vaginal Health Bundle",
+          "prices": [
+            "£44.99",
+            "£42.74"
+          ],
+          "buy_once_prices": [
+            "£44.99"
+          ],
+          "subscription_prices": [
+            "£42.74"
+          ],
+          "main_price": "£50.98",
+          "compare_price": "£50.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/Perimenopausevaginalhealthbundle.png?v=1749648688&width=2048",
+          "description": "Verified CustomerShirley Daly",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/common-signs-of-perimenopause",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/sea-moss",
+        "https://drvegan.com/pages/lemon-balm",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/sage-leaf-extract",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/vitamin-b6",
+        "https://drvegan.com/pages/Lactobacillus-Crispatus",
+        "https://drvegan.com/pages/cranberry-vaccinium-macrocarpon",
+        "https://drvegan.com/pages/Lactobacillus-Reuteri",
+        "https://drvegan.com/pages/sea-buckthorn",
+        "https://drvegan.com/pages/stinging-nettle",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:33:56",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+          "product_name": "Comprehensive Bone & Body Support Bundle",
+          "prices": [
+            "£79.99",
+            "£75.99"
+          ],
+          "buy_once_prices": [
+            "£79.99"
+          ],
+          "subscription_prices": [
+            "£75.99"
+          ],
+          "main_price": "£88.87",
+          "compare_price": "£88.87",
+          "main_image": "https://drvegan.com/cdn/shop/files/osteo_protein_bundle_low_res.png?v=1757670552&width=2048",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/why-is-bone-health-so-important-in-menopause",
+        "https://drvegan.com/blogs/recipes/anti-inflammatory-smoothie-bowl",
+        "https://drvegan.com/blogs/recipes/quinoa-kale-salad",
+        "https://drvegan.com/blogs/recipes/creamy-sweet-potato-red-lentil-stew",
+        "https://drvegan.com/blogs/recipes/protein-powered-breakfast-bowl-ve",
+        "https://drvegan.com/blogs/recipes/warm-protein-lunch-bowl-ve",
+        "https://drvegan.com/blogs/recipes/creamy-protein-mushroom-pasta-ve",
+        "https://drvegan.com/pages/calcium",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/turmeric-root-curcuma-longa",
+        "https://drvegan.com/pages/vitamin-k2",
+        "https://drvegan.com/pages/Lactobacillus-Reuteri",
+        "https://drvegan.com/pages/pea-protein",
+        "https://drvegan.com/pages/pumpkin-seed-protein",
+        "https://drvegan.com/pages/hemp-protein"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/ultimate-gut-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:34:07",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/ultimate-gut-health-bundle",
+          "product_name": "Ultimate Gut Health Bundle",
+          "prices": [
+            "£66.99",
+            "£63.64"
+          ],
+          "buy_once_prices": [
+            "£66.99"
+          ],
+          "subscription_prices": [
+            "£63.64"
+          ],
+          "main_price": "£74.97",
+          "compare_price": "£74.97",
+          "main_image": "https://drvegan.com/cdn/shop/files/Comprehensivedigestivehealthbundle.png?v=1749648732&width=2048",
+          "description": "Verified CustomerLynn Bee",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/gastro-aid",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/latest-gut-health-research-ibs-causes-and-symptoms",
+        "https://drvegan.com/products/gut-health-bundle",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/pages/milk-thistle-silybum-marianum-l-1",
+        "https://drvegan.com/pages/fennel-seed-extract-foeniculum-vulgare",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/inulin",
+        "https://drvegan.com/pages/psyllium-husk",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/bifidobacterium-lactis",
+        "https://drvegan.com/pages/amla-berry",
+        "https://drvegan.com/pages/caraway-seeds",
+        "https://drvegan.com/pages/digestive-enzymes",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menopause-vaginal-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:34:17",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menopause-vaginal-health-bundle",
+          "product_name": "Menopause Vaginal Health Bundle",
+          "prices": [
+            "£44.99",
+            "£42.74"
+          ],
+          "buy_once_prices": [
+            "£44.99"
+          ],
+          "subscription_prices": [
+            "£42.74"
+          ],
+          "main_price": "£50.98",
+          "compare_price": "£50.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/MenopausevaginalhealthBundle.png?v=1749648661&width=2048",
+          "description": "Verified CustomerClare",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/pages/Lactobacillus-Crispatus",
+        "https://drvegan.com/pages/Lactobacillus-Reuteri",
+        "https://drvegan.com/pages/cranberry-vaccinium-macrocarpon",
+        "https://drvegan.com/pages/sea-buckthorn",
+        "https://drvegan.com/pages/stinging-nettle",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/gut-works"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/kids-promulti",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:34:29",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/kids-promulti",
+          "product_name": "Kid's ProMulti",
+          "prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50",
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "buy_once_prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50"
+          ],
+          "subscription_prices": [
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Kid_sProMultilowres.png?v=1754579208&width=2048",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/nutrition-for-children-at-different-developmental-stages",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/lactobacillus-rhamnosus",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/vitamin-k2",
+        "https://drvegan.com/pages/boron",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/blogs/articles/how-to-improve-children-s-focus-concentration",
+        "https://drvegan.com/blogs/articles/are-supplements-necessary-for-children",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/ph-hero",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:34:50",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/ph-hero",
+          "product_name": "pH Hero®",
+          "prices": [
+            "£28.99",
+            "£54.99",
+            "£77.99",
+            "£24.64",
+            "£48.12",
+            "£70.19"
+          ],
+          "buy_once_prices": [
+            "£28.99",
+            "£54.99",
+            "£77.99"
+          ],
+          "subscription_prices": [
+            "£24.64",
+            "£48.12",
+            "£70.19"
+          ],
+          "main_price": "£28.99",
+          "compare_price": "£28.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/pHHero.png?v=1749646736&width=2048",
+          "description": "Verified CustomerClare",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/menopause-vaginal-health-bundle",
+        "https://drvegan.com/products/perimenopause-vaginal-health-bundle",
+        "https://drvegan.com/products/female-balance-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/the-impact-of-vaginal-health-on-women-new-research",
+        "https://drvegan.com/pages/cranberry-vaccinium-macrocarpon",
+        "https://drvegan.com/pages/stinging-nettle",
+        "https://drvegan.com/pages/sea-buckthorn",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/pms-hero",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/blogs/articles/how-to-prevent-a-uti",
+        "https://drvegan.com/blogs/articles/vaginal-dryness-causes-symptoms-remedies",
+        "https://drvegan.com/blogs/articles/what-is-bacterial-vaginosis",
+        "https://drvegan.com/blogs/articles/how-your-gut-and-vagina-are-linked",
+        "https://drvegan.com/blogs/articles/the-role-of-nutrition-in-vaginal-and-bladder-health",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/debloat-detox",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:35:00",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/debloat-detox",
+          "product_name": "Debloat & Detox",
+          "prices": [
+            "£18.99",
+            "£35.99",
+            "£50.99",
+            "£16.14",
+            "£31.49",
+            "£45.89"
+          ],
+          "buy_once_prices": [
+            "£18.99",
+            "£35.99",
+            "£50.99"
+          ],
+          "subscription_prices": [
+            "£16.14",
+            "£31.49",
+            "£45.89"
+          ],
+          "main_price": "£18.99",
+          "compare_price": "£18.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Debloat_Detox.png?v=1749480923&width=2048",
+          "description": "Verified CustomerLynn Bee",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/ultimate-gut-health-bundle",
+        "https://drvegan.com/products/daily-digestion-bundle",
+        "https://drvegan.com/products/gut-health-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/bloating-the-research-how-to-beat-it",
+        "https://drvegan.com/pages/milk-thistle-silybum-marianum-l-1",
+        "https://drvegan.com/pages/fennel-seed-extract-foeniculum-vulgare",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/artichoke-cynara-scolymus-leaf-extract",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/products/gastroaid",
+        "https://drvegan.com/blogs/articles/why-is-everyone-talking-about-milk-thistle",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/pages/about",
+        "https://drvegan.com/pages/diet-profile",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/blogs/articles/10-practical-tips-to-reduce-bloating"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/female-balance-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:35:12",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/female-balance-bundle",
+          "product_name": "Female Balance Bundle",
+          "prices": [
+            "£40.99",
+            "£38.94"
+          ],
+          "buy_once_prices": [
+            "£40.99"
+          ],
+          "subscription_prices": [
+            "£38.94"
+          ],
+          "main_price": "£45.98",
+          "compare_price": "£45.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/FemaleBalanceBundle.png?v=1749648580&width=2048",
+          "description": "Verified CustomerClare",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/pms-hero",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/the-role-of-nutrition-in-vaginal-and-bladder-health",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/shatavari-root-extract-asparagus-racemosus",
+        "https://drvegan.com/pages/agnus-castus-extract-chaste-berry",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/cranberry-vaccinium-macrocarpon",
+        "https://drvegan.com/pages/sea-buckthorn",
+        "https://drvegan.com/pages/stinging-nettle",
+        "https://drvegan.com/pages/Lactobacillus-Crispatus",
+        "https://drvegan.com/pages/Lactobacillus-Reuteri",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/glucobalance",
+        "https://drvegan.com/blogs/articles/nutrition-for-pms-symptoms"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/pms-hero",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:35:21",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/pms-hero",
+          "product_name": "PMS Hero®",
+          "prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50",
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "buy_once_prices": [
+            "£19.99",
+            "£37.50",
+            "£53.50"
+          ],
+          "subscription_prices": [
+            "£16.99",
+            "£32.81",
+            "£48.15"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/PMSHero.png?v=1749482032&width=2048",
+          "description": "Verified CustomerClaudia Oprea",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/blogs/articles/10-practical-tips-to-reduce-bloating",
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/products/female-balance-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/the-surprising-life-impacts-of-pms",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/shatavari-root-extract-asparagus-racemosus",
+        "https://drvegan.com/pages/agnus-castus-extract-chaste-berry",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/glucobalance",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/blogs/articles/nutrition-for-pms-symptoms",
+        "https://drvegan.com/blogs/articles/what-is-insulin-resistance",
+        "https://drvegan.com/blogs/articles/common-uncommon-symptoms-of-diabetes",
+        "https://drvegan.com/blogs/articles/why-is-iron-so-important-particularly-for-women",
+        "https://drvegan.com/blogs/articles/5-things-nutritionists-wish-all-women-knew"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/pregnancy",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:35:36",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/pregnancy",
+          "product_name": "Pregnancy Multinutrient",
+          "prices": [
+            "£23.99",
+            "£45.50",
+            "£64.50",
+            "£20.39",
+            "£39.81",
+            "£58.05"
+          ],
+          "buy_once_prices": [
+            "£23.99",
+            "£45.50",
+            "£64.50"
+          ],
+          "subscription_prices": [
+            "£20.39",
+            "£39.81",
+            "£58.05"
+          ],
+          "main_price": "£23.99",
+          "compare_price": "£23.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/PregnancyMultinutrient.png?v=1749482076&width=2048",
+          "description": "Verified CustomerHanna-Liisa",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/why-is-folic-acid-so-important-in-pregnancy",
+        "https://drvegan.com/pages/choline",
+        "https://drvegan.com/products/choline",
+        "https://drvegan.com/pages/folic-acid-folate",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/pages/about",
+        "https://drvegan.com/pages/our-story",
+        "https://drvegan.com/pages/diet-profile",
+        "https://drvegan.com/blogs/articles/nutritionist-advice-for-a-healthy-pregnancy",
+        "https://drvegan.com/blogs/articles/the-benefits-of-choline-and-where-to-find-it",
+        "https://drvegan.com/blogs/articles/is-it-ok-to-go-plant-based-while-pregnant",
+        "https://drvegan.com/blogs/articles/a-guide-to-postpartum-nutrition",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/bone-muscle-support",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:35:45",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/bone-muscle-support",
+          "product_name": "Bone & Muscle Support",
+          "prices": [
+            "£17.99",
+            "£33.99",
+            "£48.50",
+            "£15.29",
+            "£29.74",
+            "£43.65"
+          ],
+          "buy_once_prices": [
+            "£17.99",
+            "£33.99",
+            "£48.50"
+          ],
+          "subscription_prices": [
+            "£15.29",
+            "£29.74",
+            "£43.65"
+          ],
+          "main_price": "£17.99",
+          "compare_price": "£17.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Bone_MuscleSupport.png?v=1749480453&width=2048",
+          "description": "Verified CustomerClaudia Oprea",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/calcium",
+        "https://drvegan.com/pages/vitamins-minerals",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/vitamin-k2",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/informed-sport-certified",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/blogs/articles/why-is-bone-health-so-important-in-menopause",
+        "https://drvegan.com/blogs/articles/why-exercise-helps-through-menopause",
+        "https://drvegan.com/blogs/articles/magnesium-the-mineral-superhero",
+        "https://drvegan.com/blogs/articles/how-do-i-know-if-im-deficient-in-magnesium",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/ashwagandha-ksm-66",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:35:55",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/ashwagandha-ksm-66",
+          "product_name": "Ashwagandha KSM-66®",
+          "prices": [
+            "£12.99",
+            "£24.50",
+            "£34.99",
+            "£11.04",
+            "£21.44",
+            "£31.49"
+          ],
+          "buy_once_prices": [
+            "£12.99",
+            "£24.50",
+            "£34.99"
+          ],
+          "subscription_prices": [
+            "£11.04",
+            "£21.44",
+            "£31.49"
+          ],
+          "main_price": "£12.99",
+          "compare_price": "£12.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/AshwagandhaKSM-66_e9121520-935d-4f06-935d-5454df18b2f6.png?v=1749480357&width=2048",
+          "description": "AshwagandhaDR.VEGAN®Our Ashwagandha KSM-66® is 100% organic and the most clinically trialled form of Ashwagandha.500mgStandard Ashwagandha supplements200mg",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/de-stress-and-sleep-bundle",
+        "https://drvegan.com/products/menopause-support-bundle",
+        "https://drvegan.com/products/ultimate-sleep-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/vegan-nights-relax-sleep",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/blogs/articles/what-is-cortisol",
+        "https://drvegan.com/blogs/articles/5-adaptogens-that-can-change-your-life",
+        "https://drvegan.com/blogs/articles/foods-and-vitamins-to-help-relieve-anxiety",
+        "https://drvegan.com/blogs/articles/8-surprising-benefits-of-ashwagandha",
+        "https://drvegan.com/blogs/articles/do-probiotics-help-with-sleep-and-stress",
+        "https://drvegan.com/blogs/articles/are-women-more-likely-to-experience-mental-health-issues-than-men",
+        "https://drvegan.com/blogs/articles/happy-hormones-explained",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/pms-blood-sugar-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:36:04",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/pms-blood-sugar-bundle",
+          "product_name": "PMS & Blood Sugar Bundle",
+          "prices": [
+            "£37.99",
+            "£36.09"
+          ],
+          "buy_once_prices": [
+            "£37.99"
+          ],
+          "subscription_prices": [
+            "£36.09"
+          ],
+          "main_price": "£41.98",
+          "compare_price": "£41.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/PCOSBundle.png?v=1749484652&width=2048",
+          "description": "Verified CustomerConal Dunn",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/pms-hero",
+        "https://drvegan.com/products/glucobalance",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/symptoms-of-high-and-low-blood-sugar?_pos=1&_psq=blood%20sugar&_ss=e&_v=1.0",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/shatavari-root-extract-asparagus-racemosus",
+        "https://drvegan.com/pages/agnus-castus-extract-chaste-berry",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/chromium",
+        "https://drvegan.com/pages/ceylon-cinnamon-bark-extract-cinnamomum-zeylanicum",
+        "https://drvegan.com/pages/bitter-melon-momordica-charantia",
+        "https://drvegan.com/pages/fenugreek-seed-extract-trigonella-foenum-graecum-1",
+        "https://drvegan.com/pages/inositol",
+        "https://drvegan.com/pages/alpha-lipoic-acid",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/products/hair-saviour"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/menopause-support-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:36:15",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/menopause-support-bundle",
+          "product_name": "Menopause Support Bundle",
+          "prices": [
+            "£30.99",
+            "£29.44"
+          ],
+          "buy_once_prices": [
+            "£30.99"
+          ],
+          "subscription_prices": [
+            "£29.44"
+          ],
+          "main_price": "£34.98",
+          "compare_price": "£34.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/MenopauseSupportBundle.png?v=1749484337&width=2048",
+          "description": "Verified CustomerEsther Clarke",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/ashwagandha-ksm-66%C2%AE-root-extract-withania-somnifera",
+        "https://drvegan.com/pages/red-clover",
+        "https://drvegan.com/pages/dong-quai-root",
+        "https://drvegan.com/pages/wild-yam",
+        "https://drvegan.com/pages/maca-root-extract",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/blogs/articles/surgical-induced-menopause-what-you-need-to-know",
+        "https://drvegan.com/blogs/articles/8-surprising-benefits-of-ashwagandha",
+        "https://drvegan.com/blogs/articles/foods-and-vitamins-to-help-relieve-anxiety"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/iron-vitamin-c",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:37:31",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/iron-vitamin-c",
+          "product_name": "Gentle Iron & Vitamin C",
+          "prices": [
+            "£8.99",
+            "£16.99",
+            "£23.99",
+            "£7.64",
+            "£14.87",
+            "£21.59"
+          ],
+          "buy_once_prices": [
+            "£8.99",
+            "£16.99",
+            "£23.99"
+          ],
+          "subscription_prices": [
+            "£7.64",
+            "£14.87",
+            "£21.59"
+          ],
+          "main_price": "£8.99",
+          "compare_price": "£8.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/GentleIron_VitaminC.png?v=1760621791&width=2048",
+          "description": "IronVitamin CIronVitamin CDR.VEGAN®Our Iron is in an absorbable form (Ferrous Fumarate), ideal for those with sensitive stomachs or on plant-based diets.18mgStandard Iron Supplements15mgDR.VEGAN®Our Gentle Iron (18mg) is combined with Vitamin C (80mg) for maximum absorption.80mgStandard Iron & Vitamin C Supplements40mg",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/pages/iron",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/pms-hero",
+        "https://drvegan.com/products/vitamin-b12",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/pages/about",
+        "https://drvegan.com/pages/diet-profile",
+        "https://drvegan.com/blogs/articles/why-is-iron-so-important-particularly-for-women",
+        "https://drvegan.com/blogs/articles/the-surprising-life-impacts-of-pms",
+        "https://drvegan.com/blogs/articles/5-things-nutritionists-wish-all-women-knew",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/magnesium-citrate",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:37:41",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/magnesium-citrate",
+          "product_name": "Magnesium Citrate",
+          "prices": [
+            "£8.99",
+            "£16.99",
+            "£23.99",
+            "£7.64",
+            "£14.87",
+            "£21.59"
+          ],
+          "buy_once_prices": [
+            "£8.99",
+            "£16.99",
+            "£23.99"
+          ],
+          "subscription_prices": [
+            "£7.64",
+            "£14.87",
+            "£21.59"
+          ],
+          "main_price": "£8.99",
+          "compare_price": "£8.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Magnesium.png?v=1749481454&width=2048",
+          "description": "Magnesium CitrateDR.VEGAN®Our pure Magnesium Citrate provides 400mg elemental magnesium per serving, withzero additives.400mgStandard Magnesium Citrate supplements250mg",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/muscle-joint-support-bundle",
+        "https://drvegan.com/products/ultimate-sleep-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/blogs/articles/magnesium-the-mineral-superhero",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/bone-muscle-support",
+        "https://drvegan.com/blogs/articles/how-do-i-know-if-im-deficient-in-magnesium",
+        "https://drvegan.com/blogs/articles/which-type-of-magnesium-is-right-for-you",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/choline",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:37:55",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/choline",
+          "product_name": "Choline",
+          "prices": [
+            "£8.99",
+            "£16.99",
+            "£23.99",
+            "£7.64",
+            "£14.87",
+            "£21.59"
+          ],
+          "buy_once_prices": [
+            "£8.99",
+            "£16.99",
+            "£23.99"
+          ],
+          "subscription_prices": [
+            "£7.64",
+            "£14.87",
+            "£21.59"
+          ],
+          "main_price": "£8.99",
+          "compare_price": "£8.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Choline.png?v=1749480631&width=2048",
+          "description": "CholineDR.VEGAN®Our Choline (Bitartrate) is in a bioavailable form, so it is gentle on the stomach and effective.600mgStandard Choline supplements250mg",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/blogs/articles/the-best-pregnancy-diet",
+        "https://drvegan.com/products/comprehensive-pregnancy-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/choline",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/pregnancy",
+        "https://drvegan.com/blogs/articles/the-benefits-of-choline-and-where-to-find-it",
+        "https://drvegan.com/blogs/articles/is-it-ok-to-go-plant-based-while-pregnant",
+        "https://drvegan.com/blogs/articles/top-6-foods-every-vegan-should-eat-and-why",
+        "https://drvegan.com/pages/how-our-choline-works-1",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/glucobalance",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:38:06",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/glucobalance",
+          "product_name": "GlucoBalance®",
+          "prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99",
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "buy_once_prices": [
+            "£21.99",
+            "£41.50",
+            "£58.99"
+          ],
+          "subscription_prices": [
+            "£18.69",
+            "£36.31",
+            "£53.09"
+          ],
+          "main_price": "£21.99",
+          "compare_price": "£21.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/GlucoBalance.png?v=1749481139&width=2048",
+          "description": "Verified CustomerConal Dunn",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/pms-blood-sugar-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/symptoms-of-high-and-low-blood-sugar?_pos=1&_psq=blood%20sugar&_ss=e&_v=1.0",
+        "https://drvegan.com/pages/ceylon-cinnamon-bark-extract-cinnamomum-zeylanicum",
+        "https://drvegan.com/pages/bitter-melon-momordica-charantia",
+        "https://drvegan.com/pages/chromium",
+        "https://drvegan.com/pages/fenugreek-seed-extract-trigonella-foenum-graecum-1",
+        "https://drvegan.com/pages/alpha-lipoic-acid",
+        "https://drvegan.com/pages/inositol",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/magnesium-citrate",
+        "https://drvegan.com/pages/why-is-glucobalance-so-good",
+        "https://drvegan.com/blogs/articles/symptoms-of-high-and-low-blood-sugar",
+        "https://drvegan.com/blogs/articles/common-uncommon-symptoms-of-diabetes",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/ultraenergy",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:38:16",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/ultraenergy",
+          "product_name": "UltraEnergy",
+          "prices": [
+            "£11.99",
+            "£22.50",
+            "£31.99",
+            "£10.19",
+            "£19.69",
+            "£28.79"
+          ],
+          "buy_once_prices": [
+            "£11.99",
+            "£22.50",
+            "£31.99"
+          ],
+          "subscription_prices": [
+            "£10.19",
+            "£19.69",
+            "£28.79"
+          ],
+          "main_price": "£11.99",
+          "compare_price": "£11.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/UltraEnergy.png?v=1749482857&width=2048",
+          "description": "Verified CustomerTerrance Self",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/why-ultra-energy-is-so-good",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/choline",
+        "https://drvegan.com/pages/vitamin-b1",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/blogs/articles/tips-to-boost-your-energy",
+        "https://drvegan.com/blogs/recipes/granola-bars-ve",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/comprehensive-pregnancy-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:38:26",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/comprehensive-pregnancy-bundle",
+          "product_name": "Comprehensive Pregnancy Bundle",
+          "prices": [
+            "£48.99",
+            "£46.54"
+          ],
+          "buy_once_prices": [
+            "£48.99"
+          ],
+          "subscription_prices": [
+            "£46.54"
+          ],
+          "main_price": "£54.97",
+          "compare_price": "£54.97",
+          "main_image": "https://drvegan.com/cdn/shop/files/PregnancyBundle.png?v=1749484035&width=2048",
+          "description": "Verified CustomerNicola Langham",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/pregnancy",
+        "https://drvegan.com/blogs/articles/the-best-pregnancy-diet",
+        "https://drvegan.com/products/choline",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/why-is-folic-acid-so-important-in-pregnancy",
+        "https://drvegan.com/pages/algae-omega-schizochytrium-sp",
+        "https://drvegan.com/pages/choline",
+        "https://drvegan.com/pages/folic-acid-folate",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/pages/about",
+        "https://drvegan.com/pages/our-story",
+        "https://drvegan.com/pages/diet-profile",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/magnesium-glycinate",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:38:36",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/magnesium-glycinate",
+          "product_name": "Magnesium Glycinate",
+          "prices": [
+            "£12.99",
+            "£24.50",
+            "£34.99",
+            "£11.04",
+            "£21.44",
+            "£31.49"
+          ],
+          "buy_once_prices": [
+            "£12.99",
+            "£24.50",
+            "£34.99"
+          ],
+          "subscription_prices": [
+            "£11.04",
+            "£21.44",
+            "£31.49"
+          ],
+          "main_price": "£12.99",
+          "compare_price": "£12.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/MagnesiumGlycinate.png?v=1748965428&width=2048",
+          "description": "Magnesium GlycinateDR.VEGAN®Our pure Magnesium Glycinate provides 300mg elemental magnesium per serving, withzero additives.300mgStandard Magnesium Glycinate supplements200mg",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/magnesium",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/vegan-nights-relax-sleep",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/blogs/articles/8-most-common-questions-about-magnesium-glycinate",
+        "https://drvegan.com/blogs/articles/which-type-of-magnesium-is-right-for-you",
+        "https://drvegan.com/blogs/articles/how-do-i-know-if-im-deficient-in-magnesium",
+        "https://drvegan.com/blogs/articles/magnesium-the-mineral-superhero",
+        "https://drvegan.com/blogs/articles/magnesium-and-adhd-all-you-need-to-know",
+        "https://drvegan.com/blogs/articles/why-women-need-magnesium",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/hydrate-lemon"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/skin-saviour",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:38:49",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/skin-saviour",
+          "product_name": "Skin Saviour®",
+          "prices": [
+            "£24.99",
+            "£46.99",
+            "£66.99",
+            "£21.24",
+            "£41.12",
+            "£60.29"
+          ],
+          "buy_once_prices": [
+            "£24.99",
+            "£46.99",
+            "£66.99"
+          ],
+          "subscription_prices": [
+            "£21.24",
+            "£41.12",
+            "£60.29"
+          ],
+          "main_price": "£24.99",
+          "compare_price": "£24.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/SkinSaviour.png?v=1749646692&width=2048",
+          "description": "Verified CustomerMichelle",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/beauty-bundle",
+        "https://drvegan.com/products/skin-health-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/44-is-the-age-we-notice-signs-of-ageing",
+        "https://drvegan.com/pages/grape-seed-extract-vitis-vinifera",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/pages/lactobacillus-acidophilus",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/blogs/articles/animal-ingredients-in-supplements-what-you-need-to-know?_pos=2&_sid=0d4cf07c3&_ss=r",
+        "https://drvegan.com/blogs/articles/the-truth-about-collagen",
+        "https://drvegan.com/blogs/articles/5-natural-remedies-to-help-treat-rosacea",
+        "https://drvegan.com/blogs/articles/natural-ways-to-treat-eczema",
+        "https://drvegan.com/blogs/articles/how-menopause-impacts-your-skin-and-hair",
+        "https://drvegan.com/blogs/articles/caring-for-your-skin-during-menopause",
+        "https://drvegan.com/blogs/articles/how-to-get-clear-skin-for-men-a-mens-skincare-guide",
+        "https://drvegan.com/pages/cf"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/fibre-complex",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:39:01",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/fibre-complex",
+          "product_name": "Fibre Complex",
+          "prices": [
+            "£14.99",
+            "£27.99",
+            "£39.99",
+            "£12.74",
+            "£24.49",
+            "£35.99"
+          ],
+          "buy_once_prices": [
+            "£14.99",
+            "£27.99",
+            "£39.99"
+          ],
+          "subscription_prices": [
+            "£12.74",
+            "£24.49",
+            "£35.99"
+          ],
+          "main_price": "£14.99",
+          "compare_price": "£14.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/FibreComplex.png?v=1749480958&width=2048",
+          "description": "Verified CustomerMR R D TANNER",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/do-i-need-to-take-a-fibre-supplement",
+        "https://drvegan.com/pages/psyllium-husk",
+        "https://drvegan.com/pages/beetroot-fibre",
+        "https://drvegan.com/pages/apple-fibre",
+        "https://drvegan.com/pages/blueberry-fibre",
+        "https://drvegan.com/pages/carrot-daucus-carota",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/blogs/articles/tips-for-improving-healthy-cholesterol",
+        "https://drvegan.com/blogs/articles/common-uncommon-symptoms-of-diabetes",
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/blogs/articles/why-your-gut-is-your-second-brain",
+        "https://drvegan.com/blogs/articles/how-gut-health-affects-the-skin",
+        "https://drvegan.com/blogs/articles/the-impact-of-your-gut-on-your-heart",
+        "https://drvegan.com/products/glucobalance",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/blogs/articles/the-essential-role-of-fibre-in-your-diet"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/gastroaid",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:39:11",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/gastroaid",
+          "product_name": "GastroAid®",
+          "prices": [
+            "£26.99",
+            "£50.99",
+            "£72.50",
+            "£22.94",
+            "£44.62",
+            "£65.25"
+          ],
+          "buy_once_prices": [
+            "£26.99",
+            "£50.99",
+            "£72.50"
+          ],
+          "subscription_prices": [
+            "£22.94",
+            "£44.62",
+            "£65.25"
+          ],
+          "main_price": "£26.99",
+          "compare_price": "£26.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/GastroAidlowres.png?v=1749481011&width=2048",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/ultimate-gut-health-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/gerd-and-acid-reflux",
+        "https://drvegan.com/pages/amla-berry",
+        "https://drvegan.com/pages/digestive-enzymes",
+        "https://drvegan.com/pages/artichoke-cynara-scolymus-leaf-extract",
+        "https://drvegan.com/pages/fennel-seed-extract-foeniculum-vulgare",
+        "https://drvegan.com/pages/caraway-seeds",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/fibre-complex",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/blogs/articles/what-is-acid-reflux-and-how-to-avoid-it",
+        "https://drvegan.com/blogs/articles/the-foods-that-help-and-harm-acid-reflux",
+        "https://drvegan.com/blogs/articles/most-common-gi-conditions-explained",
+        "https://drvegan.com/blogs/articles/how-to-naturally-improve-digestion",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/daily-digestion-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:39:20",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/daily-digestion-bundle",
+          "product_name": "Daily Digestion Bundle",
+          "prices": [
+            "£34.99",
+            "£33.24"
+          ],
+          "buy_once_prices": [
+            "£34.99"
+          ],
+          "subscription_prices": [
+            "£33.24"
+          ],
+          "main_price": "£38.98",
+          "compare_price": "£38.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/DailyDigestionBundle.png?v=1749484078&width=2048",
+          "description": "Verified CustomerLynn Bee",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/daily-multi-vitamins-do-they-work",
+        "https://drvegan.com/pages/milk-thistle-silybum-marianum-l-1",
+        "https://drvegan.com/pages/vitamin-k2",
+        "https://drvegan.com/pages/zinc",
+        "https://drvegan.com/pages/fennel-seed-extract-foeniculum-vulgare",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/vitamin-b1",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/pregnancy",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/blogs/articles/should-i-take-a-multivitamin-every-day"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/heartpro",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:39:30",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/heartpro",
+          "product_name": "HeartPro®",
+          "prices": [
+            "£24.99",
+            "£46.99",
+            "£66.99",
+            "£21.24",
+            "£41.12",
+            "£60.29"
+          ],
+          "buy_once_prices": [
+            "£24.99",
+            "£46.99",
+            "£66.99"
+          ],
+          "subscription_prices": [
+            "£21.24",
+            "£41.12",
+            "£60.29"
+          ],
+          "main_price": "£24.99",
+          "compare_price": "£24.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/HeartPro.png?v=1749646439&width=2048",
+          "description": "Verified CustomerZoe",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/heart-health-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/how-heartpro-works",
+        "https://drvegan.com/pages/phytosterol-complex",
+        "https://drvegan.com/pages/monacolin-k-red-yeast-extract",
+        "https://drvegan.com/pages/ginger-root-zingiber-officinale",
+        "https://drvegan.com/pages/chromium",
+        "https://drvegan.com/pages/coq-10-coenzyme-q10",
+        "https://drvegan.com/pages/black-garlic-allium-sativum-l",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/mens-promulti",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/glucobalance",
+        "https://drvegan.com/blogs/articles/how-to-keep-your-heart-healthy",
+        "https://drvegan.com/blogs/articles/tips-for-improving-healthy-cholesterol",
+        "https://drvegan.com/blogs/articles/signs-you-re-at-risk-of-a-heart-attack",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/debloat-detox-sample-pack",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:39:42",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/debloat-detox-sample-pack",
+          "product_name": "Debloat & Detox Travel Pack",
+          "prices": [
+            "£6.99",
+            "£12.99"
+          ],
+          "buy_once_prices": [
+            "£6.99",
+            "£12.99"
+          ],
+          "subscription_prices": [],
+          "main_price": "£13.99",
+          "compare_price": "£13.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/Debloat_Detoxsamplepackshot.png?v=1736333440&width=2048",
+          "description": "Verified CustomerLynn Bee",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/blogs/articles/bloating-the-research-how-to-beat-it",
+        "https://drvegan.com/blogs/articles/tagged/liver",
+        "https://drvegan.com/blogs/articles/why-is-everyone-talking-about-milk-thistle",
+        "https://drvegan.com/pages/burdock-arctium-lappa-l-root",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/milk-thistle-silybum-marianum-l-1",
+        "https://drvegan.com/pages/fennel-seed-extract-foeniculum-vulgare",
+        "https://drvegan.com/pages/dandelion",
+        "https://drvegan.com/pages/artichoke-cynara-scolymus-leaf-extract",
+        "https://drvegan.com/products/stay-calm-sample-pack",
+        "https://drvegan.com/products/gut-health-bundle",
+        "https://drvegan.com/pages/gut-punch",
+        "https://drvegan.com/blogs/articles/10-practical-tips-to-reduce-bloating",
+        "https://drvegan.com/blogs/articles/the-reasons-you-might-be-bloated",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/heart-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:39:53",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/heart-health-bundle",
+          "product_name": "Heart Health Bundle",
+          "prices": [
+            "£41.99",
+            "£39.89"
+          ],
+          "buy_once_prices": [
+            "£41.99"
+          ],
+          "subscription_prices": [
+            "£39.89"
+          ],
+          "main_price": "£46.98",
+          "compare_price": "£46.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/HeartHealthBundle.png?v=1749648625&width=2048",
+          "description": "Verified CustomerNicola Langham",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/how-heartpro-works",
+        "https://drvegan.com/pages/algae-omega-schizochytrium-sp",
+        "https://drvegan.com/pages/monacolin-k-red-yeast-extract",
+        "https://drvegan.com/pages/phytosterol-complex",
+        "https://drvegan.com/pages/chromium",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/glucobalance",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/blogs/articles/how-to-keep-your-heart-healthy",
+        "https://drvegan.com/blogs/articles/tips-for-improving-healthy-cholesterol",
+        "https://drvegan.com/blogs/articles/why-algae-omega-3-is-better-than-fish-oil-1",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/skin-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:01",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/skin-health-bundle",
+          "product_name": "Skin Health Bundle",
+          "prices": [
+            "£41.99",
+            "£39.89"
+          ],
+          "buy_once_prices": [
+            "£41.99"
+          ],
+          "subscription_prices": [
+            "£39.89"
+          ],
+          "main_price": "£46.99",
+          "compare_price": "£46.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/SkinHealthBundle.png?v=1749648713&width=2048",
+          "description": "Verified CustomerNicola Langham",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/44-is-the-age-we-notice-signs-of-ageing",
+        "https://drvegan.com/pages/algae-omega-schizochytrium-sp",
+        "https://drvegan.com/pages/grape-seed-extract-vitis-vinifera",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/blogs/articles/animal-ingredients-in-supplements-what-you-need-to-know?_pos=2&_sid=0d4cf07c3&_ss=r",
+        "https://drvegan.com/blogs/articles/why-your-gut-is-your-second-brain",
+        "rosaceahttps://drvegan.com/blogs/articles/5-natural-remedies-to-help-treat-rosacea",
+        "https://drvegan.com/blogs/articles/how-to-get-rid-of-acne",
+        "https://drvegan.com/blogs/articles/natural-ways-to-treat-eczema",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/blogs/articles/the-truth-about-collagen",
+        "https://drvegan.com/blogs/articles/why-algae-omega-3-is-better-than-fish-oil-1"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/brain-fuel",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:10",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/brain-fuel",
+          "product_name": "Brain Fuel®",
+          "prices": [
+            "£25.99",
+            "£48.99",
+            "£69.99",
+            "£22.09",
+            "£42.87",
+            "£62.99"
+          ],
+          "buy_once_prices": [
+            "£25.99",
+            "£48.99",
+            "£69.99"
+          ],
+          "subscription_prices": [
+            "£22.09",
+            "£42.87",
+            "£62.99"
+          ],
+          "main_price": "£25.99",
+          "compare_price": "£25.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/BrainFuel.png?v=1749480583&width=2048",
+          "description": "Verified CustomerG.P.",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/brain-health-bundle",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/why-bacomind%C2%AE-will-enhance-your-productivity",
+        "https://drvegan.com/pages/bacomind%C2%AE-bacopa-monnieri-extract",
+        "https://drvegan.com/pages/ginkgo-biloba",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/phosphatidylserine",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/blogs/articles/recommended-nutrients-for-brain-health",
+        "https://drvegan.com/blogs/articles/foods-and-nutrients-to-improve-your-brain-function",
+        "https://drvegan.com/blogs/articles/why-your-gut-is-your-second-brain?_pos=3&_psq=brain&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/foods-that-can-negatively-impact-your-memory",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/screen-eyes",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:19",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/screen-eyes",
+          "product_name": "Screen Eyes™",
+          "prices": [
+            "£23.99",
+            "£45.50",
+            "£64.50",
+            "£20.39",
+            "£39.81",
+            "£58.05"
+          ],
+          "buy_once_prices": [
+            "£23.99",
+            "£45.50",
+            "£64.50"
+          ],
+          "subscription_prices": [
+            "£20.39",
+            "£39.81",
+            "£58.05"
+          ],
+          "main_price": "£23.99",
+          "compare_price": "£23.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/ScreenEyes.png?v=1749482109&width=2048",
+          "description": "Verified CustomerTanya Spilsbury",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/top-tips-for-excellent-eye-health",
+        "https://drvegan.com/pages/marigold-extract",
+        "https://drvegan.com/pages/bilberry-extract-vaccinium-uliginosum",
+        "https://drvegan.com/pages/vitamin-a",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/pages/why-screen-eyes%E2%84%A2-is-so-good-1",
+        "https://drvegan.com/blogs/articles/7-key-nutrients-to-support-your-vision-and-eye-health",
+        "https://drvegan.com/blogs/articles/top-6-foods-every-vegan-should-eat-and-why",
+        "https://drvegan.com/blogs/articles/best-alternatives-to-caffeine",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/ashwagandha-ksm-66"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/immunity-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:29",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/immunity-bundle",
+          "product_name": "Immunity Bundle",
+          "prices": [
+            "£25.99",
+            "£24.69"
+          ],
+          "buy_once_prices": [
+            "£25.99"
+          ],
+          "subscription_prices": [
+            "£24.69"
+          ],
+          "main_price": "£28.98",
+          "compare_price": "£28.98",
+          "main_image": "https://drvegan.com/cdn/shop/files/ImmunityBundle.png?v=1749484270&width=2048",
+          "description": "Verified CustomerNATALIE WILLS",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/vitamin-d",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/blogs/articles/should-i-take-a-multivitamin-every-day",
+        "https://drvegan.com/pages/vitamin-d3",
+        "https://drvegan.com/pages/vitamin-b1",
+        "https://drvegan.com/pages/vitamin-k2",
+        "https://drvegan.com/pages/vitamin-a",
+        "https://drvegan.com/pages/vitamin-c",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/pregnancy",
+        "https://drvegan.com/blogs/articles/daily-multi-vitamins-do-they-work",
+        "https://drvegan.com/blogs/articles/why-is-vitamin-d-so-important",
+        "https://drvegan.com/blogs/articles/does-sex-help-your-immune-system",
+        "https://drvegan.com/blogs/articles/how-do-i-know-if-im-deficient-in-vitamin-d"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/dr-vegan-water-bottle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:37",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/dr-vegan-water-bottle",
+          "product_name": "DR.VEGAN®Shaker Bottle",
+          "prices": [
+            "£14.99"
+          ],
+          "buy_once_prices": [
+            "£14.99"
+          ],
+          "subscription_prices": [],
+          "main_price": "£14.99",
+          "compare_price": null,
+          "main_image": "https://drvegan.com/cdn/shop/files/DR.VEGANBottle.png?v=1756135050&width=2048",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/dr-vegan-whisk",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:45",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/dr-vegan-whisk",
+          "product_name": "DR.VEGAN®Whisk",
+          "prices": [
+            "£9.99"
+          ],
+          "buy_once_prices": [
+            "£9.99"
+          ],
+          "subscription_prices": [],
+          "main_price": "£9.99",
+          "compare_price": null,
+          "main_image": "https://drvegan.com/cdn/shop/files/DR.VEGAN_WHISK.png?v=1757425609&width=2048",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/our-story",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:51",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/diet-profile",
+        "https://drvegan.com/pages/virtual-nutritionist",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/cf",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:40:58",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/dr-vegan-subscriptions",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:41:07",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/magnesium-citrate",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/vitamin-b12",
+        "https://drvegan.com/products/vitamin-d",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/products/skin-saviour",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/menopause-hub",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:41:16",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/blogs/articles/common-signs-of-perimenopause",
+        "https://drvegan.com/blogs/articles/12-most-common-symptoms-of-menopause",
+        "https://drvegan.com/blogs/articles/what-is-postmenopause",
+        "https://drvegan.com/blogs/articles/surgical-induced-menopause-what-you-need-to-know",
+        "https://drvegan.com/blogs/articles/nutrition-for-the-menopause",
+        "https://drvegan.com/blogs/articles/5-benefits-of-a-plant-based-diet-during-menopause",
+        "https://drvegan.com/blogs/articles/best-changes-in-diet-during-menopause",
+        "https://drvegan.com/blogs/real-stories/sarah-parish",
+        "https://drvegan.com/blogs/real-stories/how-i-lost-5-stone-through-menopause",
+        "https://drvegan.com/blogs/real-stories/claires-health-journey-navigating-horrific-menopause-symptoms",
+        "https://drvegan.com/blogs/real-stories/a-positive-view-of-menopause",
+        "https://drvegan.com/blogs/real-stories/alisons-journey",
+        "https://drvegan.com/blogs/real-stories/janines-journey-finding-confidence-during-the-menopause",
+        "https://drvegan.com/blogs/real-stories/caroles-health-journey-from-postnatal-depression-to-menopause",
+        "https://drvegan.com/blogs/real-stories/emma-skeets-emma-on-surgically-induced-menopause",
+        "https://drvegan.com/blogs/articles/7-myths-about-menopause",
+        "https://drvegan.com/blogs/articles/how-to-talk-to-your-doctor-about-menopause",
+        "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause",
+        "https://drvegan.com/blogs/articles/get-menopause-ready-in-your-30s",
+        "https://drvegan.com/blogs/articles/understanding-perimenopause-periods"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/gut-punch",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:41:27",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/blogs/articles/latest-gut-health-research-ibs-causes-and-symptoms",
+        "https://drvegan.com/blogs/articles/signs-of-bad-gut-health",
+        "https://drvegan.com/blogs/articles/how-to-look-after-your-gut-through-your-diet",
+        "https://drvegan.com/blogs/articles/what-does-your-poo-say-about-your-health",
+        "https://drvegan.com/blogs/articles/bloating-how-to-beat-it",
+        "https://drvegan.com/blogs/articles/most-common-gi-conditions-explained",
+        "https://drvegan.com/blogs/articles/8-most-common-questions-about-probiotics",
+        "https://drvegan.com/blogs/articles/why-your-gut-is-your-second-brain",
+        "https://drvegan.com/blogs/articles/what-do-your-farts-say-about-your-health",
+        "https://drvegan.com/blogs/articles/what-are-probiotics",
+        "https://drvegan.com/blogs/articles/why-prebiotics-are-important",
+        "https://drvegan.com/blogs/articles/are-womens-gut-microbiome-different-to-men",
+        "https://drvegan.com/blogs/articles/should-you-be-taking-probiotics-after-antibiotics",
+        "https://drvegan.com/blogs/articles/ibs-explained",
+        "https://drvegan.com/blogs/articles/what-is-inflammatory-bowel-disease-ibd",
+        "https://drvegan.com/blogs/articles/best-probiotics-for-ibs",
+        "https://drvegan.com/products/debloat-detox",
+        "https://drvegan.com/blogs/articles/how-to-naturally-improve-digestion",
+        "https://drvegan.com/blogs/articles/gut-health-and-erectile-dysfunction",
+        "https://drvegan.com/blogs/articles/diverticulitis-diet-and-treatments-for-relief"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/refer-a-friend",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:41:38",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/brain-health-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:41:48",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/brain-health-bundle",
+          "product_name": "Brain Health Bundle",
+          "prices": [
+            "£42.99",
+            "£40.84"
+          ],
+          "buy_once_prices": [
+            "£42.99"
+          ],
+          "subscription_prices": [
+            "£40.84"
+          ],
+          "main_price": "£47.99",
+          "compare_price": "£47.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/BrainHealthBundle.png?v=1749483964&width=2048",
+          "description": "Verified CustomerNicola Langham",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/blogs/articles/why-bacomind%C2%AE-will-enhance-your-productivity",
+        "https://drvegan.com/pages/bacomind%C2%AE-bacopa-monnieri-extract",
+        "https://drvegan.com/pages/ginkgo-biloba",
+        "https://drvegan.com/pages/algae-omega-schizochytrium-sp",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/magnesium-citrate",
+        "https://drvegan.com/products/ultraenergy",
+        "https://drvegan.com/blogs/articles/recommended-nutrients-for-brain-health",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/blogs/articles/why-algae-omega-3-is-better-than-fish-oil-1",
+        "https://drvegan.com/blogs/articles/foods-that-can-negatively-impact-your-memory",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/products/vegan-essentials-bundle",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:41:59",
+      "products": [
+        {
+          "page_url": "https://drvegan.com/products/vegan-essentials-bundle",
+          "product_name": "Vegan Essentials Bundle",
+          "prices": [
+            "£27.99",
+            "£26.59"
+          ],
+          "buy_once_prices": [
+            "£27.99"
+          ],
+          "subscription_prices": [
+            "£26.59"
+          ],
+          "main_price": "£31.99",
+          "compare_price": "£31.99",
+          "main_image": "https://drvegan.com/cdn/shop/files/VeganEssentialsBundle.png?v=1749484754&width=2048",
+          "description": "Verified CustomerNicola Langham",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://drvegan.com/products/vitamin-b12",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/pages/shipping-policy",
+        "https://drvegan.com/pages/returns-policy",
+        "https://drvegan.com/pages/diet-profile",
+        "https://drvegan.com/pages/algae-omega-schizochytrium-sp",
+        "https://drvegan.com/pages/vitamin-b12",
+        "https://drvegan.com/pages/dr-vegan-subscriptions",
+        "https://drvegan.com/products/choline",
+        "https://drvegan.com/products/gut-health-bundle",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/blogs/articles/5-signs-you-may-be-low-in-vitamin-b12",
+        "https://drvegan.com/blogs/articles/why-algae-omega-3-is-better-than-fish-oil-1",
+        "https://drvegan.com/pages/why-our-vitamin-b12-is-so-good-1",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/shipping-policy",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:42:06",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/returns-policy",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:42:14",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/terms-of-service",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm",
+        "https://drvegan.com/products/perimenofriend",
+        "https://drvegan.com/products/menofriend"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/blogs/articles/why-algae-omega-3-is-better-than-fish-oil-1",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:42:25",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/blogs/articles/why-omega-3-is-essential-for-peri-and-menopausal-women",
+        "https://drvegan.com/products/menofriend",
+        "https://drvegan.com/blogs/articles/7-ingredients-in-supplements-to-avoid",
+        "https://drvegan.com/products/vegan-essentials-bundle",
+        "https://drvegan.com/collections/all",
+        "https://drvegan.com/blogs/articles/animal-ingredients-in-supplements-what-you-need-to-know?_pos=3&_psq=supplements&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/3-big-myths-about-supplements?_pos=2&_psq=supplements&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/why-you-re-wasting-money-on-turmeric",
+        "https://drvegan.com/blogs/articles/AGRIS+2pure.atu.ie+2ScienceDirect+2ScienceDirect",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/algae-omega-schizochytrium-sp",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:42:32",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/ingredients",
+        "https://drvegan.com/pages/foods",
+        "https://drvegan.com/blogs/articles/healthy-fats-vs-unhealthy-fats",
+        "https://drvegan.com/products/ph-hero",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/pages/how-our-omega-3-works-1",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:42:39",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/foods",
+        "https://drvegan.com/blogs/articles/healthy-fats-vs-unhealthy-fats",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/pages/health-goals",
+        "https://drvegan.com/blogs/articles/five-nutrition-tips-for-growing-strong-nails?_pos=1&_sid=c397493fc&_ss=r",
+        "https://drvegan.com/blogs/articles/key-nutrients-for-healthy-hair",
+        "https://drvegan.com/blogs/articles/how-to-get-rid-of-acne",
+        "https://drvegan.com/blogs/articles/how-to-beat-chronic-fatigue",
+        "https://drvegan.com/blogs/articles/suffering-poor-sleep-youre-not-alone",
+        "https://drvegan.com/blogs/articles/why-do-50-of-us-struggle-to-focus-and-concentrate",
+        "https://drvegan.com/collections/all",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/heartpro",
+        "https://drvegan.com/blogs/articles/how-to-keep-your-heart-healthy",
+        "https://drvegan.com/blogs/articles/signs-you-re-at-risk-of-a-heart-attack",
+        "https://drvegan.com/blogs/articles/best-foods-and-vitamins-for-glowing-skin",
+        "https://drvegan.com/blogs/articles/natural-ways-to-treat-eczema",
+        "https://drvegan.com/blogs/articles/what-supplements-to-take-for-brain-health?_pos=1&_sid=6ece4dd42&_ss=r",
+        "https://drvegan.com/search?q=communication+between+brain+cells"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/blogs/articles/recommended-nutrients-for-brain-health",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:42:47",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/about",
+        "https://drvegan.com/products/brain-fuel",
+        "https://drvegan.com/blogs/articles/brain-fog-how-to-clear-the-mental-haze",
+        "https://drvegan.com/blogs/articles/foods-and-nutrients-to-improve-your-brain-function",
+        "https://drvegan.com/pages/foods",
+        "https://drvegan.com/pages/health-goals",
+        "https://drvegan.com/blogs/articles/what-is-omega-3-good-for",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/choline",
+        "https://drvegan.com/pages/vitamins-minerals",
+        "https://drvegan.com/blogs/articles/mistakes-to-avoid-on-a-vegetarian-or-vegan-diet",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/brain-health-bundle",
+        "https://drvegan.com/blogs/articles/the-benefits-of-choline-and-where-to-find-it?_pos=2&_sid=d13b33bbe&_ss=r",
+        "https://drvegan.com/blogs/articles/signs-of-bad-gut-health",
+        "https://drvegan.com/blogs/articles/common-uncommon-symptoms-of-diabetes",
+        "https://drvegan.com/blogs/articles/how-to-keep-your-heart-healthy",
+        "https://drvegan.com/blogs/articles/symptoms-of-high-and-low-blood-sugar",
+        "https://drvegan.com/blogs/articles/which-foods-can-help-improve-your-mood",
+        "https://drvegan.com/blogs/recipes/raspberry-smoothie-bowl-ve"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:42:58",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/our-story",
+        "https://drvegan.com/blogs/articles/menopause-in-the-workplace-how-to-support-employees",
+        "https://drvegan.com/pages/contact",
+        "https://drvegan.com/pages/about",
+        "https://drvegan.com/blogs/articles/why-is-testosterone-important-for-women",
+        "https://drvegan.com/blogs/articles/what-is-vaginal-atrophy",
+        "https://drvegan.com/blogs/articles/shocking-effects-of-menopause",
+        "https://drvegan.com/blogs/articles/impact-of-diet-lifestyle-on-anxiety-during-menopause",
+        "https://drvegan.com/blogs/articles/how-menopause-affects-adhd",
+        "https://drvegan.com/blogs/articles/nutrition-for-the-menopause",
+        "https://drvegan.com/blogs/articles/8-unusual-symptoms-of-the-menopause",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/wild-yam",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:43:05",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/ingredients",
+        "https://drvegan.com/blogs/articles/shocking-effects-of-menopause",
+        "https://drvegan.com/blogs/articles/12-most-common-symptoms-of-menopause",
+        "https://drvegan.com/blogs/articles/8-unusual-symptoms-of-the-menopause",
+        "https://drvegan.com/blogs/articles/why-is-bone-health-so-important-in-menopause",
+        "https://drvegan.com/blogs/articles/menopause-resources-to-start-the-conversation-at-home-and-work",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/dong-quai-root",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:43:14",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/ingredients",
+        "https://drvegan.com/blogs/articles/dong-quai-the-female-ginseng",
+        "https://drvegan.com/blogs/articles/shocking-effects-of-menopause",
+        "https://drvegan.com/blogs/articles/12-most-common-symptoms-of-menopause",
+        "https://drvegan.com/blogs/articles/8-unusual-symptoms-of-the-menopause",
+        "https://drvegan.com/blogs/articles/the-surprising-life-impacts-of-pms",
+        "https://drvegan.com/blogs/articles/nutrition-for-pms-symptoms",
+        "https://drvegan.com/blogs/articles/what-pms-type-are-you",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/red-clover",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:43:21",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/ingredients",
+        "https://drvegan.com/pages/foods",
+        "https://drvegan.com/blogs/articles/watch-menopause-roundtable-with-sarah-parish",
+        "https://drvegan.com/blogs/articles/8-unusual-symptoms-of-the-menopause",
+        "https://drvegan.com/blogs/articles/why-is-bone-health-so-important-in-menopause",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/pages/maca-root-extract",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:43:30",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/pages/ingredients",
+        "https://drvegan.com/blogs/articles/12-most-common-symptoms-of-menopause",
+        "https://drvegan.com/blogs/articles/8-unusual-symptoms-of-the-menopause",
+        "https://drvegan.com/blogs/articles/menopause-resources-to-start-the-conversation-at-home-and-work",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple",
+        "https://drvegan.com/products/hydrate-duo",
+        "https://drvegan.com/products/vegan-omega-3",
+        "https://drvegan.com/products/daily-multi-vitamin",
+        "https://drvegan.com/products/gut-works",
+        "https://drvegan.com/products/hair-saviour",
+        "https://drvegan.com/products/stay-calm"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/blogs/articles/how-to-know-if-you-re-starting-menopause",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:43:37",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/blogs/articles/best-changes-in-diet-during-menopause",
+        "https://drvegan.com/collections/perimenopause",
+        "https://drvegan.com/blogs/articles/common-signs-of-perimenopause",
+        "https://drvegan.com/blogs/articles/what-pms-type-are-you",
+        "https://drvegan.com/blogs/articles/8-severe-symptoms-of-menopause-what-are-the-worst-symptoms",
+        "https://drvegan.com/blogs/articles/12-most-common-symptoms-of-menopause",
+        "https://drvegan.com/blogs/articles/get-menopause-ready-in-your-30s",
+        "https://drvegan.com/blogs/articles/10-practical-tips-to-reduce-bloating?_pos=1&_sid=b01cf75c6&_ss=r",
+        "https://drvegan.com/blogs/articles/8-unusual-symptoms-of-the-menopause?_pos=1&_sid=7d109dcd2&_ss=r",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/blogs/articles/understanding-perimenopause-periods",
+        "https://drvegan.com/blogs/articles/the-surprising-life-impacts-of-pms",
+        "https://drvegan.com/blogs/articles/the-reasons-you-might-be-bloated?_pos=4&_sid=610314947&_ss=r",
+        "https://drvegan.com/blogs/articles/shocking-effects-of-menopause",
+        "https://drvegan.com/blogs/articles/get-menopause-ready-in-your-30s?_pos=3&_sid=8cfdc4076&_ss=r",
+        "https://drvegan.com/blogs/articles/nutrition-for-pms-symptoms",
+        "https://drvegan.com/pages/foods",
+        "https://drvegan.com/blogs/recipes/chickpea-and-coriander-falafel-v?_pos=1&_sid=009b3ef4f&_ss=r",
+        "https://drvegan.com/blogs/articles/the-proven-health-benefits-of-soya",
+        "https://drvegan.com/blogs/articles/best-protein-sources-on-a-plant-based-diet?_pos=3&_sid=6200892b8&_ss=r"
+      ]
+    },
+    {
+      "url": "https://drvegan.com/blogs/articles/surgical-induced-menopause-what-you-need-to-know",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:43:45",
+      "products": [],
+      "links_found": [
+        "https://drvegan.com/blogs/articles/what-is-endometriosis",
+        "https://drvegan.com/blogs/articles/why-is-bone-health-so-important-in-menopause",
+        "https://drvegan.com/blogs/articles/what-is-the-estrobolome",
+        "https://drvegan.com/blogs/articles/vaginal-dryness-causes-symptoms-remedies",
+        "https://drvegan.com/blogs/articles/12-most-common-symptoms-of-menopause?_pos=3&_psq=common&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/8-unusual-symptoms-of-the-menopause?_pos=2&_psq=unusual&_ss=e&_v=1.0",
+        "https://drvegan.com/blogs/articles/why-exercise-helps-through-menopause",
+        "https://drvegan.com/pages/menopause-hub",
+        "https://drvegan.com/blogs/articles/nutrition-for-the-menopause",
+        "https://drvegan.com/blogs/articles/shocking-effects-of-menopause",
+        "https://drvegan.com/pages/cf",
+        "https://drvegan.com/products/dr-vegan-water-bottle",
+        "https://drvegan.com/products/dr-vegan-whisk",
+        "https://drvegan.com/products/osteofriend",
+        "https://drvegan.com/products/protein-creatine-superblend",
+        "https://drvegan.com/products/curcumin-turmeric",
+        "https://drvegan.com/products/ashwagandha-ksm-66",
+        "https://drvegan.com/products/magnesium-glycinate",
+        "https://drvegan.com/products/hydrate-lemon",
+        "https://drvegan.com/products/hydrate-orange-pineapple"
+      ]
+    }
+  ]
+}

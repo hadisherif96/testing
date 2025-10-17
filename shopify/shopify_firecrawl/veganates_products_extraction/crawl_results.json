@@ -1,0 +1,204 @@
+{
+  "crawl_time": "2025-10-17 19:51:33",
+  "total_pages": 9,
+  "product_pages": 4,
+  "total_products": 4,
+  "is_shopify": true,
+  "pages": [
+    {
+      "url": "https://www.veganates.com/",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:16",
+      "products": [],
+      "links_found": [
+        "https://www.veganates.com/collections/all",
+        "https://www.veganates.com/products/essential-multivitamins-for-vegans",
+        "https://www.veganates.com/products/organic-turmeric-curcumin-ginger-supplement-with-black-pepper",
+        "https://www.veganates.com/products/vegan-vitamin-d3-2500iu-k2-mk7-100%C2%B5g-with-elderberry-extract",
+        "https://www.veganates.com/products/organic-ashwagandha-ksm-66%C2%AE-with-5-withanolides-in-plastic-free-eco-packaging",
+        "https://www.veganates.com/blogs/exploring-the-benefits-of-veganates-multivitamins/exploring-the-benefits-of-vegan-multivitamins",
+        "https://www.veganates.com/collections/supplements-for-vegans"
+      ]
+    },
+    {
+      "url": "https://www.veganates.com/collections/all",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:18",
+      "products": [],
+      "links_found": [
+        "https://www.veganates.com/products/essential-multivitamins-for-vegans",
+        "https://www.veganates.com/products/organic-ashwagandha-ksm-66%C2%AE-with-5-withanolides-in-plastic-free-eco-packaging",
+        "https://www.veganates.com/products/organic-turmeric-curcumin-ginger-supplement-with-black-pepper",
+        "https://www.veganates.com/products/vegan-vitamin-d3-2500iu-k2-mk7-100%C2%B5g-with-elderberry-extract"
+      ]
+    },
+    {
+      "url": "https://www.veganates.com/products/essential-multivitamins-for-vegans",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:21",
+      "products": [
+        {
+          "page_url": "https://www.veganates.com/products/essential-multivitamins-for-vegans",
+          "product_name": "Ethical UK Vegan Multivitamin Supplement NOW IN Recycled Glass Jars",
+          "prices": [
+            "£19.99",
+            "£17.99"
+          ],
+          "buy_once_prices": [
+            "£19.99"
+          ],
+          "subscription_prices": [
+            "£17.99"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://www.veganates.com/cdn/shop/files/veganates-multivitamin-supplement-ethical-uk-vegan-multivitamin-supplement-now-in-recycled-glass-jars-31552737869860.png?v=1692907330&width=1946",
+          "description": "Subscribe now to receive 50% off your first order and 10% off all future orders with Free Shipping. No Minimum Contract - Cancel Anytime",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": []
+    },
+    {
+      "url": "https://www.veganates.com/products/organic-turmeric-curcumin-ginger-supplement-with-black-pepper",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:23",
+      "products": [
+        {
+          "page_url": "https://www.veganates.com/products/organic-turmeric-curcumin-ginger-supplement-with-black-pepper",
+          "product_name": "Organic Vegan Turmeric Curcumin & Ginger Supplement with Black Pepper in Plastic Free Biodegradable Tub",
+          "prices": [
+            "£16.99",
+            "£16.19"
+          ],
+          "buy_once_prices": [
+            "£16.99"
+          ],
+          "subscription_prices": [
+            "£16.19"
+          ],
+          "main_price": "£16.99",
+          "compare_price": "£16.99",
+          "main_image": "https://www.veganates.com/cdn/shop/products/veganates-multivitamin-supplement-organic-vegan-turmeric-curcumin-ginger-supplement-with-black-pepper-for-superior-absorption-90-high-strength-capsules-in-plastic-free-biodegradable-p_f0bc6291-cd16-41c5-ac3d-cec667b1df62.jpg?v=1627983350&width=1946",
+          "description": "",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": []
+    },
+    {
+      "url": "https://www.veganates.com/products/vegan-vitamin-d3-2500iu-k2-mk7-100%C2%B5g-with-elderberry-extract",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:26",
+      "products": [
+        {
+          "page_url": "https://www.veganates.com/products/vegan-vitamin-d3-2500iu-k2-mk7-100%C2%B5g-with-elderberry-extract",
+          "product_name": "Vegan Vitamin D3 2500IU & K2 MK7 100µg With Elderberry Extract in Plastic Free Biodegradable Tub",
+          "prices": [
+            "£15.99",
+            "£17.99"
+          ],
+          "buy_once_prices": [
+            "£15.99"
+          ],
+          "subscription_prices": [
+            "£17.99"
+          ],
+          "main_price": "£15.99",
+          "compare_price": "£15.99",
+          "main_image": "https://www.veganates.com/cdn/shop/products/veganates-multivitamin-supplement-vegan-vitamin-d3-2500iu-k2-mk7-100-g-with-elderberry-extract-for-additional-immune-support-90-capsules-3-months-supply-28495289581604.jpg?v=1627981944&width=1946",
+          "description": "Subscribe now to receive 50% off your first order and 10% off all future orders with Free Shipping. No Minimum Contract - Cancel Anytime",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": [
+        "https://www.veganates.com/products/essential-multivitamins-for-vegans",
+        "https://www.veganates.com/products/organic-ashwagandha-ksm-66%C2%AE-with-5-withanolides-in-plastic-free-eco-packaging",
+        "https://www.veganates.com/products/organic-turmeric-curcumin-ginger-supplement-with-black-pepper"
+      ]
+    },
+    {
+      "url": "https://www.veganates.com/products/organic-ashwagandha-ksm-66%C2%AE-with-5-withanolides-in-plastic-free-eco-packaging",
+      "is_product_page": true,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:28",
+      "products": [
+        {
+          "page_url": "https://www.veganates.com/products/organic-ashwagandha-ksm-66%C2%AE-with-5-withanolides-in-plastic-free-eco-packaging",
+          "product_name": "Organic Ashwagandha KSM-66 | 500mg Vegan Capsules | 60 Capsules 2 Months Supply",
+          "prices": [
+            "£19.99",
+            "£17.99"
+          ],
+          "buy_once_prices": [
+            "£19.99"
+          ],
+          "subscription_prices": [
+            "£17.99"
+          ],
+          "main_price": "£19.99",
+          "compare_price": "£19.99",
+          "main_image": "https://www.veganates.com/cdn/shop/products/veganates-organic-ashwagandha-ksm-66-with-5-withanolides-in-plastic-free-eco-packaging-29522896977956.jpg?v=1645549854&width=1946",
+          "description": "Subscribe now to receive 50% off your first order and 10% off all future orders with Free Shipping. No Minimum Contract - Cancel Anytime",
+          "is_shopify": true,
+          "shopify_id": null,
+          "additional_images": []
+        }
+      ],
+      "links_found": []
+    },
+    {
+      "url": "https://www.veganates.com/collections/supplements-for-vegans",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:30",
+      "products": [],
+      "links_found": [
+        "https://www.veganates.com/products/essential-multivitamins-for-vegans",
+        "https://www.veganates.com/products/organic-turmeric-curcumin-ginger-supplement-with-black-pepper",
+        "https://www.veganates.com/products/vegan-vitamin-d3-2500iu-k2-mk7-100%C2%B5g-with-elderberry-extract",
+        "https://www.veganates.com/products/organic-ashwagandha-ksm-66%C2%AE-with-5-withanolides-in-plastic-free-eco-packaging"
+      ]
+    },
+    {
+      "url": "https://www.veganates.com/blogs/exploring-the-benefits-of-veganates-multivitamins/exploring-the-benefits-of-vegan-multivitamins",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:32",
+      "products": [],
+      "links_found": [
+        "https://www.veganates.com/blogs/exploring-the-benefits-of-veganates-multivitamins"
+      ]
+    },
+    {
+      "url": "https://www.veganates.com/blogs/exploring-the-benefits-of-veganates-multivitamins",
+      "is_product_page": false,
+      "is_shopify_site": true,
+      "page_title": "",
+      "crawled_at": "2025-10-17 19:51:33",
+      "products": [],
+      "links_found": [
+        "https://www.veganates.com/blogs/exploring-the-benefits-of-veganates-multivitamins/exploring-the-benefits-of-vegan-multivitamins"
+      ]
+    }
+  ]
+}
