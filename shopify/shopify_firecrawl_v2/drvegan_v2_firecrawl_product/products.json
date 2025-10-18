@@ -1,0 +1,4530 @@
+{
+  "total_products": 29,
+  "products": [
+    {
+      "page_url": "https://drvegan.com/products/vegan-omega-3",
+      "product_id": 6617575686282,
+      "product_name": "Vegan Omega 3",
+      "handle": "vegan-omega-3",
+      "description": "With Vitamin E Algae plant source No fishy smell",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/VeganOmega3.png?v=1749483032",
+      "variants": [
+        {
+          "id": 55404479906165,
+          "title": "1 pouch",
+          "weight": 57,
+          "available": false,
+          "buy_once_price": "30.11",
+          "compare_at_price": null,
+          "subscription_price": "25.59",
+          "subscription_options": [
+            {
+              "plan_id": 710698303861,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "25.59",
+              "compare_at_price": "30.11",
+              "per_delivery_price": "25.59"
+            }
+          ]
+        },
+        {
+          "id": 55901529211253,
+          "title": "2 pouches",
+          "weight": 57,
+          "available": false,
+          "buy_once_price": "56.82",
+          "compare_at_price": "60.21",
+          "subscription_price": "49.72",
+          "subscription_options": [
+            {
+              "plan_id": 710698336629,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "49.72",
+              "compare_at_price": "56.82",
+              "per_delivery_price": "49.72"
+            }
+          ]
+        },
+        {
+          "id": 55404479938933,
+          "title": "3 pouches",
+          "weight": 57,
+          "available": false,
+          "buy_once_price": "80.76",
+          "compare_at_price": "90.32",
+          "subscription_price": "72.68",
+          "subscription_options": [
+            {
+              "plan_id": 710698369397,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "72.68",
+              "compare_at_price": "80.76",
+              "per_delivery_price": "72.68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/menofriend",
+      "product_id": 5398877405322,
+      "product_name": "MenoFriend®",
+      "handle": "menofriend",
+      "description": "Psychological function & mental performance Combats tiredness & fatigue Hormone regulation & mood Taken for 60 days or more 89% find it effective If you're in perimenopause, we recommend PeriMenoFriend®.",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenoFriend.png?v=1749481588",
+      "variants": [
+        {
+          "id": 55311760392565,
+          "title": "1 pouch",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "30.99",
+          "compare_at_price": null,
+          "subscription_price": "26.34",
+          "subscription_options": [
+            {
+              "plan_id": 710696599925,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "26.34",
+              "compare_at_price": "30.99",
+              "per_delivery_price": "26.34"
+            }
+          ]
+        },
+        {
+          "id": 55901346005365,
+          "title": "2 pouches",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "56.82",
+          "compare_at_price": "60.21",
+          "subscription_price": "49.72",
+          "subscription_options": [
+            {
+              "plan_id": 710696632693,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "49.72",
+              "compare_at_price": "56.82",
+              "per_delivery_price": "49.72"
+            }
+          ]
+        },
+        {
+          "id": 55311760425333,
+          "title": "3 pouches",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "73.99",
+          "compare_at_price": null,
+          "subscription_price": "66.59",
+          "subscription_options": [
+            {
+              "plan_id": 710696665461,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "66.59",
+              "compare_at_price": "73.99",
+              "per_delivery_price": "66.59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenofriend",
+      "product_id": 7875191275658,
+      "product_name": "PeriMenoFriend®",
+      "handle": "perimenofriend",
+      "description": "Hormonal balance Mood and cognitive health Scientifically proven ingredients Reduction in tiredness & fatigue Immune support",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PeriMenoFriend.png?v=1749481942",
+      "variants": [
+        {
+          "id": 55311780315509,
+          "title": "1 pouch",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "30.99",
+          "compare_at_price": null,
+          "subscription_price": "26.34",
+          "subscription_options": [
+            {
+              "plan_id": 710697288053,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "26.34",
+              "compare_at_price": "30.99",
+              "per_delivery_price": "26.34"
+            }
+          ]
+        },
+        {
+          "id": 55901370646901,
+          "title": "2 pouches",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "56.82",
+          "compare_at_price": "60.21",
+          "subscription_price": "49.72",
+          "subscription_options": [
+            {
+              "plan_id": 710697320821,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "49.72",
+              "compare_at_price": "56.82",
+              "per_delivery_price": "49.72"
+            }
+          ]
+        },
+        {
+          "id": 55311780348277,
+          "title": "3 pouches",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "73.99",
+          "compare_at_price": null,
+          "subscription_price": "66.59",
+          "subscription_options": [
+            {
+              "plan_id": 710697353589,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "66.59",
+              "compare_at_price": "73.99",
+              "per_delivery_price": "66.59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/osteofriend",
+      "product_id": 15302127583605,
+      "product_name": "OsteoFriend®",
+      "handle": "osteofriend",
+      "description": "Bone density & strength Muscles & connective tissues 19 active ingredients & cofactors High-strength Calcium, Magnesium, Vitamin D3 & K2 With Curcumin, MSM, L-Lysine Unflavoured",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/OsteoFriendlowres.png?v=1754579212",
+      "variants": [
+        {
+          "id": 55819187585397,
+          "title": "1 pouch",
+          "weight": 264,
+          "available": false,
+          "buy_once_price": "47.91",
+          "compare_at_price": null,
+          "subscription_price": "40.72",
+          "subscription_options": [
+            {
+              "plan_id": 710701875573,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            }
+          ]
+        },
+        {
+          "id": 55901676274037,
+          "title": "2 pouches",
+          "weight": 264,
+          "available": false,
+          "buy_once_price": "90.35",
+          "compare_at_price": "95.81",
+          "subscription_price": "79.06",
+          "subscription_options": [
+            {
+              "plan_id": 710701908341,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "79.06",
+              "compare_at_price": "90.35",
+              "per_delivery_price": "79.06"
+            }
+          ]
+        },
+        {
+          "id": 55819187618165,
+          "title": "3 pouches",
+          "weight": 69,
+          "available": false,
+          "buy_once_price": "128.68",
+          "compare_at_price": "143.72",
+          "subscription_price": "115.81",
+          "subscription_options": [
+            {
+              "plan_id": 710701941109,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "115.81",
+              "compare_at_price": "128.68",
+              "per_delivery_price": "115.81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/protein-creatine-superblend",
+      "product_id": 15226808795509,
+      "product_name": "Protein & Creatine Superblend",
+      "handle": "protein-creatine-superblend",
+      "description": "Muscle growth & mass Performance 3 types of vegan protein Pure creatine monohydrate Unflavoured, zero additives",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Protein_CreatineSuperblendlowres.png?v=1757670606",
+      "variants": [
+        {
+          "id": 55699289440629,
+          "title": "450g",
+          "weight": 450,
+          "available": false,
+          "buy_once_price": "36.95",
+          "compare_at_price": null,
+          "subscription_price": "31.41",
+          "subscription_options": [
+            {
+              "plan_id": 710702334325,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "31.41",
+              "compare_at_price": "36.95",
+              "per_delivery_price": "31.41"
+            },
+            {
+              "plan_id": 710702563701,
+              "plan_name": "Every 15 days",
+              "group_name": "Every 15 days",
+              "discount_percent": 15,
+              "price": "31.41",
+              "compare_at_price": "36.95",
+              "per_delivery_price": "31.41"
+            },
+            {
+              "plan_id": 710702694773,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "31.41",
+              "compare_at_price": "36.95",
+              "per_delivery_price": "31.41"
+            },
+            {
+              "plan_id": 710703153525,
+              "plan_name": "Delivery every 105 days",
+              "group_name": "Delivery every 105 days",
+              "discount_percent": 15,
+              "price": "31.41",
+              "compare_at_price": "36.95",
+              "per_delivery_price": "31.41"
+            },
+            {
+              "plan_id": 710703087989,
+              "plan_name": "Delivery every 115 days",
+              "group_name": "Delivery every 115 days",
+              "discount_percent": 15,
+              "price": "31.41",
+              "compare_at_price": "36.95",
+              "per_delivery_price": "31.41"
+            }
+          ]
+        },
+        {
+          "id": 55699289473397,
+          "title": "900g",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "69.81",
+          "compare_at_price": "73.91",
+          "subscription_price": "59.34",
+          "subscription_options": [
+            {
+              "plan_id": 710702334325,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "59.34",
+              "compare_at_price": "69.81",
+              "per_delivery_price": "59.34"
+            },
+            {
+              "plan_id": 710702694773,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "59.34",
+              "compare_at_price": "69.81",
+              "per_delivery_price": "59.34"
+            },
+            {
+              "plan_id": 710703153525,
+              "plan_name": "Delivery every 105 days",
+              "group_name": "Delivery every 105 days",
+              "discount_percent": 15,
+              "price": "59.34",
+              "compare_at_price": "69.81",
+              "per_delivery_price": "59.34"
+            },
+            {
+              "plan_id": 710703087989,
+              "plan_name": "Delivery every 115 days",
+              "group_name": "Delivery every 115 days",
+              "discount_percent": 15,
+              "price": "59.34",
+              "compare_at_price": "69.81",
+              "per_delivery_price": "59.34"
+            }
+          ]
+        },
+        {
+          "id": 55707406238069,
+          "title": "1350g",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "99.26",
+          "compare_at_price": "110.86",
+          "subscription_price": "84.37",
+          "subscription_options": [
+            {
+              "plan_id": 710702334325,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "84.37",
+              "compare_at_price": "99.26",
+              "per_delivery_price": "84.37"
+            },
+            {
+              "plan_id": 710702694773,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "84.37",
+              "compare_at_price": "99.26",
+              "per_delivery_price": "84.37"
+            },
+            {
+              "plan_id": 710702858613,
+              "plan_name": "Every 120 days",
+              "group_name": "Every 120 days",
+              "discount_percent": 15,
+              "price": "84.37",
+              "compare_at_price": "99.26",
+              "per_delivery_price": "84.37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/womens-promulti",
+      "product_id": 8263759429770,
+      "product_name": "Women's ProMulti",
+      "handle": "womens-promulti",
+      "description": "Brain & cognitive function Hormone regulation 28 active ingredients",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Women_sProMulti.png?v=1749646627",
+      "variants": [
+        {
+          "id": 55901279814005,
+          "title": "1 pouch",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "39.69",
+          "compare_at_price": null,
+          "subscription_price": "33.74",
+          "subscription_options": [
+            {
+              "plan_id": 710698795381,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "33.74",
+              "compare_at_price": "39.69",
+              "per_delivery_price": "33.74"
+            }
+          ]
+        },
+        {
+          "id": 55901279846773,
+          "title": "2 pouches",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "75.29",
+          "compare_at_price": "79.38",
+          "subscription_price": "65.88",
+          "subscription_options": [
+            {
+              "plan_id": 710698828149,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "65.88",
+              "compare_at_price": "75.29",
+              "per_delivery_price": "65.88"
+            }
+          ]
+        },
+        {
+          "id": 55901279879541,
+          "title": "3 pouches",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "106.78",
+          "compare_at_price": "119.07",
+          "subscription_price": "96.10",
+          "subscription_options": [
+            {
+              "plan_id": 710698860917,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "96.10",
+              "compare_at_price": "106.78",
+              "per_delivery_price": "96.10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/gut-works",
+      "product_id": 6605203570826,
+      "product_name": "Gut Works®",
+      "handle": "gut-works",
+      "description": "6 scientifically studied strains of bacteria With prebiotucs Supports healthy gut & bowels Clean, vegan gut health supplement 88% find it effective gutworks bio cultures probiotic provitalise symprove",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutWorks.png?v=1749646390",
+      "variants": [
+        {
+          "id": 55810270626165,
+          "title": "1 pouch",
+          "weight": 26,
+          "available": false,
+          "buy_once_price": "39.69",
+          "compare_at_price": null,
+          "subscription_price": "33.74",
+          "subscription_options": [
+            {
+              "plan_id": 710696796533,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "33.74",
+              "compare_at_price": "39.69",
+              "per_delivery_price": "33.74"
+            }
+          ]
+        },
+        {
+          "id": 55901676339573,
+          "title": "2 pouches",
+          "weight": 26,
+          "available": false,
+          "buy_once_price": "75.29",
+          "compare_at_price": "79.38",
+          "subscription_price": "65.88",
+          "subscription_options": [
+            {
+              "plan_id": 710696829301,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "65.88",
+              "compare_at_price": "75.29",
+              "per_delivery_price": "65.88"
+            }
+          ]
+        },
+        {
+          "id": 55810270658933,
+          "title": "3 pouches",
+          "weight": 26,
+          "available": false,
+          "buy_once_price": "106.78",
+          "compare_at_price": "119.07",
+          "subscription_price": "96.10",
+          "subscription_options": [
+            {
+              "plan_id": 710696862069,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "96.10",
+              "compare_at_price": "106.78",
+              "per_delivery_price": "96.10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/hair-saviour",
+      "product_id": 7554874835082,
+      "product_name": "Hair Saviour®",
+      "handle": "hair-saviour",
+      "description": "Fuels healthy hair growth Combats thinning & brittle hair Clinically proven AnaGain™ & Biotin Thicker, lustrous hair, with MSM & Saw Palmetto Results in 60 days, recommended by hairdressers",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/HairSaviour.png?v=1749481333",
+      "variants": [
+        {
+          "id": 55404447334773,
+          "title": "1 pouch",
+          "weight": 45,
+          "available": false,
+          "buy_once_price": "35.58",
+          "compare_at_price": null,
+          "subscription_price": "30.24",
+          "subscription_options": [
+            {
+              "plan_id": 710696993141,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "30.24",
+              "compare_at_price": "35.58",
+              "per_delivery_price": "30.24"
+            }
+          ]
+        },
+        {
+          "id": 55901477503349,
+          "title": "2 pouches",
+          "weight": 45,
+          "available": false,
+          "buy_once_price": "67.07",
+          "compare_at_price": "71.17",
+          "subscription_price": "58.69",
+          "subscription_options": [
+            {
+              "plan_id": 710697025909,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "58.69",
+              "compare_at_price": "67.07",
+              "per_delivery_price": "58.69"
+            }
+          ]
+        },
+        {
+          "id": 55404447367541,
+          "title": "3 pouches",
+          "weight": 45,
+          "available": false,
+          "buy_once_price": "95.83",
+          "compare_at_price": "106.75",
+          "subscription_price": "86.25",
+          "subscription_options": [
+            {
+              "plan_id": 710697058677,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "86.25",
+              "compare_at_price": "95.83",
+              "per_delivery_price": "86.25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-duo",
+      "product_id": 15423929352565,
+      "product_name": "Hydrate+ Duo",
+      "handle": "hydrate-duo",
+      "description": "Two delicious Hydrate+ flavours, Orange & Pineapple and Lemon Rapid optimal hydration Informed Sport Certified + 3rd party tested Endurance & recovery Electrolytes with Vitamins B12, C & amino-acids Zero stevia, sugar or artificial sweeteners",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/dual_flavour.png?v=1757662875",
+      "variants": [
+        {
+          "id": 55934804033909,
+          "title": "30 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "47.91",
+          "compare_at_price": "54.74",
+          "subscription_price": "40.72",
+          "subscription_options": [
+            {
+              "plan_id": 710705480053,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705512821,
+              "plan_name": "Every 32 days",
+              "group_name": "Every 32 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705545589,
+              "plan_name": "Every 34 days",
+              "group_name": "Every 34 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705578357,
+              "plan_name": "Every 36 days",
+              "group_name": "Every 36 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705611125,
+              "plan_name": "Every 38 days",
+              "group_name": "Every 38 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705643893,
+              "plan_name": "Every 40 days",
+              "group_name": "Every 40 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705676661,
+              "plan_name": "Every 42 days",
+              "group_name": "Every 42 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705709429,
+              "plan_name": "Every 44 days",
+              "group_name": "Every 44 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705742197,
+              "plan_name": "Every 46 days",
+              "group_name": "Every 46 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705774965,
+              "plan_name": "Every 48 days",
+              "group_name": "Every 48 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705840501,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705906037,
+              "plan_name": "Every 52 days",
+              "group_name": "Every 52 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705807733,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705873269,
+              "plan_name": "Every 70 days",
+              "group_name": "Every 70 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710706004341,
+              "plan_name": "Every 80 days",
+              "group_name": "Every 80 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705971573,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710705938805,
+              "plan_name": "Every 120 days",
+              "group_name": "Every 120 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            }
+          ]
+        },
+        {
+          "id": 55934804066677,
+          "title": "60 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "86.24",
+          "compare_at_price": "109.48",
+          "subscription_price": "73.30",
+          "subscription_options": [
+            {
+              "plan_id": 710705840501,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710705807733,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710705873269,
+              "plan_name": "Every 70 days",
+              "group_name": "Every 70 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710706004341,
+              "plan_name": "Every 80 days",
+              "group_name": "Every 80 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710705971573,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710705938805,
+              "plan_name": "Every 120 days",
+              "group_name": "Every 120 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-orange-pineapple",
+      "product_id": 15077865849205,
+      "product_name": "Hydrate+ Orange & Pineapple",
+      "handle": "hydrate-orange-pineapple",
+      "description": "Rapid optimal hydration Informed Sport Certified + 3rd party tested Endurance & recovery Electrolytes with Vitamins B12, C & amino-acids Zero stevia, sugar or artificial sweeteners",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_orange_pineappleboxlowres.png?v=1755766416",
+      "variants": [
+        {
+          "id": 55527032783221,
+          "title": "15 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "27.37",
+          "compare_at_price": null,
+          "subscription_price": "23.26",
+          "subscription_options": [
+            {
+              "plan_id": 710547374453,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710554943861,
+              "plan_name": "Every 15 days",
+              "group_name": "Every 15 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710547505525,
+              "plan_name": "Every 40 days",
+              "group_name": "Every 40 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710547702133,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710555009397,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710636405109,
+              "plan_name": "Every 70 days",
+              "group_name": "Every 70 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710636437877,
+              "plan_name": "Every 80 days",
+              "group_name": "Every 80 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710663602549,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710663569781,
+              "plan_name": "Every 120 days",
+              "group_name": "Every 120 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            }
+          ]
+        },
+        {
+          "id": 55527032815989,
+          "title": "30 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "47.91",
+          "compare_at_price": "54.74",
+          "subscription_price": "40.72",
+          "subscription_options": [
+            {
+              "plan_id": 710547374453,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710547505525,
+              "plan_name": "Every 40 days",
+              "group_name": "Every 40 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710547702133,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710555009397,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            }
+          ]
+        },
+        {
+          "id": 55825368056181,
+          "title": "60 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "86.24",
+          "compare_at_price": "109.48",
+          "subscription_price": "73.30",
+          "subscription_options": [
+            {
+              "plan_id": 710547374453,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710547505525,
+              "plan_name": "Every 40 days",
+              "group_name": "Every 40 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710547702133,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710555009397,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710636405109,
+              "plan_name": "Every 70 days",
+              "group_name": "Every 70 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710636437877,
+              "plan_name": "Every 80 days",
+              "group_name": "Every 80 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710663602549,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710663569781,
+              "plan_name": "Every 120 days",
+              "group_name": "Every 120 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/hydrate-lemon",
+      "product_id": 15095836508533,
+      "product_name": "Hydrate+ Lemon",
+      "handle": "hydrate-lemon",
+      "description": "Rapid optimal hydration Informed Sport Certified + 3rd party tested Endurance & recovery Electrolytes with Vitamins B12, C & amino-acids Zero stevia, sugar or artificial sweeteners 'Shake it to wake it'",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Hydrate_lemon_box_low_res.png?v=1755766411",
+      "variants": [
+        {
+          "id": 55554734883189,
+          "title": "15 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "27.37",
+          "compare_at_price": null,
+          "subscription_price": "23.26",
+          "subscription_options": [
+            {
+              "plan_id": 710547767669,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710554911093,
+              "plan_name": "Every 15 days",
+              "group_name": "Every 15 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710548029813,
+              "plan_name": "Every 40 days",
+              "group_name": "Every 40 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710548095349,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            },
+            {
+              "plan_id": 710555042165,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            }
+          ]
+        },
+        {
+          "id": 55554734915957,
+          "title": "30 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "47.91",
+          "compare_at_price": "54.74",
+          "subscription_price": "40.72",
+          "subscription_options": [
+            {
+              "plan_id": 710547767669,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710548029813,
+              "plan_name": "Every 40 days",
+              "group_name": "Every 40 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710548095349,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            },
+            {
+              "plan_id": 710555042165,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "40.72",
+              "compare_at_price": "47.91",
+              "per_delivery_price": "40.72"
+            }
+          ]
+        },
+        {
+          "id": 55825364779381,
+          "title": "60 Sachets",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "86.24",
+          "compare_at_price": "109.48",
+          "subscription_price": "73.30",
+          "subscription_options": [
+            {
+              "plan_id": 710547767669,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710548029813,
+              "plan_name": "Every 40 days",
+              "group_name": "Every 40 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710548095349,
+              "plan_name": "Every 50 days",
+              "group_name": "Every 50 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710555042165,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710636372341,
+              "plan_name": "Every 70 days",
+              "group_name": "Every 70 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710636339573,
+              "plan_name": "Every 80 days",
+              "group_name": "Every 80 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710663504245,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            },
+            {
+              "plan_id": 710663537013,
+              "plan_name": "Every 120 days",
+              "group_name": "Every 120 days",
+              "discount_percent": 15,
+              "price": "73.30",
+              "compare_at_price": "86.24",
+              "per_delivery_price": "73.30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/muscle-joint-support-bundle",
+      "product_id": 6608838033546,
+      "product_name": "Muscle & Joint Support Bundle",
+      "handle": "muscle-joint-support-bundle",
+      "description": "Daily support for muscles and joints Award-winning Curcumin (200mg) & Turmeric (3300mg) for effective daily joint support Magnesium Citrate (400mg) for muscles support, particularly after exercise",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Muscle_JointBundle.png?v=1749484501",
+      "variants": [
+        {
+          "id": 39840483639434,
+          "title": "Default Title",
+          "weight": 88,
+          "available": false,
+          "buy_once_price": "24.99",
+          "compare_at_price": null,
+          "subscription_price": "23.74",
+          "subscription_options": [
+            {
+              "plan_id": 710250332533,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710249873781,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710246596981,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710246433141,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710254952821,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710247743861,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710260064629,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710248006005,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710249742709,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710246531445,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710246498677,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710250889589,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710252724597,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710248989045,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710246367605,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710248956277,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710255182197,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710252888437,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710259573109,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710253543797,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710248530293,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710664356213,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            },
+            {
+              "plan_id": 710664388981,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "23.74",
+              "compare_at_price": "24.99",
+              "per_delivery_price": "23.74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/curcumin-turmeric",
+      "product_id": 5418411098250,
+      "product_name": "Curcumin & Turmeric",
+      "handle": "curcumin-turmeric",
+      "description": "200mg Curcumin & 3300mg Turmeric 20x more potent than standard turmeric supplements With ginger & black pepper Highly bioavailable cucumin tumeric cucurmin",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Curcumin_Turmeric.png?v=1749480708",
+      "variants": [
+        {
+          "id": 55377194549621,
+          "title": "1 pouch",
+          "weight": 31,
+          "available": false,
+          "buy_once_price": "16.42",
+          "compare_at_price": null,
+          "subscription_price": "13.96",
+          "subscription_options": [
+            {
+              "plan_id": 710695223669,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "13.96",
+              "compare_at_price": "16.42",
+              "per_delivery_price": "13.96"
+            }
+          ]
+        },
+        {
+          "id": 55901394403701,
+          "title": "2 pouches",
+          "weight": 31,
+          "available": false,
+          "buy_once_price": "30.81",
+          "compare_at_price": "32.83",
+          "subscription_price": "26.96",
+          "subscription_options": [
+            {
+              "plan_id": 710695256437,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "26.96",
+              "compare_at_price": "30.81",
+              "per_delivery_price": "26.96"
+            }
+          ]
+        },
+        {
+          "id": 55377194582389,
+          "title": "3 pouches",
+          "weight": 31,
+          "available": false,
+          "buy_once_price": "43.80",
+          "compare_at_price": "49.25",
+          "subscription_price": "39.42",
+          "subscription_options": [
+            {
+              "plan_id": 710695289205,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "39.42",
+              "compare_at_price": "43.80",
+              "per_delivery_price": "39.42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/menopause-ultimate-calm-bundle",
+      "product_id": 7789076381834,
+      "product_name": "Menopause Ultimate Calm Bundle",
+      "handle": "menopause-ultimate-calm-bundle",
+      "description": "Award-winning duo providing 24/7 support for calm and a comfortable menopause MenoFriend® for hormone regulation and mood Stay Calm® for emotional balance and calm",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenopauseUltimateCalmBundle.png?v=1749484331",
+      "variants": [
+        {
+          "id": 43845560664202,
+          "title": "Default Title",
+          "weight": 98,
+          "available": false,
+          "buy_once_price": "52.01",
+          "compare_at_price": "57.48",
+          "subscription_price": "49.41",
+          "subscription_options": [
+            {
+              "plan_id": 710261047669,
+              "plan_name": "Delivery every 30 days with 5% discount",
+              "group_name": "Delivery every 30 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710263800181,
+              "plan_name": "Delivery every 32 days with 5% discount",
+              "group_name": "Delivery every 32 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710264881525,
+              "plan_name": "Delivery every 34 days with 5% discount",
+              "group_name": "Delivery every 34 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710263931253,
+              "plan_name": "Delivery every 36 days with 5% discount",
+              "group_name": "Delivery every 36 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710259245429,
+              "plan_name": "Delivery every 38 days with 5% discount",
+              "group_name": "Delivery every 38 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710263341429,
+              "plan_name": "Delivery every 40 days with 5% discount",
+              "group_name": "Delivery every 40 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710261997941,
+              "plan_name": "Delivery every 42 days with 5% discount",
+              "group_name": "Delivery every 42 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710259868021,
+              "plan_name": "Delivery every 44 days with 5% discount",
+              "group_name": "Delivery every 44 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710262423925,
+              "plan_name": "Delivery every 46 days with 5% discount",
+              "group_name": "Delivery every 46 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710260883829,
+              "plan_name": "Delivery every 48 days with 5% discount",
+              "group_name": "Delivery every 48 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710263734645,
+              "plan_name": "Delivery every 50 days with 5% discount",
+              "group_name": "Delivery every 50 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710262030709,
+              "plan_name": "Delivery every 52 days with 5% discount",
+              "group_name": "Delivery every 52 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710261014901,
+              "plan_name": "Delivery every 54 days with 5% discount",
+              "group_name": "Delivery every 54 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710259048821,
+              "plan_name": "Delivery every 56 days with 5% discount",
+              "group_name": "Delivery every 56 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710263832949,
+              "plan_name": "Delivery every 58 days with 5% discount",
+              "group_name": "Delivery every 58 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710265241973,
+              "plan_name": "Delivery every 60 days with 5% discount",
+              "group_name": "Delivery every 60 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710259278197,
+              "plan_name": "Delivery every 62 days with 5% discount",
+              "group_name": "Delivery every 62 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710258983285,
+              "plan_name": "Delivery every 64 days with 5% discount",
+              "group_name": "Delivery every 64 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710263210357,
+              "plan_name": "Delivery every 66 days with 5% discount",
+              "group_name": "Delivery every 66 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710259704181,
+              "plan_name": "Delivery every 68 days with 5% discount",
+              "group_name": "Delivery every 68 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710260785525,
+              "plan_name": "Delivery every 70 days with 5% discount",
+              "group_name": "Delivery every 70 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710261768565,
+              "plan_name": "Delivery every 72 days with 5% discount",
+              "group_name": "Delivery every 72 days with 5% discount",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710263406965,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710664257909,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            },
+            {
+              "plan_id": 710664225141,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "49.41",
+              "compare_at_price": "52.01",
+              "per_delivery_price": "49.41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenopause-gut-health-bundle",
+      "product_id": 8289260601482,
+      "product_name": "Perimenopause Gut Health Bundle",
+      "handle": "perimenopause-gut-health-bundle",
+      "description": "Award-winning duo for complete gut and digestive health during perimenopause PeriMenoFriend® for hormone regulation and mood Gut Works® for healthy gut and bowels",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PerimenopauseGutHealthBundlelowres.png?v=1749648682",
+      "variants": [
+        {
+          "id": 45457573904522,
+          "title": "Default Title",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "61.60",
+          "compare_at_price": "69.80",
+          "subscription_price": "58.52",
+          "subscription_options": [
+            {
+              "plan_id": 710239519093,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710234243445,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710238011765,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710233686389,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710236406133,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710234505589,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710250168693,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710231818613,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710232342901,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710241026421,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242042229,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710240108917,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710234931573,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710236995957,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242894197,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710231753077,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710237323637,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710236340597,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710238175605,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242500981,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710248399221,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664487285,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664520053,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/stay-calm",
+      "product_id": 5398878519434,
+      "product_name": "Stay Calm®",
+      "handle": "stay-calm",
+      "description": "Emotional balance & calm Psychological function With Ashwagandha, Rhodiola & Cordyceps Hormonal regulation For pressure & tension destress",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/StayCalm.png?v=1749482258",
+      "variants": [
+        {
+          "id": 55404458967413,
+          "title": "1 pouch",
+          "weight": 43,
+          "available": false,
+          "buy_once_price": "27.37",
+          "compare_at_price": null,
+          "subscription_price": "23.26",
+          "subscription_options": [
+            {
+              "plan_id": 710698008949,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            }
+          ]
+        },
+        {
+          "id": 55901501718901,
+          "title": "2 pouches",
+          "weight": 43,
+          "available": false,
+          "buy_once_price": "51.34",
+          "compare_at_price": "54.74",
+          "subscription_price": "44.92",
+          "subscription_options": [
+            {
+              "plan_id": 710698041717,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "44.92",
+              "compare_at_price": "51.34",
+              "per_delivery_price": "44.92"
+            }
+          ]
+        },
+        {
+          "id": 55404459000181,
+          "title": "3 pouches",
+          "weight": 43,
+          "available": false,
+          "buy_once_price": "73.25",
+          "compare_at_price": "82.11",
+          "subscription_price": "65.93",
+          "subscription_options": [
+            {
+              "plan_id": 710698074485,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "65.93",
+              "compare_at_price": "73.25",
+              "per_delivery_price": "65.93"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/mens-promulti",
+      "product_id": 7851216502922,
+      "product_name": "Men's ProMulti",
+      "handle": "mens-promulti",
+      "description": "Most advanced, all-in-one supplement for men over 45 Comprehensive prostate & testosterone support 31 active ingredients, zero additives With Saw Palmetto, Ashwagandha KSM-66®, Mushrooms",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Men_sProMulti.png?v=1749646559",
+      "variants": [
+        {
+          "id": 55901260972405,
+          "title": "1 pouch",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "41.06",
+          "compare_at_price": null,
+          "subscription_price": "34.90",
+          "subscription_options": [
+            {
+              "plan_id": 710697189749,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "34.90",
+              "compare_at_price": "41.06",
+              "per_delivery_price": "34.90"
+            }
+          ]
+        },
+        {
+          "id": 55901261005173,
+          "title": "2 pouches",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "77.36",
+          "compare_at_price": "82.12",
+          "subscription_price": "67.69",
+          "subscription_options": [
+            {
+              "plan_id": 710697222517,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "67.69",
+              "compare_at_price": "77.36",
+              "per_delivery_price": "67.69"
+            }
+          ]
+        },
+        {
+          "id": 55901261037941,
+          "title": "3 pouches",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "109.52",
+          "compare_at_price": "123.18",
+          "subscription_price": "98.57",
+          "subscription_options": [
+            {
+              "plan_id": 710697255285,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "98.57",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "98.57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/daily-multi-vitamin",
+      "product_id": 5044681343114,
+      "product_name": "Daily Multi-Vitamin",
+      "handle": "daily-multi-vitamin",
+      "description": "Which? Magazine Highest Rated 24 essential nutrients at optimal dosages Homone support & mood 98% find it effective multi vit multi daily immune boost",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/DailyMulti-Vitamin.png?v=1749480782",
+      "variants": [
+        {
+          "id": 55377202086261,
+          "title": "1 pouch",
+          "weight": 63,
+          "available": false,
+          "buy_once_price": "27.37",
+          "compare_at_price": null,
+          "subscription_price": "23.26",
+          "subscription_options": [
+            {
+              "plan_id": 710694437237,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            }
+          ]
+        },
+        {
+          "id": 55901412721013,
+          "title": "2 pouches",
+          "weight": 63,
+          "available": false,
+          "buy_once_price": "51.34",
+          "compare_at_price": "54.74",
+          "subscription_price": "44.92",
+          "subscription_options": [
+            {
+              "plan_id": 710694502773,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "44.92",
+              "compare_at_price": "51.34",
+              "per_delivery_price": "44.92"
+            }
+          ]
+        },
+        {
+          "id": 55377202119029,
+          "title": "3 pouches",
+          "weight": 63,
+          "available": false,
+          "buy_once_price": "73.25",
+          "compare_at_price": "82.11",
+          "subscription_price": "65.93",
+          "subscription_options": [
+            {
+              "plan_id": 710694470005,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "65.93",
+              "compare_at_price": "73.25",
+              "per_delivery_price": "65.93"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/gut-health-bundle",
+      "product_id": 6756935729290,
+      "product_name": "Gut Health Bundle",
+      "handle": "gut-health-bundle",
+      "description": "For your gut microbiome and digestive health Multi award-winning Gut Works® with 50bn CFU & 6 scientifically studied strains of live cultures Debloat & Detox for advanced digestion & liver support",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/GutHealthBundle.png?v=1749648605",
+      "variants": [
+        {
+          "id": 40628740882570,
+          "title": "Default Title",
+          "weight": 73,
+          "available": false,
+          "buy_once_price": "60.99",
+          "compare_at_price": null,
+          "subscription_price": "57.94",
+          "subscription_options": [
+            {
+              "plan_id": 710263898485,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710263669109,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710264717685,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710265438581,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710260457845,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710259605877,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710264488309,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710265209205,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710259900789,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710261113205,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710264357237,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710262882677,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710264914293,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710259835253,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710264390005,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710259671413,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710259769717,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710260031861,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710265504117,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710260359541,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710228607349,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710663242101,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            },
+            {
+              "plan_id": 710663274869,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "57.94",
+              "compare_at_price": "60.99",
+              "per_delivery_price": "57.94"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/beauty-bundle",
+      "product_id": 7601460347018,
+      "product_name": "Beauty Bundle",
+      "handle": "beauty-bundle",
+      "description": "Award-winning duo for hair, skin & nails Skin Saviour® for clearer, glowing skin & collagen production Hair Saviour® for healthy hair growth, hair thinning & brittle hair",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/BeautyBundle.png?v=1749648562",
+      "variants": [
+        {
+          "id": 42581807399050,
+          "title": "Default Title",
+          "weight": 88,
+          "available": false,
+          "buy_once_price": "63.99",
+          "compare_at_price": null,
+          "subscription_price": "60.79",
+          "subscription_options": [
+            {
+              "plan_id": 710251676021,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710249644405,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710250004853,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710255640949,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710250561909,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710253052277,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710258458997,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710257213813,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710255378805,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710254788981,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710250496373,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710261309813,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710263046517,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710251807093,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710253379957,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710252560757,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710256886133,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710255083893,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710255575413,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710251577717,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710257082741,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710662193525,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            },
+            {
+              "plan_id": 710662226293,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "60.79",
+              "compare_at_price": "63.99",
+              "per_delivery_price": "60.79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenopause-ultimate-calm-bundle",
+      "product_id": 8289216200842,
+      "product_name": "Perimenopause Ultimate Calm Bundle",
+      "handle": "perimenopause-ultimate-calm-bundle",
+      "description": "Award-winning duo for a calm and comfortable perimenopause PeriMenoFriend® for hormone regulation and mood Stay Calm® for emotional balance and calm",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/PerimenopauseUltimateCalmBundlelowres.png?v=1749484548",
+      "variants": [
+        {
+          "id": 45457324769418,
+          "title": "Default Title",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "50.64",
+          "compare_at_price": "57.48",
+          "subscription_price": "48.11",
+          "subscription_options": [
+            {
+              "plan_id": 710249906549,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710253805941,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710253150581,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710249841013,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710252396917,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710252069237,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710253674869,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710252462453,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710248857973,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710253478261,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710252790133,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710249218421,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710251282805,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710250135925,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710248792437,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710248694133,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710250037621,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710253969781,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710254920053,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710253609333,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710254461301,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710664552821,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            },
+            {
+              "plan_id": 710664585589,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "48.11",
+              "compare_at_price": "50.64",
+              "per_delivery_price": "48.11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/advanced-perimenopause-bundle",
+      "product_id": 8289034666122,
+      "product_name": "Advanced Perimenopause Bundle",
+      "handle": "advanced-perimenopause-bundle",
+      "description": "Award-winning trio for comprehensive mind & body support PeriMenoFriend® for hormone regulation and mood Gut Works® for healthy gut and bowels Stay Calm® for emotional balance and calm",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/UltimatePerimenopauseBundlelowres.png?v=1749648538",
+      "variants": [
+        {
+          "id": 45456452255882,
+          "title": "Default Title",
+          "weight": 73,
+          "available": false,
+          "buy_once_price": "87.61",
+          "compare_at_price": "97.17",
+          "subscription_price": "83.23",
+          "subscription_options": [
+            {
+              "plan_id": 710231097717,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710233457013,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710233555317,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710237684085,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710234866037,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710230573429,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710229918069,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710231064949,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710232998261,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710230507893,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710230409589,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710234767733,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710229885301,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710232834421,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710229164405,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710233653621,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710229721461,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710235357557,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710233620853,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710230278517,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710232899957,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710662062453,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710662095221,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/menopause-gut-health-bundle",
+      "product_id": 8288854769802,
+      "product_name": "Menopause Gut Health Bundle",
+      "handle": "menopause-gut-health-bundle",
+      "description": "Award-winning duo for complete gut and digestive health during menopause MenoFriend® for hormone regulation and mood Gut Works® for healthy gut and bowels",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenopauseGutHealthBundlelowres.png?v=1749648651",
+      "variants": [
+        {
+          "id": 45455310520458,
+          "title": "Default Title",
+          "weight": 73,
+          "available": false,
+          "buy_once_price": "61.60",
+          "compare_at_price": "69.80",
+          "subscription_price": "58.52",
+          "subscription_options": [
+            {
+              "plan_id": 710248235381,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710245155189,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710246629749,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244532597,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710245712245,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244499829,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242402677,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710246007157,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710248366453,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710243615093,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710241485173,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710241321333,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710248104309,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710250758517,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710245450101,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710249283957,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242828661,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710245876085,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244991349,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710245646709,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242369909,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664094069,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664126837,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/advanced-menopause-bundle",
+      "product_id": 8289850359946,
+      "product_name": "Advanced Menopause Bundle",
+      "handle": "advanced-menopause-bundle",
+      "description": "Award-winning trio for comprehensive mind & body support MenoFriend® for hormone regulation and mood Gut Works® for healthy gut and bowels Stay Calm® for emotional balance and calm",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/AdvancedMenopausebundlelowres.png?v=1749648504",
+      "variants": [
+        {
+          "id": 45459493585034,
+          "title": "Default Title",
+          "weight": 73,
+          "available": false,
+          "buy_once_price": "87.61",
+          "compare_at_price": "97.17",
+          "subscription_price": "83.23",
+          "subscription_options": [
+            {
+              "plan_id": 710237061493,
+              "plan_name": "Delivery every 30 days",
+              "group_name": "Delivery every 30 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710242664821,
+              "plan_name": "Delivery every 32 days",
+              "group_name": "Delivery every 32 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710239551861,
+              "plan_name": "Delivery every 34 days",
+              "group_name": "Delivery every 34 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710247088501,
+              "plan_name": "Delivery every 36 days",
+              "group_name": "Delivery every 36 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710238044533,
+              "plan_name": "Delivery every 38 days",
+              "group_name": "Delivery every 38 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710245220725,
+              "plan_name": "Delivery every 40 days",
+              "group_name": "Delivery every 40 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710244598133,
+              "plan_name": "Delivery every 42 days",
+              "group_name": "Delivery every 42 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710238568821,
+              "plan_name": "Delivery every 44 days",
+              "group_name": "Delivery every 44 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710241354101,
+              "plan_name": "Delivery every 46 days",
+              "group_name": "Delivery every 46 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710236897653,
+              "plan_name": "Delivery every 48 days",
+              "group_name": "Delivery every 48 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710239650165,
+              "plan_name": "Delivery every 50 days",
+              "group_name": "Delivery every 50 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710240928117,
+              "plan_name": "Delivery every 52 days",
+              "group_name": "Delivery every 52 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710237847925,
+              "plan_name": "Delivery every 54 days",
+              "group_name": "Delivery every 54 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710237782389,
+              "plan_name": "Delivery every 56 days",
+              "group_name": "Delivery every 56 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710239748469,
+              "plan_name": "Delivery every 58 days",
+              "group_name": "Delivery every 58 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710238273909,
+              "plan_name": "Delivery every 60 days",
+              "group_name": "Delivery every 60 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710239453557,
+              "plan_name": "Delivery every 62 days",
+              "group_name": "Delivery every 62 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710244303221,
+              "plan_name": "Delivery every 64 days",
+              "group_name": "Delivery every 64 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710243451253,
+              "plan_name": "Delivery every 66 days",
+              "group_name": "Delivery every 66 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710238306677,
+              "plan_name": "Delivery every 68 days",
+              "group_name": "Delivery every 68 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710242468213,
+              "plan_name": "Delivery every 28 days",
+              "group_name": "Delivery every 28 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710661996917,
+              "plan_name": "Delivery every 90 days",
+              "group_name": "Delivery every 90 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            },
+            {
+              "plan_id": 710662029685,
+              "plan_name": "Delivery every 120 days",
+              "group_name": "Delivery every 120 days",
+              "discount_percent": 5,
+              "price": "83.23",
+              "compare_at_price": "87.61",
+              "per_delivery_price": "83.23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/perimenopause-vaginal-health-bundle",
+      "product_id": 14888110162293,
+      "product_name": "Perimenopause Vaginal Health Bundle",
+      "handle": "perimenopause-vaginal-health-bundle",
+      "description": "Award-winning duo for comprehensive vaginal health support during perimenopause PeriMenoFriend® for hormone regulation and mood pH Hero® for urinary tract health",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Perimenopausevaginalhealthbundle.png?v=1749648688",
+      "variants": [
+        {
+          "id": 54941943398773,
+          "title": "Default Title",
+          "weight": 55,
+          "available": false,
+          "buy_once_price": "61.60",
+          "compare_at_price": "69.80",
+          "subscription_price": "58.52",
+          "subscription_options": [
+            {
+              "plan_id": 710244335989,
+              "plan_name": "Delivery every 30 days with 5% discount",
+              "group_name": "Delivery every 30 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244073845,
+              "plan_name": "Delivery every 32 days with 5% discount",
+              "group_name": "Delivery every 32 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710241091957,
+              "plan_name": "Delivery every 34 days with 5% discount",
+              "group_name": "Delivery every 34 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244434293,
+              "plan_name": "Delivery every 36 days with 5% discount",
+              "group_name": "Delivery every 36 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710247317877,
+              "plan_name": "Delivery every 38 days with 5% discount",
+              "group_name": "Delivery every 38 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244237685,
+              "plan_name": "Delivery every 40 days with 5% discount",
+              "group_name": "Delivery every 40 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244860277,
+              "plan_name": "Delivery every 42 days with 5% discount",
+              "group_name": "Delivery every 42 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710247776629,
+              "plan_name": "Delivery every 44 days with 5% discount",
+              "group_name": "Delivery every 44 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710241059189,
+              "plan_name": "Delivery every 46 days with 5% discount",
+              "group_name": "Delivery every 46 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710246695285,
+              "plan_name": "Delivery every 48 days with 5% discount",
+              "group_name": "Delivery every 48 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242206069,
+              "plan_name": "Delivery every 50 days with 5% discount",
+              "group_name": "Delivery every 50 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710247022965,
+              "plan_name": "Delivery every 52 days with 5% discount",
+              "group_name": "Delivery every 52 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710245908853,
+              "plan_name": "Delivery every 54 days with 5% discount",
+              "group_name": "Delivery every 54 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710243156341,
+              "plan_name": "Delivery every 56 days with 5% discount",
+              "group_name": "Delivery every 56 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710246859125,
+              "plan_name": "Delivery every 58 days with 5% discount",
+              "group_name": "Delivery every 58 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710246891893,
+              "plan_name": "Delivery every 60 days with 5% discount",
+              "group_name": "Delivery every 60 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710246105461,
+              "plan_name": "Delivery every 28 days with 5% discount",
+              "group_name": "Delivery every 28 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664618357,
+              "plan_name": "Delivery every 90 days with 5% discount",
+              "group_name": "Delivery every 90 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664651125,
+              "plan_name": "Delivery every 120 days with 5% discount",
+              "group_name": "Delivery every 120 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/comprehensive-bone-body-support-bundle",
+      "product_id": 15406193803637,
+      "product_name": "Comprehensive Bone & Body Support Bundle",
+      "handle": "comprehensive-bone-body-support-bundle",
+      "description": "The most comprehensive and support bones, muscles & joints OsteoFriend® for bone density & strength Protein & Creatine Superblend providing 20g protein & 3g creatine for muscle growth & mass Unflavoured, 100% clean active ingredients, no additives",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/osteo_protein_bundle_low_res.png?v=1757670552",
+      "variants": [
+        {
+          "id": 55920438837621,
+          "title": "Default Title",
+          "weight": 0,
+          "available": false,
+          "buy_once_price": "109.52",
+          "compare_at_price": "121.67",
+          "subscription_price": "104.04",
+          "subscription_options": [
+            {
+              "plan_id": 710691094901,
+              "plan_name": "30 day subscription",
+              "group_name": "30 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691127669,
+              "plan_name": "32 day subscription",
+              "group_name": "32 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691193205,
+              "plan_name": "34 day subscription",
+              "group_name": "34 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691160437,
+              "plan_name": "36 day subscription",
+              "group_name": "36 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691225973,
+              "plan_name": "38 day subscription",
+              "group_name": "38 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691258741,
+              "plan_name": "40 day subscription",
+              "group_name": "40 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691324277,
+              "plan_name": "42 day subscription",
+              "group_name": "42 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691291509,
+              "plan_name": "44 day subscription",
+              "group_name": "44 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691357045,
+              "plan_name": "46 day subscription",
+              "group_name": "46 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691389813,
+              "plan_name": "48 day subscription",
+              "group_name": "48 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691455349,
+              "plan_name": "50 day subscription",
+              "group_name": "50 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691422581,
+              "plan_name": "52 day subscription",
+              "group_name": "52 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691488117,
+              "plan_name": "54 day subscription",
+              "group_name": "54 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691520885,
+              "plan_name": "56 day subscription",
+              "group_name": "56 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691553653,
+              "plan_name": "58 day subscription",
+              "group_name": "58 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691619189,
+              "plan_name": "60 day subscription with 5% discount",
+              "group_name": "60 day subscription with 5% discount",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691717493,
+              "plan_name": "62 day subscription",
+              "group_name": "62 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691586421,
+              "plan_name": "64 day subscription",
+              "group_name": "64 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691651957,
+              "plan_name": "66 day subscription",
+              "group_name": "66 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            },
+            {
+              "plan_id": 710691684725,
+              "plan_name": "68 day subscription",
+              "group_name": "68 day subscription",
+              "discount_percent": 5,
+              "price": "104.04",
+              "compare_at_price": "109.52",
+              "per_delivery_price": "104.04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/ultimate-gut-health-bundle",
+      "product_id": 14888115372405,
+      "product_name": "Ultimate Gut Health Bundle",
+      "handle": "ultimate-gut-health-bundle",
+      "description": "Comprehensive gut and digestive health Multi award-winning Gut Works® for healthy gut and bowels Debloat & Detox for advanced digestion & liver support GastroAid® to support proper breakdown of food in the stomach",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Comprehensivedigestivehealthbundle.png?v=1749648732",
+      "variants": [
+        {
+          "id": 54941948936565,
+          "title": "Default Title",
+          "weight": 73,
+          "available": false,
+          "buy_once_price": "91.72",
+          "compare_at_price": "102.64",
+          "subscription_price": "87.13",
+          "subscription_options": [
+            {
+              "plan_id": 710235881845,
+              "plan_name": "Delivery every 30 days with 5% discount",
+              "group_name": "Delivery every 30 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710231163253,
+              "plan_name": "Delivery every 32 days with 5% discount",
+              "group_name": "Delivery every 32 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710239617397,
+              "plan_name": "Delivery every 34 days with 5% discount",
+              "group_name": "Delivery every 34 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710238994805,
+              "plan_name": "Delivery every 36 days with 5% discount",
+              "group_name": "Delivery every 36 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710231392629,
+              "plan_name": "Delivery every 38 days with 5% discount",
+              "group_name": "Delivery every 38 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710231458165,
+              "plan_name": "Delivery every 40 days with 5% discount",
+              "group_name": "Delivery every 40 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710244368757,
+              "plan_name": "Delivery every 44 days with 5% discount",
+              "group_name": "Delivery every 44 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710236930421,
+              "plan_name": "Delivery every 46 days with 5% discount",
+              "group_name": "Delivery every 46 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710236799349,
+              "plan_name": "Delivery every 48 days with 5% discount",
+              "group_name": "Delivery every 48 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710243025269,
+              "plan_name": "Delivery every 50 days with 5% discount",
+              "group_name": "Delivery every 50 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710245613941,
+              "plan_name": "Delivery every 52 days with 5% discount",
+              "group_name": "Delivery every 52 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710231687541,
+              "plan_name": "Delivery every 54 days with 5% discount",
+              "group_name": "Delivery every 54 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710232539509,
+              "plan_name": "Delivery every 56 days with 5% discount",
+              "group_name": "Delivery every 56 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710232080757,
+              "plan_name": "Delivery every 58 days with 5% discount",
+              "group_name": "Delivery every 58 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710232244597,
+              "plan_name": "Delivery every 60 days with 5% discount",
+              "group_name": "Delivery every 60 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710240272757,
+              "plan_name": "Delivery every 28 days with 5% discount",
+              "group_name": "Delivery every 28 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710665208181,
+              "plan_name": "Delivery every 90 days with 5% discount",
+              "group_name": "Delivery every 90 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            },
+            {
+              "plan_id": 710665240949,
+              "plan_name": "Delivery every 120 days with 5% discount",
+              "group_name": "Delivery every 120 days with 5% discount",
+              "discount_percent": 5,
+              "price": "87.13",
+              "compare_at_price": "91.72",
+              "per_delivery_price": "87.13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/menopause-vaginal-health-bundle",
+      "product_id": 14888107606389,
+      "product_name": "Menopause Vaginal Health Bundle",
+      "handle": "menopause-vaginal-health-bundle",
+      "description": "Award-winning duo for targeted vaginal health and hormone support through menopause MenoFriend® for hormone regulation and mood pH Hero® for urinary tract health",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/MenopausevaginalhealthBundle.png?v=1749648661",
+      "variants": [
+        {
+          "id": 54941940646261,
+          "title": "Default Title",
+          "weight": 98,
+          "available": false,
+          "buy_once_price": "61.60",
+          "compare_at_price": "69.80",
+          "subscription_price": "58.52",
+          "subscription_options": [
+            {
+              "plan_id": 710239912309,
+              "plan_name": "Delivery every 30 days with 5% discount",
+              "group_name": "Delivery every 30 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710240502133,
+              "plan_name": "Delivery every 32 days with 5% discount",
+              "group_name": "Delivery every 32 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710244893045,
+              "plan_name": "Delivery every 34 days with 5% discount",
+              "group_name": "Delivery every 34 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710240403829,
+              "plan_name": "Delivery every 36 days with 5% discount",
+              "group_name": "Delivery every 36 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242730357,
+              "plan_name": "Delivery every 38 days with 5% discount",
+              "group_name": "Delivery every 38 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710240371061,
+              "plan_name": "Delivery every 40 days with 5% discount",
+              "group_name": "Delivery every 40 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710247219573,
+              "plan_name": "Delivery every 42 days with 5% discount",
+              "group_name": "Delivery every 42 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242107765,
+              "plan_name": "Delivery every 44 days with 5% discount",
+              "group_name": "Delivery every 44 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710245122421,
+              "plan_name": "Delivery every 46 days with 5% discount",
+              "group_name": "Delivery every 46 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710243123573,
+              "plan_name": "Delivery every 48 days with 5% discount",
+              "group_name": "Delivery every 48 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710247186805,
+              "plan_name": "Delivery every 50 days with 5% discount",
+              "group_name": "Delivery every 50 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710241878389,
+              "plan_name": "Delivery every 52 days with 5% discount",
+              "group_name": "Delivery every 52 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710247154037,
+              "plan_name": "Delivery every 54 days with 5% discount",
+              "group_name": "Delivery every 54 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710239814005,
+              "plan_name": "Delivery every 56 days with 5% discount",
+              "group_name": "Delivery every 56 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710250103157,
+              "plan_name": "Delivery every 58 days with 5% discount",
+              "group_name": "Delivery every 58 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710248923509,
+              "plan_name": "Delivery every 60 days with 5% discount",
+              "group_name": "Delivery every 60 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710242271605,
+              "plan_name": "Delivery every 28 days with 5% discount",
+              "group_name": "Delivery every 28 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664290677,
+              "plan_name": "Delivery every 90 days with 5% discount",
+              "group_name": "Delivery every 90 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            },
+            {
+              "plan_id": 710664323445,
+              "plan_name": "Delivery every 120 days with 5% discount",
+              "group_name": "Delivery every 120 days with 5% discount",
+              "discount_percent": 5,
+              "price": "58.52",
+              "compare_at_price": "61.60",
+              "per_delivery_price": "58.52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://drvegan.com/products/kids-promulti",
+      "product_id": 15199682593141,
+      "product_name": "Kid's ProMulti",
+      "handle": "kids-promulti",
+      "description": "Tiny capsules 25 active vitamins & minerals Scientifically studied nutrients Zero additives, 100% clean",
+      "available": false,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0358/4501/3642/files/Kid_sProMultilowres.png?v=1754579208",
+      "variants": [
+        {
+          "id": 55658460840309,
+          "title": "1 pouch",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "27.37",
+          "compare_at_price": null,
+          "subscription_price": "23.26",
+          "subscription_options": [
+            {
+              "plan_id": 710696305013,
+              "plan_name": "Every 30 days",
+              "group_name": "Every 30 days",
+              "discount_percent": 15,
+              "price": "23.26",
+              "compare_at_price": "27.37",
+              "per_delivery_price": "23.26"
+            }
+          ]
+        },
+        {
+          "id": 55901676175733,
+          "title": "2 pouches",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "51.34",
+          "compare_at_price": "54.74",
+          "subscription_price": "44.92",
+          "subscription_options": [
+            {
+              "plan_id": 710696337781,
+              "plan_name": "Every 60 days",
+              "group_name": "Every 60 days",
+              "discount_percent": "12.5",
+              "price": "44.92",
+              "compare_at_price": "51.34",
+              "per_delivery_price": "44.92"
+            }
+          ]
+        },
+        {
+          "id": 55658460873077,
+          "title": "3 pouches",
+          "weight": 60,
+          "available": false,
+          "buy_once_price": "73.25",
+          "compare_at_price": "82.11",
+          "subscription_price": "65.93",
+          "subscription_options": [
+            {
+              "plan_id": 710696370549,
+              "plan_name": "Every 90 days",
+              "group_name": "Every 90 days",
+              "discount_percent": 10,
+              "price": "65.93",
+              "compare_at_price": "73.25",
+              "per_delivery_price": "65.93"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

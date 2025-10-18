@@ -1,0 +1,2519 @@
+{
+  "crawl_time": "2025-10-18 19:43:22",
+  "total_pages": 19,
+  "product_pages": 18,
+  "total_products": 18,
+  "pages": [
+    {
+      "url": "https://elavate.com/collections/all-new",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:40:09",
+      "products": [],
+      "links_found": [
+        "https://elavate.com/collections/all-new",
+        "https://elavate.com/products/multi-collagen-main",
+        "https://elavate.com/products/collagen",
+        "https://elavate.com/products/multi-collagen-superblend-6",
+        "https://elavate.com/products/multi-collagen-superblend",
+        "https://elavate.com/products/multi-collagen-superblend-1",
+        "https://elavate.com/products/multi-collagen-superblend-2",
+        "https://elavate.com/products/3-month-supply-add-on-special-one-time-pricing",
+        "https://elavate.com/products/multi-collagen-2",
+        "https://elavate.com/products/multi-collagen",
+        "https://elavate.com/products/collagen-old",
+        "https://elavate.com/products/add-on-multigummy",
+        "https://elavate.com/products/multivitamin-gummy",
+        "https://elavate.com/products/unflavoured-multi-collagen-superblend-copy",
+        "https://elavate.com/products/vanilla-multi-collagen-superblend",
+        "https://elavate.com/products/3-month-supply",
+        "https://elavate.com/products/4-month-special-one-time",
+        "https://elavate.com/products/chocolate-multi-collagen-superblend"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multi-collagen-main",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:40:17",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multi-collagen-main",
+          "product_id": 9830987989331,
+          "product_name": "Multi-Collagen Superblend + FREE Gifts (Worth £65)",
+          "handle": "multi-collagen-main",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Cordyceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/MultiCollagenSuperblendChocolate_8238ce55-c81f-4db8-85fe-799c91e21c47.jpg?v=1757708621",
+          "variants": [
+            {
+              "id": 50656462078291,
+              "title": "Chocolate / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627300179,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 50656462111059,
+              "title": "Chocolate / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689627332947,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 50656462143827,
+              "title": "Chocolate / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627365715,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50656462176595,
+              "title": "Chocolate / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689975001427,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 9 Months",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 50656462209363,
+              "title": "Vanilla / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627398483,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Deliver every Month",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 50656462242131,
+              "title": "Vanilla / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689627431251,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                },
+                {
+                  "plan_id": 689627529555,
+                  "plan_name": "Deliver Every 3 Months",
+                  "group_name": "Deliver Every 3 Months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 50656462274899,
+              "title": "Vanilla / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627464019,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50656462307667,
+              "title": "Vanilla / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689975066963,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 9 Months",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 50656462340435,
+              "title": "Unflavoured / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627496787,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Deliver every month",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 50656462373203,
+              "title": "Unflavoured / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689627529555,
+                  "plan_name": "Deliver Every 3 Months",
+                  "group_name": "Deliver Every 3 Months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 50656462405971,
+              "title": "Unflavoured / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627562323,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver Every 6 Months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50656462438739,
+              "title": "Unflavoured / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689975034195,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 9 Month",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 51312174432595,
+              "title": "Strawberry / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690209096019,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Month Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 51312174465363,
+              "title": "Strawberry / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "49.00",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 690209128787,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "3 Months Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 51312174498131,
+              "title": "Strawberry / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690263949651,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "6 Month Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 51312174530899,
+              "title": "Strawberry / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "49.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 690263982419,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "9 Months Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 50656462471507,
+              "title": "Multi Flavour Mix / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689985356115,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver Every 3 Months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 50656462504275,
+              "title": "Multi Flavour Mix / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689985388883,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver Every 6 Months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50656462537043,
+              "title": "Multi Flavour Mix / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689985421651,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 6 Months",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/collagen",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:40:26",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/collagen",
+          "product_id": 8752779362643,
+          "product_name": "Multi Collagen Superblend + FREE Gifts (Worth £65)",
+          "handle": "collagen",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/MultiCollagenSuperblendChocolate_0309763f-0ff0-4ca8-82c8-497de473c5db.jpg?v=1757708008",
+          "variants": [
+            {
+              "id": 47747426386259,
+              "title": "Chocolate / 1 Person / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627300179,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 47747426419027,
+              "title": "Chocolate / 1 Person / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689627332947,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 47747426451795,
+              "title": "Chocolate / 1 Person / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627365715,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50556711731539,
+              "title": "Chocolate / 1 Person / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689975001427,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 9 Months",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 52017678352723,
+              "title": "Chocolate / 2 People / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "79.00",
+              "compare_at_price": "99.00",
+              "subscription_price": "59.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336104787,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Deliver every month",
+                  "discount_percent": null,
+                  "price": "59.00",
+                  "compare_at_price": "79.00",
+                  "per_delivery_price": "59.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678385491,
+              "title": "Chocolate / 2 People / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "175.50",
+              "compare_at_price": "235.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336203091,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "175.50",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678418259,
+              "title": "Chocolate / 2 People / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "294.00",
+              "compare_at_price": "349.00",
+              "subscription_price": "234.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336366931,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "234.00",
+                  "compare_at_price": "294.00",
+                  "per_delivery_price": "234.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678451027,
+              "title": "Chocolate / 2 People / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "387.00",
+              "compare_at_price": "515.00",
+              "subscription_price": "315.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336498003,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver every 9 months",
+                  "discount_percent": null,
+                  "price": "315.00",
+                  "compare_at_price": "387.00",
+                  "per_delivery_price": "315.00"
+                }
+              ]
+            },
+            {
+              "id": 49250264875347,
+              "title": "Vanilla / 1 Person / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627398483,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Deliver every Month",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 49250264940883,
+              "title": "Vanilla / 1 Person / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689627431251,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 49250265006419,
+              "title": "Vanilla / 1 Person / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627464019,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50556711764307,
+              "title": "Vanilla / 1 Person / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689975066963,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 9 Months",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 52017678483795,
+              "title": "Vanilla / 2 People / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "79.00",
+              "compare_at_price": "99.00",
+              "subscription_price": "59.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336137555,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Deliver every month",
+                  "discount_percent": null,
+                  "price": "59.00",
+                  "compare_at_price": "79.00",
+                  "per_delivery_price": "59.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678516563,
+              "title": "Vanilla / 2 People / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "175.50",
+              "compare_at_price": "235.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336235859,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "175.50",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678549331,
+              "title": "Vanilla / 2 People / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "294.00",
+              "compare_at_price": "349.00",
+              "subscription_price": "234.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336399699,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "234.00",
+                  "compare_at_price": "294.00",
+                  "per_delivery_price": "234.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678582099,
+              "title": "Vanilla / 2 People / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "387.00",
+              "compare_at_price": "515.00",
+              "subscription_price": "315.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336530771,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver every 9 months",
+                  "discount_percent": null,
+                  "price": "315.00",
+                  "compare_at_price": "387.00",
+                  "per_delivery_price": "315.00"
+                }
+              ]
+            },
+            {
+              "id": 49250264908115,
+              "title": "Unflavoured / 1 Person / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627496787,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Deliver every month",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 49250264973651,
+              "title": "Unflavoured / 1 Person / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689627529555,
+                  "plan_name": "Deliver Every 3 Months",
+                  "group_name": "Deliver Every 3 Months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 49250265039187,
+              "title": "Unflavoured / 1 Person / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689627562323,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver Every 6 Months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50556711797075,
+              "title": "Unflavoured / 1 Person / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689975034195,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 9 Month",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 52017678614867,
+              "title": "Unflavoured / 2 People / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "79.00",
+              "compare_at_price": "99.00",
+              "subscription_price": "59.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336170323,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Deliver every month",
+                  "discount_percent": null,
+                  "price": "59.00",
+                  "compare_at_price": "79.00",
+                  "per_delivery_price": "59.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678647635,
+              "title": "Unflavoured / 2 People / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "175.50",
+              "compare_at_price": "235.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336268627,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "175.50",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678680403,
+              "title": "Unflavoured / 2 People / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "294.00",
+              "compare_at_price": "349.00",
+              "subscription_price": "234.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336334163,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "234.00",
+                  "compare_at_price": "294.00",
+                  "per_delivery_price": "234.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678713171,
+              "title": "Unflavoured / 2 People / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "387.00",
+              "compare_at_price": "515.00",
+              "subscription_price": "315.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336465235,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver every 9 months",
+                  "discount_percent": null,
+                  "price": "315.00",
+                  "compare_at_price": "387.00",
+                  "per_delivery_price": "315.00"
+                }
+              ]
+            },
+            {
+              "id": 50568533705043,
+              "title": "Multi Flavour Mix / 1 Person / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "124.50",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689985356115,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver Every 3 Months",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 50568533737811,
+              "title": "Multi Flavour Mix / 1 Person / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "245.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 689985388883,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver Every 6 Months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 50568533770579,
+              "title": "Multi Flavour Mix / 1 Person / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "351.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689985421651,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 6 Months",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 52017678745939,
+              "title": "Multi Flavour Mix / 2 People / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "175.50",
+              "compare_at_price": "235.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336301395,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "175.50",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678778707,
+              "title": "Multi Flavour Mix / 2 People / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "294.00",
+              "compare_at_price": "349.00",
+              "subscription_price": "234.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336432467,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "234.00",
+                  "compare_at_price": "294.00",
+                  "per_delivery_price": "234.00"
+                }
+              ]
+            },
+            {
+              "id": 52017678811475,
+              "title": "Multi Flavour Mix / 2 People / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "387.00",
+              "compare_at_price": "515.00",
+              "subscription_price": "315.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690336563539,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver every 9 months",
+                  "discount_percent": null,
+                  "price": "315.00",
+                  "compare_at_price": "387.00",
+                  "per_delivery_price": "315.00"
+                }
+              ]
+            },
+            {
+              "id": 51304897577299,
+              "title": "Strawberry / 1 Person / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "39.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690209096019,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Month Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "39.00",
+                  "compare_at_price": "49.00",
+                  "per_delivery_price": "39.00"
+                }
+              ]
+            },
+            {
+              "id": 51304897610067,
+              "title": "Strawberry / 1 Person / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "103.50",
+              "compare_at_price": "49.00",
+              "subscription_price": "79.50",
+              "subscription_options": [
+                {
+                  "plan_id": 690209128787,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "3 Months Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "79.50",
+                  "compare_at_price": "103.50",
+                  "per_delivery_price": "79.50"
+                }
+              ]
+            },
+            {
+              "id": 51304897642835,
+              "title": "Strawberry / 1 Person / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "159.00",
+              "compare_at_price": "49.00",
+              "subscription_price": "135.00",
+              "subscription_options": [
+                {
+                  "plan_id": 690263949651,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "6 Month Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "135.00",
+                  "compare_at_price": "159.00",
+                  "per_delivery_price": "135.00"
+                }
+              ]
+            },
+            {
+              "id": 51304897675603,
+              "title": "Strawberry / 1 Person / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "202.50",
+              "compare_at_price": "49.00",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 690263982419,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "9 Months Supply - Strawberry",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "202.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            },
+            {
+              "id": 52017678844243,
+              "title": "Strawberry / 2 People / 1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 52017678877011,
+              "title": "Strawberry / 2 People / 3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 52017678909779,
+              "title": "Strawberry / 2 People / 6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 52017678942547,
+              "title": "Strawberry / 2 People / 9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "49.00",
+              "compare_at_price": "49.00",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/collagen",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multi-collagen-superblend-6",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:40:33",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multi-collagen-superblend-6",
+          "product_id": 9241453330771,
+          "product_name": "Multi Collagen Superblend",
+          "handle": "multi-collagen-superblend-6",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/Chocolate-Collagen-Peptides.jpg?v=1709738419",
+          "variants": [
+            {
+              "id": 48797479174483,
+              "title": "1 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "34.95",
+              "compare_at_price": "39.95",
+              "subscription_price": "34.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689306075475,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "34.95",
+                  "compare_at_price": "34.95",
+                  "per_delivery_price": "34.95"
+                }
+              ]
+            },
+            {
+              "id": 49250285027667,
+              "title": "1 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "34.95",
+              "compare_at_price": "39.95",
+              "subscription_price": "34.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689424761171,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "34.95",
+                  "compare_at_price": "34.95",
+                  "per_delivery_price": "34.95"
+                }
+              ]
+            },
+            {
+              "id": 49250285060435,
+              "title": "1 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "34.95",
+              "compare_at_price": "39.95",
+              "subscription_price": "34.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689424793939,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "34.95",
+                  "compare_at_price": "34.95",
+                  "per_delivery_price": "34.95"
+                }
+              ]
+            },
+            {
+              "id": 48797479207251,
+              "title": "3 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.85",
+              "compare_at_price": "79.90",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689306108243,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.85",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            },
+            {
+              "id": 49250285093203,
+              "title": "3 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.85",
+              "compare_at_price": "39.95",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689424826707,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.85",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            },
+            {
+              "id": 49250285125971,
+              "title": "3 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.85",
+              "compare_at_price": "39.95",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689424859475,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.85",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            },
+            {
+              "id": 48797479240019,
+              "title": "6 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "119.70",
+              "compare_at_price": "149.95",
+              "subscription_price": "119.70",
+              "subscription_options": [
+                {
+                  "plan_id": 689306141011,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "119.70",
+                  "compare_at_price": "119.70",
+                  "per_delivery_price": "119.70"
+                }
+              ]
+            },
+            {
+              "id": 49250285158739,
+              "title": "6 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "119.70",
+              "compare_at_price": "39.95",
+              "subscription_price": "119.70",
+              "subscription_options": [
+                {
+                  "plan_id": 689424892243,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "119.70",
+                  "compare_at_price": "119.70",
+                  "per_delivery_price": "119.70"
+                }
+              ]
+            },
+            {
+              "id": 49250285191507,
+              "title": "6 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "119.70",
+              "compare_at_price": "39.95",
+              "subscription_price": "119.70",
+              "subscription_options": [
+                {
+                  "plan_id": 689424925011,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "119.70",
+                  "compare_at_price": "119.70",
+                  "per_delivery_price": "119.70"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multi-collagen-superblend-6",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multi-collagen-superblend",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:40:45",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multi-collagen-superblend",
+          "product_id": 8761846006099,
+          "product_name": "Multi Collagen Superblend",
+          "handle": "multi-collagen-superblend",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/Chocolate-Collagen-Peptides.jpg?v=1709738419",
+          "variants": [
+            {
+              "id": 47774605934931,
+              "title": "1 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "26.95",
+              "compare_at_price": "39.95",
+              "subscription_price": "26.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689258922323,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "26.95",
+                  "compare_at_price": "26.95",
+                  "per_delivery_price": "26.95"
+                }
+              ]
+            },
+            {
+              "id": 47774605967699,
+              "title": "2 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "45.90",
+              "compare_at_price": "79.90",
+              "subscription_price": "45.90",
+              "subscription_options": [
+                {
+                  "plan_id": 689258955091,
+                  "plan_name": "Deliver every 2 months",
+                  "group_name": "Deliver every 2 months",
+                  "discount_percent": null,
+                  "price": "45.90",
+                  "compare_at_price": "45.90",
+                  "per_delivery_price": "45.90"
+                }
+              ]
+            },
+            {
+              "id": 47774606000467,
+              "title": "3 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "59.85",
+              "compare_at_price": "119.85",
+              "subscription_price": "59.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689258987859,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "59.85",
+                  "compare_at_price": "59.85",
+                  "per_delivery_price": "59.85"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multi-collagen-superblend",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multi-collagen-superblend-1",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:41:24",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multi-collagen-superblend-1",
+          "product_id": 8867192340819,
+          "product_name": "Multi Collagen Superblend",
+          "handle": "multi-collagen-superblend-1",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/Chocolate-Collagen-Peptides_914ea6f5-b51e-4fc0-874b-7314d2521948.jpg?v=1714344555",
+          "variants": [
+            {
+              "id": 48076460949843,
+              "title": "1 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "39.95",
+              "subscription_price": "29.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689274093907,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "29.95",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "29.95"
+                }
+              ]
+            },
+            {
+              "id": 51258196099411,
+              "title": "1 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "39.95",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 51258196132179,
+              "title": "1 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "39.95",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 48076460982611,
+              "title": "2 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "53.90",
+              "compare_at_price": "79.90",
+              "subscription_price": "53.90",
+              "subscription_options": [
+                {
+                  "plan_id": 689274126675,
+                  "plan_name": "Deliver every 2 months",
+                  "group_name": "Deliver every 2 months",
+                  "discount_percent": null,
+                  "price": "53.90",
+                  "compare_at_price": "53.90",
+                  "per_delivery_price": "53.90"
+                }
+              ]
+            },
+            {
+              "id": 51258196164947,
+              "title": "2 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "39.95",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 51258196197715,
+              "title": "2 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "39.95",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 48076461015379,
+              "title": "3 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.85",
+              "compare_at_price": "119.85",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689274159443,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.85",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            },
+            {
+              "id": 51258196230483,
+              "title": "3 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "39.95",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 51258196263251,
+              "title": "3 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "39.95",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multi-collagen-superblend-1",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multi-collagen-superblend-2",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:41:38",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multi-collagen-superblend-2",
+          "product_id": 9181011935571,
+          "product_name": "Multi Collagen Superblend",
+          "handle": "multi-collagen-superblend-2",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/Chocolate-Collagen-Peptides_9422f529-8801-4ab7-888d-e0420171656b.jpg?v=1716244723",
+          "variants": [
+            {
+              "id": 48675806642515,
+              "title": "1 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "34.95",
+              "compare_at_price": "39.95",
+              "subscription_price": "34.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689308434771,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "34.95",
+                  "compare_at_price": "34.95",
+                  "per_delivery_price": "34.95"
+                }
+              ]
+            },
+            {
+              "id": 48675806675283,
+              "title": "2 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "53.90",
+              "compare_at_price": "79.90",
+              "subscription_price": "53.90",
+              "subscription_options": [
+                {
+                  "plan_id": 689308467539,
+                  "plan_name": "Deliver every 2 months",
+                  "group_name": "Deliver every 2 months",
+                  "discount_percent": null,
+                  "price": "53.90",
+                  "compare_at_price": "53.90",
+                  "per_delivery_price": "53.90"
+                }
+              ]
+            },
+            {
+              "id": 48675806708051,
+              "title": "3 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.85",
+              "compare_at_price": "119.85",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689308500307,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.85",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multi-collagen-superblend-2",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/3-month-supply-add-on-special-one-time-pricing",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:41:46",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/3-month-supply-add-on-special-one-time-pricing",
+          "product_id": 8729337954643,
+          "product_name": "3 MONTH SUPPLY (Add-on) (SPECIAL ONE TIME PRICING)",
+          "handle": "3-month-supply-add-on-special-one-time-pricing",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/MainImageEdited.png?v=1707738313",
+          "variants": [
+            {
+              "id": 49529908920659,
+              "title": "Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "97.95",
+              "compare_at_price": "109.99",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 49529908953427,
+              "title": "Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "97.95",
+              "compare_at_price": "109.99",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 49529908986195,
+              "title": "Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "97.95",
+              "compare_at_price": "109.99",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/3-month-supply-add-on-special-one-time-pricing",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multi-collagen-2",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:41:54",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multi-collagen-2",
+          "product_id": 8598817112403,
+          "product_name": "Multi Collagen Superblend (Add-on) (SPECIAL ONE TIME PRICING)",
+          "handle": "multi-collagen-2",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/FallPackagingWithPowderSpilling_2_-min.png?v=1707735792",
+          "variants": [
+            {
+              "id": 49529920880979,
+              "title": "1 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "37.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 47676443328851,
+              "title": "1 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "37.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 49529920913747,
+              "title": "1 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "37.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 49529920946515,
+              "title": "2 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "59.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 47676443361619,
+              "title": "2 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "59.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 49529920979283,
+              "title": "2 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "59.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 49529921012051,
+              "title": "3 Pack / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "74.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 47676443394387,
+              "title": "3 Pack / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "74.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 49529921044819,
+              "title": "3 Pack / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "74.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multi-collagen-2",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multi-collagen",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:42:04",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multi-collagen",
+          "product_id": 8628408189267,
+          "product_name": "Multi-Collagen Superblend",
+          "handle": "multi-collagen",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/WrinkleFreeMainProductImage_2_7.png?v=1724283086",
+          "variants": [
+            {
+              "id": 47504983523667,
+              "title": "1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "39.95",
+              "compare_at_price": "34.95",
+              "subscription_price": "29.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689211539795,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Subscribe and Save 1pack",
+                  "discount_percent": null,
+                  "price": "29.95",
+                  "compare_at_price": "39.95",
+                  "per_delivery_price": "29.95"
+                }
+              ]
+            },
+            {
+              "id": 47504983556435,
+              "title": "2 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "63.90",
+              "compare_at_price": "69.95",
+              "subscription_price": "53.90",
+              "subscription_options": [
+                {
+                  "plan_id": 689211572563,
+                  "plan_name": "Deliver every 2 months",
+                  "group_name": "Subscribe and Save 2pack",
+                  "discount_percent": null,
+                  "price": "53.90",
+                  "compare_at_price": "63.90",
+                  "per_delivery_price": "53.90"
+                }
+              ]
+            },
+            {
+              "id": 47504983589203,
+              "title": "3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "80.85",
+              "compare_at_price": "102.85",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689211605331,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Subscribe and Save 3packs",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "80.85",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multi-collagen",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/collagen-old",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:42:12",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/collagen-old",
+          "product_id": 8710704791891,
+          "product_name": "Multi Collagen Superblend - One Time & Subscribe (Old)",
+          "handle": "collagen-old",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/ChocolateCollagenDrink_4.jpg?v=1708700939",
+          "variants": [
+            {
+              "id": 47635238027603,
+              "title": "1 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "33.95",
+              "compare_at_price": "33.95",
+              "subscription_price": "26.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689242866003,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Subscribe and Save - 1 Pack",
+                  "discount_percent": null,
+                  "price": "26.95",
+                  "compare_at_price": "33.95",
+                  "per_delivery_price": "26.95"
+                }
+              ]
+            },
+            {
+              "id": 47635167150419,
+              "title": "2 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "59.90",
+              "compare_at_price": "67.90",
+              "subscription_price": "45.90",
+              "subscription_options": [
+                {
+                  "plan_id": 689242898771,
+                  "plan_name": "Deliver every 2 months",
+                  "group_name": "Subscribe and Save - 2 Pack",
+                  "discount_percent": null,
+                  "price": "45.90",
+                  "compare_at_price": "59.90",
+                  "per_delivery_price": "45.90"
+                }
+              ]
+            },
+            {
+              "id": 47635167183187,
+              "title": "3 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "80.85",
+              "compare_at_price": "101.85",
+              "subscription_price": "59.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689242931539,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Subscribe and Save - 3 Pack",
+                  "discount_percent": null,
+                  "price": "59.85",
+                  "compare_at_price": "80.85",
+                  "per_delivery_price": "59.85"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/collagen-old?variant=47635167150419",
+        "https://elavate.com/products/multi-collagen-main",
+        "https://elavate.com/products/collagen-old"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/add-on-multigummy",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:42:26",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/add-on-multigummy",
+          "product_id": 8706167013715,
+          "product_name": "Female Multivitamin Gummy",
+          "handle": "add-on-multigummy",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/MultivitaminGummy1.png?v=1741177556",
+          "variants": [
+            {
+              "id": 47611573043539,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "14.95",
+              "compare_at_price": "14.95",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/add-on-multigummy",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/multivitamin-gummy",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:42:33",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/multivitamin-gummy",
+          "product_id": 9187262988627,
+          "product_name": "Female Multivitamin Gummy - 3 Bottles (3 Months Supply)",
+          "handle": "multivitamin-gummy",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/MultivitaminGummy1_a231f91a-6b58-473d-929e-3cc045c52bdf.png?v=1739842340",
+          "variants": [
+            {
+              "id": 48692890141011,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": "44.95",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/multivitamin-gummy",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/unflavoured-multi-collagen-superblend-copy",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:42:40",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/unflavoured-multi-collagen-superblend-copy",
+          "product_id": 9527063642451,
+          "product_name": "Unflavoured - Multi Collagen Superblend",
+          "handle": "unflavoured-multi-collagen-superblend-copy",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/UnflavouredCollagen.jpg?v=1746987945",
+          "variants": [
+            {
+              "id": 49557709521235,
+              "title": "1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "34.95",
+              "compare_at_price": "44.95",
+              "subscription_price": "34.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689424793939,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "34.95",
+                  "compare_at_price": "34.95",
+                  "per_delivery_price": "34.95"
+                }
+              ]
+            },
+            {
+              "id": 49557709554003,
+              "title": "3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.95",
+              "compare_at_price": "44.95",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689424859475,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.95",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            },
+            {
+              "id": 49557709586771,
+              "title": "6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "119.70",
+              "compare_at_price": "44.95",
+              "subscription_price": "119.70",
+              "subscription_options": [
+                {
+                  "plan_id": 689424925011,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "119.70",
+                  "compare_at_price": "119.70",
+                  "per_delivery_price": "119.70"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/unflavoured-multi-collagen-superblend-copy",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/vanilla-multi-collagen-superblend",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:42:46",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/vanilla-multi-collagen-superblend",
+          "product_id": 9527060332883,
+          "product_name": "Vanilla - Multi Collagen Superblend",
+          "handle": "vanilla-multi-collagen-superblend",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/VANILLA_1.jpg?v=1728252207",
+          "variants": [
+            {
+              "id": 49557695856979,
+              "title": "1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "34.95",
+              "compare_at_price": "44.95",
+              "subscription_price": "34.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689424761171,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "34.95",
+                  "compare_at_price": "34.95",
+                  "per_delivery_price": "34.95"
+                }
+              ]
+            },
+            {
+              "id": 49557695889747,
+              "title": "3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.95",
+              "compare_at_price": "44.95",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689424826707,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.95",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            },
+            {
+              "id": 49557695922515,
+              "title": "6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "119.70",
+              "compare_at_price": "44.95",
+              "subscription_price": "119.70",
+              "subscription_options": [
+                {
+                  "plan_id": 689424892243,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "119.70",
+                  "compare_at_price": "119.70",
+                  "per_delivery_price": "119.70"
+                }
+              ]
+            },
+            {
+              "id": 50597578211667,
+              "title": "9 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "175.50",
+              "compare_at_price": "44.95",
+              "subscription_price": "175.50",
+              "subscription_options": [
+                {
+                  "plan_id": 689975066963,
+                  "plan_name": "Deliver every 9 months",
+                  "group_name": "Deliver Every 9 Months",
+                  "discount_percent": null,
+                  "price": "175.50",
+                  "compare_at_price": "175.50",
+                  "per_delivery_price": "175.50"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/vanilla-multi-collagen-superblend",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/3-month-supply",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:42:54",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/3-month-supply",
+          "product_id": 8807247446355,
+          "product_name": "Multi Collagen Superblend - 3 Month Supply",
+          "handle": "3-month-supply",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/WrinkleFreePackage_2.jpg?v=1713146226",
+          "variants": [
+            {
+              "id": 47996666478931,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "64.95",
+              "compare_at_price": "89.95",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/3-month-supply",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/4-month-special-one-time",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:43:07",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/4-month-special-one-time",
+          "product_id": 8846698381651,
+          "product_name": "4 MONTH SUPPLY (Add-on) (SPECIAL ONE TIME PRICING)",
+          "handle": "4-month-special-one-time",
+          "description": "A potent multi-collagen blend mixed with functional mushrooms such as Lion’s mane, Coryceps and Shiitake as well as a blend of high quality essential vitamins and minerals such as Vitamin C, Vitamin B12 & Vitamin K2Added ingredients such as Hyaluronic Acid and Biotin help enhance the products effect o to boost skin elasticity as well as support healthy hair and nail growth. Unlike marine or bovine collagen, this unique collagen: * Absorbs much times better with it’s increased bioavailability thanks to the use of Liposomal Vitamin C in the blend with helps with Collagen Synthesis * Contains multiple sources of collagen, including both fish and bovine collagen which contain types 1, 3 and 5 collagen. This collagen blend helps you reduce fine lines and wrinkles or your Money back!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/MainImageEdited_bcd861e5-f343-4e61-9903-9b40f81b9168.png?v=1713309114",
+          "variants": [
+            {
+              "id": 48005717098835,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "110.95",
+              "compare_at_price": "110.95",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/4-month-special-one-time",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/chocolate-multi-collagen-superblend",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:43:14",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/chocolate-multi-collagen-superblend",
+          "product_id": 9647516123475,
+          "product_name": "Chocolate - Multi Collagen Superblend",
+          "handle": "chocolate-multi-collagen-superblend",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/VANILLA_1.jpg?v=1728252207",
+          "variants": [
+            {
+              "id": 49934708441427,
+              "title": "1 Bag",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "34.95",
+              "compare_at_price": "44.95",
+              "subscription_price": "34.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689306075475,
+                  "plan_name": "Deliver every month",
+                  "group_name": "1 Bag - Delivered Monthly",
+                  "discount_percent": null,
+                  "price": "34.95",
+                  "compare_at_price": "34.95",
+                  "per_delivery_price": "34.95"
+                }
+              ]
+            },
+            {
+              "id": 49934708474195,
+              "title": "3 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "68.95",
+              "compare_at_price": "44.95",
+              "subscription_price": "68.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689306108243,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Deliver every 3 months",
+                  "discount_percent": null,
+                  "price": "68.85",
+                  "compare_at_price": "68.95",
+                  "per_delivery_price": "68.85"
+                }
+              ]
+            },
+            {
+              "id": 49934708506963,
+              "title": "6 Bags",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "119.70",
+              "compare_at_price": "44.95",
+              "subscription_price": "119.70",
+              "subscription_options": [
+                {
+                  "plan_id": 689306141011,
+                  "plan_name": "Deliver every 6 months",
+                  "group_name": "Deliver every 6 months",
+                  "discount_percent": null,
+                  "price": "119.70",
+                  "compare_at_price": "119.70",
+                  "per_delivery_price": "119.70"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/chocolate-multi-collagen-superblend",
+        "https://elavate.com/products/multi-collagen-main"
+      ]
+    },
+    {
+      "url": "https://elavate.com/products/collagen-old?variant=47635167150419",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-18 19:43:22",
+      "products": [
+        {
+          "page_url": "https://elavate.com/products/collagen-old?variant=47635167150419",
+          "product_id": 8710704791891,
+          "product_name": "Multi Collagen Superblend - One Time & Subscribe (Old)",
+          "handle": "collagen-old",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0788/1762/4403/files/ChocolateCollagenDrink_4.jpg?v=1708700939",
+          "variants": [
+            {
+              "id": 47635238027603,
+              "title": "1 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "33.95",
+              "compare_at_price": "33.95",
+              "subscription_price": "26.95",
+              "subscription_options": [
+                {
+                  "plan_id": 689242866003,
+                  "plan_name": "Deliver every month",
+                  "group_name": "Subscribe and Save - 1 Pack",
+                  "discount_percent": null,
+                  "price": "26.95",
+                  "compare_at_price": "33.95",
+                  "per_delivery_price": "26.95"
+                }
+              ]
+            },
+            {
+              "id": 47635167150419,
+              "title": "2 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "59.90",
+              "compare_at_price": "67.90",
+              "subscription_price": "45.90",
+              "subscription_options": [
+                {
+                  "plan_id": 689242898771,
+                  "plan_name": "Deliver every 2 months",
+                  "group_name": "Subscribe and Save - 2 Pack",
+                  "discount_percent": null,
+                  "price": "45.90",
+                  "compare_at_price": "59.90",
+                  "per_delivery_price": "45.90"
+                }
+              ]
+            },
+            {
+              "id": 47635167183187,
+              "title": "3 Pack",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "80.85",
+              "compare_at_price": "101.85",
+              "subscription_price": "59.85",
+              "subscription_options": [
+                {
+                  "plan_id": 689242931539,
+                  "plan_name": "Deliver every 3 months",
+                  "group_name": "Subscribe and Save - 3 Pack",
+                  "discount_percent": null,
+                  "price": "59.85",
+                  "compare_at_price": "80.85",
+                  "per_delivery_price": "59.85"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://elavate.com/products/collagen-old?variant=47635167150419",
+        "https://elavate.com/products/multi-collagen-main",
+        "https://elavate.com/products/collagen-old"
+      ]
+    }
+  ]
+}
