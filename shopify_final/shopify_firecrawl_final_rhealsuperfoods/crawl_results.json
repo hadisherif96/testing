@@ -1,0 +1,1748 @@
+{
+  "crawl_time": "2025-10-20 13:59:29",
+  "total_pages": 30,
+  "product_pages": 20,
+  "total_products": 20,
+  "pages": [
+    {
+      "url": "https://rhealsuperfoods.com/",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:57:42",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/pages/quiz",
+        "https://rhealsuperfoods.com/pages/our-story",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/variety",
+        "https://rhealsuperfoods.com/a/collections/products",
+        "https://rhealsuperfoods.com/pages/friend-referral?situation=homepage",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/products/berry-beauty"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/gut-feel",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:57:46",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/gut-feel",
+          "product_id": 8213804024038,
+          "product_name": "Gut Feel",
+          "handle": "gut-feel",
+          "description": "Gut Friendly Superfoods: get your daily source of gut friendly superfoods with Baobab, Apple, Barley Grass, Ginger and Actazin® Kiwi, to support healthier digestion. Actazin® Kiwi: clinically proven to support digestion and healthier gut bacteria. Real Fruits, No Sweeteners: with freeze-dried Apple & Baobab. Suggested Use: mix with cool water for a gut balancing juice. Add to smoothies, yoghurt, health shots & much more!",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/gut-feel-rheal-superfoods-811045.jpg?v=1758823541",
+          "variants": [
+            {
+              "id": 43779773890790,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "25.00",
+              "compare_at_price": null,
+              "subscription_price": "21.25",
+              "subscription_options": [
+                {
+                  "plan_id": 5224988902,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 5225021670,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 5225054438,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 6084165862,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/clean-greens",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:57:49",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/clean-greens",
+          "product_id": 40701263895,
+          "product_name": "Clean Greens",
+          "handle": "clean-greens",
+          "description": "Daily Super-Greens: your daily serving of nutritious greens to support wellness; Wheatgrass, Barley Grass, Spirulina, Moringa & Chlorella. Real Fruits, No Sweeteners: with added Baobab & Pineapple for a more balanced taste. Suggested Use: mix with water & a squeeze of fresh lemon. Add to smoothies, health shots, juices & much more. Certified Organic: Baobab, Barley Grass, Chlorella, Moringa, Pineapple, Wheatgrass, Spirulina, Camu Camu Berry. Total per 100g Energy: 1220.5kJ / 291.5kcal Fat (g): 2.9 Of which saturates (g): 0.8 Carbohydrate (g): 29.9 Of which sugars (g): 16.4 Fibre (g): 31.6 Protein (g): 23.7 Salt (g): 0.3 Vitamin B6 (mg): 0.75 / 54%* Vitamin C (mg): 455 / 569%* Calcium (mg): 441 / 55%* Iron (mg): 31.9 / 228%* *Recommended Daily Allowance (RDA). Disclaimer: This product has not been designed to treat, cure, or prevent any disease. We encourage you to undertake your own personal research and to consult a qualified medical professional if you have any concerns or queries prior to consuming this product.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/products/clean-greens-single-blend-superfoods-547183.png?v=1691610704",
+          "variants": [
+            {
+              "id": 387059318807,
+              "title": "Default Title",
+              "weight": 375,
+              "available": true,
+              "buy_once_price": "25.00",
+              "compare_at_price": null,
+              "subscription_price": "21.25",
+              "subscription_options": [
+                {
+                  "plan_id": 4988895462,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 4988928230,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 5043323110,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 6084100326,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/balance-tonic",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:57:53",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/balance-tonic",
+          "product_id": 7776069615846,
+          "product_name": "Balance Tonic",
+          "handle": "balance-tonic",
+          "description": "500mg KSM-66® Ashwagandha: the highest grade of Ashwagandha available, to support mental health & sexual health. Female Friendly Superfoods: with Wild Blueberry, Hibiscus & Baobab to support female health & wellness. Suggested Use: mix with still or sparkling water for a refreshing elixir. Add to smoothies, juices, yoghurt & much more.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/balance-tonic-case-of-6-product-rheal-superfoods-515684.webp?v=1739257371",
+          "variants": [
+            {
+              "id": 42894471921894,
+              "title": "Default Title",
+              "weight": 244,
+              "available": true,
+              "buy_once_price": "25.00",
+              "compare_at_price": null,
+              "subscription_price": "21.25",
+              "subscription_options": [
+                {
+                  "plan_id": 4688085222,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 4688117990,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 5043618022,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 6084133094,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 6439370982,
+                  "plan_name": "Delivers every 12 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/balance-tonic-sachets",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/coco-dream",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/variety",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:57:57",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/variety",
+          "product_id": 8711057244390,
+          "product_name": "Bars Variety Box",
+          "handle": "variety",
+          "description": "The Variety Box: Enjoy 3 of each of our caffeinated oat bars; Banana Bread, Blueberry Muffin, Hazelnut Cacao & Peanut Butter. Rheal Energy: As much caffeine as a single espresso - purely from the Brazilian superfood, Guarana. All the things you’ll love: A delicious flavor, with only natural ingredients - gooey and chewy, with a little crunch.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/1_d9f71b7d-3777-402f-bb9f-e0988b133186.png?v=1717654078",
+          "variants": [
+            {
+              "id": 45029782454502,
+              "title": "Default Title",
+              "weight": 590,
+              "available": true,
+              "buy_once_price": "22.00",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/variety",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/peanut-butter",
+        "https://rhealsuperfoods.com/products/mushroom-coffee",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/berry-beauty",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:05",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/berry-beauty",
+          "product_id": 37415976983,
+          "product_name": "Berry Beauty",
+          "handle": "berry-beauty",
+          "description": "Your Daily Source of Vitamin C: Over 100% RI of Vitamin C to support skin health & wellness. 7 Nutritious Superfoods: including Chia Seeds, Açai Berry & Maca Root. Suggested Use: mix with water, add to smoothies, juices, sprinkle over yoghurt & much more.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/products/berry-beauty-single-blend-superfoods-618882.png?v=1691610745",
+          "variants": [
+            {
+              "id": 350450974743,
+              "title": "Default Title",
+              "weight": 375,
+              "available": true,
+              "buy_once_price": "25.00",
+              "compare_at_price": null,
+              "subscription_price": "21.25",
+              "subscription_options": [
+                {
+                  "plan_id": 4687102182,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 5041094886,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 5041127654,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 6084067558,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/coco-dream",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:07",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/plant-collagen",
+        "https://rhealsuperfoods.com/products/gut-feel-bundle",
+        "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+        "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+        "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+        "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+        "https://rhealsuperfoods.com/products/mushroom-coffee",
+        "https://rhealsuperfoods.com/products/coco-dream",
+        "https://rhealsuperfoods.com/products/magic-matcha",
+        "https://rhealsuperfoods.com/products/feel-good-bundle",
+        "https://rhealsuperfoods.com/products/best-seller-bundle",
+        "https://rhealsuperfoods.com/products/female-health-bundle",
+        "https://rhealsuperfoods.com/products/daily-immunity-bundle",
+        "https://rhealsuperfoods.com/products/mind-body-bundle"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/pages/friend-referral",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:10",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products",
+        "https://rhealsuperfoods.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/pages/quiz",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:13",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/pages/quiz",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/pages/our-story",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:20",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/pages/our-story",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/pages/products",
+        "https://rhealsuperfoods.com/pages/quiz",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/variety",
+        "https://rhealsuperfoods.com/a/collections/products",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/products/berry-beauty"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/a/collections/products",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:23",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/plant-collagen",
+        "https://rhealsuperfoods.com/products/gut-feel-bundle",
+        "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+        "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+        "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+        "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+        "https://rhealsuperfoods.com/products/rheal-wellness-shots-variety-pack-12x60ml",
+        "https://rhealsuperfoods.com/products/mushroom-coffee",
+        "https://rhealsuperfoods.com/products/coco-dream",
+        "https://rhealsuperfoods.com/products/magic-matcha",
+        "https://rhealsuperfoods.com/products/feel-good-bundle",
+        "https://rhealsuperfoods.com/products/best-seller-bundle",
+        "https://rhealsuperfoods.com/products/female-health-bundle",
+        "https://rhealsuperfoods.com/products/daily-immunity-bundle"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/pages/friend-referral?situation=homepage",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:26",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/pages/friend-referral?situation=homepage",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products",
+        "https://rhealsuperfoods.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/pages/privacy-policy",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:28",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/blogs/recipes",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:31",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/balance-tonic",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/berry-beauty",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/clean-greens",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/coco-dream",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/featured",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/featured-recipe",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/gut-feel",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/magic-matcha",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/plant-collagen",
+        "https://rhealsuperfoods.com/blogs/recipes/tagged/shroom-coffee",
+        "https://rhealsuperfoods.com/blogs/recipes/iced-balance-tea",
+        "https://rhealsuperfoods.com/blogs/recipes/gut-feel-ice-lollies",
+        "https://rhealsuperfoods.com/blogs/recipes/berry-beauty-soda-ice-cubes",
+        "https://rhealsuperfoods.com/blogs/recipes/mango-matcha-clusters",
+        "https://rhealsuperfoods.com/blogs/recipes/iced-coconut-matcha-latte",
+        "https://rhealsuperfoods.com/blogs/recipes/balancing-coconut-matcha-latte",
+        "https://rhealsuperfoods.com/blogs/recipes/autumn-spiced-chia-pudding",
+        "https://rhealsuperfoods.com/blogs/recipes/gut-feel-anti-bloat-drink",
+        "https://rhealsuperfoods.com/products/balance-tonic"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/pages/terms-and-conditions",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:34",
+      "products": [],
+      "links_found": [
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products",
+        "https://rhealsuperfoods.com/pages/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/balance-tonic-sachets",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:38",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/balance-tonic-sachets",
+          "product_id": 8747086151910,
+          "product_name": "Balance Tonic Sachets",
+          "handle": "balance-tonic-sachets",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/balance-tonic-sachets-rheal-258472.png?v=1719425936",
+          "variants": [
+            {
+              "id": 45120184615142,
+              "title": "Default Title",
+              "weight": 85,
+              "available": true,
+              "buy_once_price": "9.99",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/balance-tonic-sachets",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/coco-dream",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:41",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/coco-dream",
+          "product_id": 3965690478615,
+          "product_name": "Coco Dream",
+          "handle": "coco-dream",
+          "description": "Reishi Mushroom & KSM-66 Ashwagandha: to relax the mind for a better night’s sleep. Raw Cacao & Cinnamon: for a delicious, healthy hot chocolate - the perfect brew before bed. Suggested Use: mix a teaspoon with a little hot water, before topping with warm milk (add an optional sweetener).",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/products/coco-dream-single-blend-super-u-836648.png?v=1684490638",
+          "variants": [
+            {
+              "id": 29515268522007,
+              "title": "Default Title",
+              "weight": 425,
+              "available": true,
+              "buy_once_price": "25.00",
+              "compare_at_price": null,
+              "subscription_price": "21.25",
+              "subscription_options": [
+                {
+                  "plan_id": 4687429862,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 4687462630,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 5043257574,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                },
+                {
+                  "plan_id": 6083510502,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "21.25",
+                  "compare_at_price": "25.00",
+                  "per_delivery_price": "21.25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/coco-dream",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/magic-matcha",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/peanut-butter",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:47",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/peanut-butter",
+          "product_id": 8711056851174,
+          "product_name": "Peanut Butter",
+          "handle": "peanut-butter",
+          "description": "Rheal Energy: As much caffeine as a single espresso - purely from the Brazilian superfood, Guarana. Superfoods: With organic Chia Seeds & lots of Peanuts of course. All the things you'll love: A delicious flavor, with only natural ingredients - gooey and chewy, with a little crunch.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/5_fb6a60f5-facd-4ae1-96ed-78dd62d9b910.png?v=1717654079",
+          "variants": [
+            {
+              "id": 45029781962982,
+              "title": "Default Title",
+              "weight": 590,
+              "available": true,
+              "buy_once_price": "22.00",
+              "compare_at_price": null,
+              "subscription_price": "18.70",
+              "subscription_options": [
+                {
+                  "plan_id": 5710282982,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "18.70",
+                  "compare_at_price": "22.00",
+                  "per_delivery_price": "18.70"
+                },
+                {
+                  "plan_id": 5710315750,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "18.70",
+                  "compare_at_price": "22.00",
+                  "per_delivery_price": "18.70"
+                },
+                {
+                  "plan_id": 5710348518,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "18.70",
+                  "compare_at_price": "22.00",
+                  "per_delivery_price": "18.70"
+                },
+                {
+                  "plan_id": 6083641574,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "18.70",
+                  "compare_at_price": "22.00",
+                  "per_delivery_price": "18.70"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/peanut-butter",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/variety",
+        "https://rhealsuperfoods.com/products/mushroom-coffee",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/mushroom-coffee",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:51",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/mushroom-coffee",
+          "product_id": 3957990096919,
+          "product_name": "Shroom Coffee",
+          "handle": "mushroom-coffee",
+          "description": "Arabica Coffee: a premium and organic Colombian Arabica coffee, for a delicious flavour & aroma. Functional Mushrooms: with 250mg of Lion's Mane Mushroom per serving. Adaptogenic Properties: with 250mg Maca Root. Less Caffeine: only 50mg of caffeine per serving, for energy without the jitters. Suggested Use: brew as normal with hot water and add a splash of milk if desired.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/shroom-coffee-single-blend-super-u-259223.jpg?v=1709282028",
+          "variants": [
+            {
+              "id": 29488388112407,
+              "title": "Default Title",
+              "weight": 375,
+              "available": true,
+              "buy_once_price": "35.00",
+              "compare_at_price": null,
+              "subscription_price": "29.75",
+              "subscription_options": [
+                {
+                  "plan_id": 4687167718,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                },
+                {
+                  "plan_id": 4687200486,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                },
+                {
+                  "plan_id": 5043192038,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                },
+                {
+                  "plan_id": 6083543270,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/mushroom-coffee",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/magic-matcha",
+        "https://rhealsuperfoods.com/products/coco-dream",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/plant-collagen",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:54",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/plant-collagen",
+          "product_id": 8532807155942,
+          "product_name": "Plant Collagen",
+          "handle": "plant-collagen",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/plant-collagen-product-rheal-superfoods-711731.jpg?v=1718856796",
+          "variants": [
+            {
+              "id": 44603544797414,
+              "title": "Default Title",
+              "weight": 244,
+              "available": true,
+              "buy_once_price": "30.00",
+              "compare_at_price": "30.00",
+              "subscription_price": "25.50",
+              "subscription_options": [
+                {
+                  "plan_id": 5641765094,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "25.50",
+                  "compare_at_price": "30.00",
+                  "per_delivery_price": "25.50"
+                },
+                {
+                  "plan_id": 5641797862,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "25.50",
+                  "compare_at_price": "30.00",
+                  "per_delivery_price": "25.50"
+                },
+                {
+                  "plan_id": 5641830630,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "25.50",
+                  "compare_at_price": "30.00",
+                  "per_delivery_price": "25.50"
+                },
+                {
+                  "plan_id": 6083608806,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "25.50",
+                  "compare_at_price": "30.00",
+                  "per_delivery_price": "25.50"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/plant-collagen",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/gut-feel-bundle",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:58:58",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/gut-feel-bundle",
+          "product_id": 8927830409446,
+          "product_name": "Gut Health Bundle",
+          "handle": "gut-feel-bundle",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/gut-health-bundle-bundle-rheal-superfoods-459373.png?v=1758823550",
+          "variants": [
+            {
+              "id": 45650871386342,
+              "title": "Default Title",
+              "weight": 2200,
+              "available": true,
+              "buy_once_price": "51.30",
+              "compare_at_price": "57.00",
+              "subscription_price": "43.61",
+              "subscription_options": [
+                {
+                  "plan_id": 6199935206,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                },
+                {
+                  "plan_id": 6199967974,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                },
+                {
+                  "plan_id": 6200000742,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                },
+                {
+                  "plan_id": 6200033510,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/gut-feel-bundle",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:01",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+          "product_id": 8891546566886,
+          "product_name": "Berry Biotic",
+          "handle": "berry-biotic-wellness-shots",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/berry-biotic-wellness-shots-rheal-superfoods-386108.jpg?v=1734347194",
+          "variants": [
+            {
+              "id": 45522021056742,
+              "title": "Default Title",
+              "weight": 1885,
+              "available": true,
+              "buy_once_price": "32.00",
+              "compare_at_price": null,
+              "subscription_price": "27.20",
+              "subscription_options": [
+                {
+                  "plan_id": 6034882790,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6034915558,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6083870950,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6083903718,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+        "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+        "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+        "https://rhealsuperfoods.com/products/rheal-wellness-shots-variety-pack-12x60ml",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:05",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+          "product_id": 8891552694502,
+          "product_name": "Ginger Zing",
+          "handle": "ginger-zing-wellness-shots",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/ginger-zing-wellness-shots-rheal-superfoods-949102.jpg?v=1734347210",
+          "variants": [
+            {
+              "id": 45522030559462,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "32.00",
+              "compare_at_price": null,
+              "subscription_price": "27.20",
+              "subscription_options": [
+                {
+                  "plan_id": 6034784486,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6034817254,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6084002022,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6084034790,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+        "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+        "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+        "https://rhealsuperfoods.com/products/rheal-wellness-shots-variety-pack-12x60ml",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:08",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+          "product_id": 8891546337510,
+          "product_name": "Blueberry Beets",
+          "handle": "blueberry-beets-wellness-shots",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/blueberry-beets-wellness-shots-rheal-superfoods-452092.jpg?v=1734347205",
+          "variants": [
+            {
+              "id": 45522020827366,
+              "title": "Default Title",
+              "weight": 1885,
+              "available": true,
+              "buy_once_price": "32.00",
+              "compare_at_price": null,
+              "subscription_price": "27.20",
+              "subscription_options": [
+                {
+                  "plan_id": 6034686182,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6034718950,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6083805414,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6083838182,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+        "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+        "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+        "https://rhealsuperfoods.com/products/rheal-wellness-shots-variety-pack-12x60ml",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:11",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+          "product_id": 8891552465126,
+          "product_name": "Super Greens",
+          "handle": "super-greens-wellness-shots",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/super-greens-wellness-shots-rheal-superfoods-893869.jpg?v=1734347199",
+          "variants": [
+            {
+              "id": 45522030297318,
+              "title": "Default Title",
+              "weight": 1885,
+              "available": true,
+              "buy_once_price": "32.00",
+              "compare_at_price": null,
+              "subscription_price": "27.20",
+              "subscription_options": [
+                {
+                  "plan_id": 6034981094,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6035013862,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6083936486,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                },
+                {
+                  "plan_id": 6083969254,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "27.20",
+                  "compare_at_price": "32.00",
+                  "per_delivery_price": "27.20"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/super-greens-wellness-shots",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+        "https://rhealsuperfoods.com/products/berry-biotic-wellness-shots",
+        "https://rhealsuperfoods.com/products/blueberry-beets-wellness-shots",
+        "https://rhealsuperfoods.com/products/rheal-wellness-shots-variety-pack-12x60ml",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/magic-matcha",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:15",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/magic-matcha",
+          "product_id": 3965690413079,
+          "product_name": "Magic Matcha",
+          "handle": "magic-matcha",
+          "description": "Japanese Grade Matcha: for a delicious & slow release in energy. Lion’s Mane Mushroom & KSM-66 Ashwagandha: with 500mg of Lion’s Mane Extract to support better focus with every sip. Suggested Use: mix a teaspoon with a little hot water and mix well to dissolve. Top with ice & milk for a refreshing matcha latte. Certified Organic: Japanese Matcha, Dual-extracted Lion's Mane Mushroom, Ashwagandha, Ginger. Total per 100g Energy: 1255kJ / 300kcal Fat (g): 1.7 Of which saturates (g): 0.5 Carbohydrate (g): 67.2 Of which sugars (g): 4.9 Fibre (g): 31.3 Protein (g): 19.5 Salt (g): 0.02 Vitamin B9 (μg): 5.09 / 40%* Vitamin C (mg): 149 / 189%* Vitamin K (μg): 2300 / 3066%* Iron (mg): 4.06 / 29%* *Recommended Daily Allowance (RDA). Disclaimer: This product has not been designed to treat, cure, or prevent any disease. We encourage you to undertake your own personal research and to consult a qualified medical professional if you have any concerns or queries prior to consuming this product.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/products/magic-matcha-single-blend-super-u-320304.png?v=1684490647",
+          "variants": [
+            {
+              "id": 29515268325399,
+              "title": "Default Title",
+              "weight": 375,
+              "available": true,
+              "buy_once_price": "35.00",
+              "compare_at_price": null,
+              "subscription_price": "29.75",
+              "subscription_options": [
+                {
+                  "plan_id": 4687397094,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                },
+                {
+                  "plan_id": 4687364326,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                },
+                {
+                  "plan_id": 5043224806,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                },
+                {
+                  "plan_id": 6083346662,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "29.75",
+                  "compare_at_price": "35.00",
+                  "per_delivery_price": "29.75"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/magic-matcha",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/blogs/recipes",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/products/mushroom-coffee",
+        "https://rhealsuperfoods.com/products/coco-dream",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/feel-good-bundle",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:18",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/feel-good-bundle",
+          "product_id": 241283956759,
+          "product_name": "Feel Good Bundle",
+          "handle": "feel-good-bundle",
+          "description": "Daily Wellness Support: with our go-to superfood blends to support immunity, gut health & skin health. 14 Feel Good Superfoods: start glowing on the inside-out with super-greens, berries, adaptogens + more. Suggested Use: mix with water, add to smoothies, juices, sprinkle over yoghurt & much more.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/products/feel-good-bundle-bundle-superfoods-156686.png?v=1691610761",
+          "variants": [
+            {
+              "id": 2832043180055,
+              "title": "Default Title",
+              "weight": 750,
+              "available": true,
+              "buy_once_price": "45.00",
+              "compare_at_price": "50.00",
+              "subscription_price": "38.25",
+              "subscription_options": [
+                {
+                  "plan_id": 4687233254,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                },
+                {
+                  "plan_id": 4687266022,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                },
+                {
+                  "plan_id": 5043159270,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                },
+                {
+                  "plan_id": 6083576038,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/feel-good-bundle",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/products/mushroom-coffee",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/best-seller-bundle",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:22",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/best-seller-bundle",
+          "product_id": 8927830212838,
+          "product_name": "Best Seller Bundle",
+          "handle": "best-seller-bundle",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/best-seller-bundle-bundle-rheal-superfoods-957881.jpg?v=1758823545",
+          "variants": [
+            {
+              "id": 45650871189734,
+              "title": "Default Title",
+              "weight": 488,
+              "available": true,
+              "buy_once_price": "45.00",
+              "compare_at_price": "50.00",
+              "subscription_price": "38.25",
+              "subscription_options": [
+                {
+                  "plan_id": 6105628902,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                },
+                {
+                  "plan_id": 6105661670,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                },
+                {
+                  "plan_id": 6105694438,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                },
+                {
+                  "plan_id": 6105727206,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "38.25",
+                  "compare_at_price": "45.00",
+                  "per_delivery_price": "38.25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/best-seller-bundle",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/female-health-bundle",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:25",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/female-health-bundle",
+          "product_id": 8927830245606,
+          "product_name": "Women's Wellness Bundle",
+          "handle": "female-health-bundle",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/womens-wellness-bundle-bundle-rheal-superfoods-498583.jpg?v=1738670766",
+          "variants": [
+            {
+              "id": 45650871222502,
+              "title": "Default Title",
+              "weight": 488,
+              "available": true,
+              "buy_once_price": "49.50",
+              "compare_at_price": "55.00",
+              "subscription_price": "42.08",
+              "subscription_options": [
+                {
+                  "plan_id": 6105759974,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "42.08",
+                  "compare_at_price": "49.50",
+                  "per_delivery_price": "42.08"
+                },
+                {
+                  "plan_id": 6105792742,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "42.08",
+                  "compare_at_price": "49.50",
+                  "per_delivery_price": "42.08"
+                },
+                {
+                  "plan_id": 6105825510,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "42.08",
+                  "compare_at_price": "49.50",
+                  "per_delivery_price": "42.08"
+                },
+                {
+                  "plan_id": 6105858278,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "42.08",
+                  "compare_at_price": "49.50",
+                  "per_delivery_price": "42.08"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/female-health-bundle",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/plant-collagen",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    },
+    {
+      "url": "https://rhealsuperfoods.com/products/daily-immunity-bundle",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 13:59:29",
+      "products": [
+        {
+          "page_url": "https://rhealsuperfoods.com/products/daily-immunity-bundle",
+          "product_id": 8927830343910,
+          "product_name": "Immunity Bundle",
+          "handle": "daily-immunity-bundle",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/2326/5495/files/immunity-bundle-bundle-rheal-superfoods-131693.jpg?v=1738840215",
+          "variants": [
+            {
+              "id": 45650871320806,
+              "title": "Default Title",
+              "weight": 2200,
+              "available": true,
+              "buy_once_price": "51.30",
+              "compare_at_price": "57.00",
+              "subscription_price": "43.61",
+              "subscription_options": [
+                {
+                  "plan_id": 6105497830,
+                  "plan_name": "Delivers every 4 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                },
+                {
+                  "plan_id": 6105530598,
+                  "plan_name": "Delivers every 2 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                },
+                {
+                  "plan_id": 6105563366,
+                  "plan_name": "Delivers every 6 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                },
+                {
+                  "plan_id": 6105596134,
+                  "plan_name": "Delivers every 8 Weeks",
+                  "group_name": "Subscribe & Save",
+                  "discount_percent": 15,
+                  "price": "43.61",
+                  "compare_at_price": "51.30",
+                  "per_delivery_price": "43.61"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://rhealsuperfoods.com/products/daily-immunity-bundle",
+        "https://rhealsuperfoods.com/a/collections/products?subscriptions=true",
+        "https://rhealsuperfoods.com/pages/friend-referral",
+        "https://rhealsuperfoods.com/products/clean-greens",
+        "https://rhealsuperfoods.com/products/ginger-zing-wellness-shots",
+        "https://rhealsuperfoods.com/pages/privacy-policy",
+        "https://rhealsuperfoods.com/pages/terms-and-conditions",
+        "https://rhealsuperfoods.com/products/balance-tonic",
+        "https://rhealsuperfoods.com/products/gut-feel",
+        "https://rhealsuperfoods.com/products/berry-beauty",
+        "https://rhealsuperfoods.com/a/collections/products"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2146 @@
+{
+  "crawl_time": "2025-10-20 14:12:28",
+  "total_pages": 30,
+  "product_pages": 24,
+  "total_products": 24,
+  "pages": [
+    {
+      "url": "https://www.my-wellness.uk/",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:30",
+      "products": [],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/superior-whey-protein-462g",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:34",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/superior-whey-protein-462g",
+          "product_id": 4874298228815,
+          "product_name": "My Wellness Superior Whey Protein",
+          "handle": "superior-whey-protein-462g",
+          "description": "SUPERIOR WHEY GOLD MEDAL STANDARD ISO-WHEY My Wellness Superior Whey protein is a revolution in modern whey protein supplementation in that it proves you with all the muscular benefits of top-quality whey protein and combines it with the health benefits of super foods. A blend of whey isolate and whey concentrate. This whey protein is sourced from pasture-raised cows, free of all GMO’s or BSE resulting in whey protein that is far superior to normal whey protein. High in Branch Chain amino acids, especially L-Leucine, this whey protein provides all the necessary amino acids needed in lean muscle repair and building. DIRECTIONS FOR USE Dissolve 2 level scoops of powder into 300ml of water or skim milk. Your protein requirements will vary according to your weight and training schedule. Use a shaker, blender or a spoon to dissolve and consume. TYPICAL NUTRITIONAL INFORMATION Serving size: 2 level scoops (33g)PER 33g 100gEnergy 555.9kJ 1635 kJProtein 25g 75gCarbohydrate 3.5g 10.3gOf which total sugars 2.2g 6.6gTotal fats 2.2g 6.6gOf total saturated fats 1.3g 3.9gDietary Fibre 0.99g 2.9gTotal Sodium 78.9mg 232mg TYPICAL AMINO PROFILE PER 100g ESSENTIAL AMINO ACIDS:Lysine 10100mg Methionine 2100mg Phenylalanine 3900mgThreoine 7500mgTryptophan 2100mgNON- ESSENTIAL AMINO ACIDS:Histidine 2000mgAlanine 5800mgArginine 2900mgAspartic Acid 11000mgCysteine 2500mgGlutamic Acid 19000mgGlycine 2300mgProline 6500mgSeranin 5300mgTyrosine 3400mg Disclaimer:This is not a medicine and has not been evaluated and verified by the South African Health Products Regulatory Authority for its quality, safety or intended use. Use of this product must not substitute the obtaining of medical advice from a registered health professional for any health conditions you may have. To avoid an adverse reaction, please obtain advice from your medical practitioner if you are pregnant/breastfeeding, have a medical condition, or are taking any medication.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Superior-Whey-450g-Front.jpg?v=1614018263",
+          "variants": [
+            {
+              "id": 32907937710159,
+              "title": "Chocolate / 462g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "207.83",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956739151,
+              "title": "Chocolate / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "390.43",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956771919,
+              "title": "Chocolate / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "694.78",
+              "compare_at_price": "738.26",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956804687,
+              "title": "Chocolate / 3.3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1042.61",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 32907937742927,
+              "title": "Vanilla / 462g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "207.83",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956837455,
+              "title": "Vanilla / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "390.43",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956870223,
+              "title": "Vanilla / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "694.78",
+              "compare_at_price": "738.26",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956902991,
+              "title": "Vanilla / 3.3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1042.61",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 39978228514895,
+              "title": "Fresh Strawberry / 462g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "207.83",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956935759,
+              "title": "Fresh Strawberry / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "390.43",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973956968527,
+              "title": "Fresh Strawberry / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "694.78",
+              "compare_at_price": "738.26",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973957001295,
+              "title": "Fresh Strawberry / 3.3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1042.61",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 40781213990991,
+              "title": "Salted Caramel / 462g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "207.83",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973957034063,
+              "title": "Salted Caramel / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "390.43",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973957066831,
+              "title": "Salted Caramel / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "694.78",
+              "compare_at_price": "738.26",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973957099599,
+              "title": "Salted Caramel / 3.3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1042.61",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973957132367,
+              "title": "Tin Roof / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "694.78",
+              "compare_at_price": "738.26",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973957165135,
+              "title": "Tin Roof / 3.3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1042.61",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/super-natures-whey-450g",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:37",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/super-natures-whey-450g",
+          "product_id": 4874296787023,
+          "product_name": "My Wellness Super Nature's Whey Protein",
+          "handle": "super-natures-whey-450g",
+          "description": "Super Nature's Whey Product Information: Superfood Enhanced Protein Naturally Gluten Free Whey from Grass Fed Cows My Wellness Nature's Whey is a high-quality protein that is made from grass-fed whey protein containing whey concentrate. It is free from all artificial additives, including any flavouring, sweeteners and process aids. Ideal for those looking for a very clean protein source to supplement with. It is high in branch chain amino acids and glutamine. This product is also ideal for those looking to support lean muscle mass or for general wellbeing. Typical Nutritional InformationServing size: 1 heaped scoop (25g)Per 25g Per 100gEnergy 495kJ 1649kJProtein 20g 80gCarbohydrates 1.5g 6gOf which total sugars 1g 4gDietary Fibre 0.05g 0.2gTotal Fat 1,5g 6gOf which Saturates 1g 4gTotal Sodium 70mg 280mgIngredients :Whey Protein Concentrate from Grass-Fed Cows, Organic Raw Cacao powder (in chocolate flavour only), Creamy Chai Mix: Nutmeg, Cinnamon, Cloves Powder, MCT oil powder, Black Pepper (in creamy chai flavour only), Stevia Leaf (in flavoured variants only).",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Natures-Whey-450g-Front.jpg?v=1614017703",
+          "variants": [
+            {
+              "id": 32907932336207,
+              "title": "Chocolate / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "233.91",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205368911,
+              "title": "Chocolate / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "416.52",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205401679,
+              "title": "Chocolate / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "738.26",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205434447,
+              "title": "Chocolate / 3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1086.09",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 32907932368975,
+              "title": "Unflavoured / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "233.91",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205467215,
+              "title": "Unflavoured / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "416.52",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205499983,
+              "title": "Unflavoured / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "738.26",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205532751,
+              "title": "Unflavoured / 3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1129.57",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 32907932401743,
+              "title": "Creamy Indian Chai / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "233.91",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205565519,
+              "title": "Creamy Indian Chai / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "416.52",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205598287,
+              "title": "Creamy Indian Chai / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "738.26",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205631055,
+              "title": "Creamy Indian Chai / 3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1086.09",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 40045362610255,
+              "title": "Berry and Beet / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "216.52",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205663823,
+              "title": "Berry and Beet / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "373.04",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205696591,
+              "title": "Berry and Beet / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "738.26",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205729359,
+              "title": "Berry and Beet / 3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1042.61",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 40820664762447,
+              "title": "Vanilla Bean / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "233.91",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205762127,
+              "title": "Vanilla Bean / 900g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "416.52",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205794895,
+              "title": "Vanilla Bean / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "738.26",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205827663,
+              "title": "Vanilla Bean / 3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1086.09",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205860431,
+              "title": "Mocha Java / 2kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "738.26",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41973205893199,
+              "title": "Mocha Java / 3kg",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "1086.09",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/pure-creatine-monohydrate",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:41",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/pure-creatine-monohydrate",
+          "product_id": 3953570971727,
+          "product_name": "My Wellness Pure Creatine Monohydrate",
+          "handle": "pure-creatine-monohydrate",
+          "description": "HIGH GRADE CREATINE POWDER PRODUCT DESCRIPTION Creatine Monohydrate is the most used and effective bodybuilding supplement on the market for good reason. This creatine product 100% natural found in red meat and is also produced by our bodies to supply energy to our muscles. Pure Creatine Monohydrate when used regularly is scientifically proven to assist muscle growth, muscle power and muscle recovery making it an indispensable option in your supplement program. DIRECTIONS FOR USE LOADING PHASE (OPTIONAL) Take 20g of Creatine Monohydrate daily for 5 days. This should be divided into 4 daily doses of 5g each mixed into a carbohydrate-based drink. (e.g. Pro Nutrition Carb Up). MAINTENANCE PHASE: Take 5-10g of Creatine Monohydrate a day. For best results, this should be mixed into a post-workout protein drink. TYPICAL NUTRITIONAL INFORMATION Serving size: 1 tablespoon (approx. 5g) Pure Creatine Monohydrate WARNING Do not use if breast feeding or lactating. Do not use if you have kidney problems. Consult your doctor before use. Creatine Monohydrate is not a medicine and not meant to treat, diagnose or cure any disease. Please use responsibility and keep out of reach of children.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Creatine-Monohydrate-300g-1_e111c538-e06f-4294-804f-fded7ba15a2c.jpg?v=1719841103",
+          "variants": [
+            {
+              "id": 41974167765071,
+              "title": "300g",
+              "weight": 600,
+              "available": true,
+              "buy_once_price": "199.13",
+              "compare_at_price": "181.74",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41974167797839,
+              "title": "500g",
+              "weight": 600,
+              "available": true,
+              "buy_once_price": "233.91",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/super-vegan-protein-450g",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:45",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/super-vegan-protein-450g",
+          "product_id": 4874299342927,
+          "product_name": "My Wellness Super Vegan Protein",
+          "handle": "super-vegan-protein-450g",
+          "description": "Super Vegan Protein The combination of hemp and pea protein powder provides a rich source of essential and non-essential amino acids that are highly bioavailable and easily digestible. The amino profile is comparable to the best animal protein sources containing high levels of L-Isoleucine, L-Valine, L-Arginine and L-Leucine, which are beneficial after a strenuous workout. The proteins used in this product are hypo-allergenic and created using low temperature and natural processes without the use of chemicals. DIRECTIONS FOR USEAdd one heaped scoop (30g) to approx 250ml of water shake in a shaker cup or blender for 20 seconds until powder is dissolved. Consume one serving 2-3 times per day or as required. SUPERFOOD FACTS HEMP SEED PROTEIN: Direct from seed, this provides source of antioxidants and omega 3 fatty acids. The high fibre content and high micronutrient density make hemp protein a true superfood. WHEATGRASS: It is extremely rich in protein and contains 17 amino acids, the building blocks of protein. Wheatgrass contains up to 70% chlorophyll, which is an important blood builder. TYPICAL NUTRITIONAL INFORMATION SERVING SIZE: 1 Heaped Scoop (30g) INGREDIENTS:Yellow Pea Protein, Hemp Seed Protein, Organic Cacao Powder (in Chocolate variant only), Vanilla Extract (in Vanilla variant only), Creamy Chal Blend: Nutmeg Powder, Cinnamon Powder, Cloves Powder (in Chai variant only), Coffee Granules (in Mocha Java variant only), Low-GI Natural Sweetener Blend (Erythritol, Fructose, Stevia Leaf), Wheatgrass Powder. ALLERGENS: Made in a factory that handles nuts.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Vegan-Protein-450g-Front.jpg?v=1614018675",
+          "variants": [
+            {
+              "id": 32907941118031,
+              "title": "Chocolate / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "173.04",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972517961807,
+              "title": "Chocolate / 900g",
+              "weight": 950,
+              "available": true,
+              "buy_once_price": "277.39",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972517994575,
+              "title": "Chocolate / 2kg",
+              "weight": 2500,
+              "available": true,
+              "buy_once_price": "477.39",
+              "compare_at_price": "520.87",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518027343,
+              "title": "Chocolate / 3kg",
+              "weight": 3500,
+              "available": true,
+              "buy_once_price": "651.30",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 32907941150799,
+              "title": "Unflavoured / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "173.04",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518060111,
+              "title": "Unflavoured / 900g",
+              "weight": 950,
+              "available": true,
+              "buy_once_price": "277.39",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518092879,
+              "title": "Unflavoured / 2kg",
+              "weight": 2500,
+              "available": true,
+              "buy_once_price": "477.39",
+              "compare_at_price": "520.87",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518125647,
+              "title": "Unflavoured / 3kg",
+              "weight": 3500,
+              "available": true,
+              "buy_once_price": "651.30",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 32907941183567,
+              "title": "Creamy Indian Chai / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "173.04",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518158415,
+              "title": "Creamy Indian Chai / 900g",
+              "weight": 950,
+              "available": true,
+              "buy_once_price": "277.39",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518191183,
+              "title": "Creamy Indian Chai / 2kg",
+              "weight": 2500,
+              "available": true,
+              "buy_once_price": "477.39",
+              "compare_at_price": "520.87",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518223951,
+              "title": "Creamy Indian Chai / 3kg",
+              "weight": 3500,
+              "available": true,
+              "buy_once_price": "651.30",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 40045378535503,
+              "title": "Vanilla Bean / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "173.04",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518256719,
+              "title": "Vanilla Bean / 900g",
+              "weight": 950,
+              "available": true,
+              "buy_once_price": "277.39",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518289487,
+              "title": "Vanilla Bean / 2kg",
+              "weight": 2500,
+              "available": true,
+              "buy_once_price": "477.39",
+              "compare_at_price": "520.87",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518322255,
+              "title": "Vanilla Bean / 3kg",
+              "weight": 3500,
+              "available": true,
+              "buy_once_price": "651.30",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518355023,
+              "title": "Mocha Java / 2kg",
+              "weight": 2500,
+              "available": true,
+              "buy_once_price": "477.39",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972518387791,
+              "title": "Peanut Bomb / 2kg",
+              "weight": 2500,
+              "available": false,
+              "buy_once_price": "477.39",
+              "compare_at_price": "520.87",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 42161611145295,
+              "title": "Mocha Java / 450g",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "173.04",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/pure-collagen-1kg",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:50",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/pure-collagen-1kg",
+          "product_id": 6537668001871,
+          "product_name": "My Wellness 100% Pure Collagen",
+          "handle": "pure-collagen-1kg",
+          "description": "100% Pure Collagen Collagen as a protein is used extensively throughout the body providing the nutrients for muscles, joints, cartilage, skin, hair and digestive system. Basically, essential to the proper functioning of the entire body. This product is 100% pure and is the purest form of collagen available. SERVING SIZE: Take 2 tablespoons. You can take multiple servings per day. INGREDIENTS: Collagen Peptides ALLERGENS: None NUTRITIONAL INFORMATION PER 100g Energy 1523kJ Protein 91g Carbohydrates 2g Of which sugars 0g Total Fat 0.g Of which saturates 0g Dietary Fibre 0g",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/LY-Pure-Collagen-200g-1_dcae723a-a06d-4bc8-ba37-241721931430.jpg?v=1719566032",
+          "variants": [
+            {
+              "id": 41965997588559,
+              "title": "200g",
+              "weight": 200,
+              "available": true,
+              "buy_once_price": "173.04",
+              "compare_at_price": "199.13",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41965997621327,
+              "title": "1kg",
+              "weight": 1000,
+              "available": true,
+              "buy_once_price": "546.96",
+              "compare_at_price": "199.13",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/my-wellness-super-clean-protein-x5-900g",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:53",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/my-wellness-super-clean-protein-x5-900g",
+          "product_id": 7356789096527,
+          "product_name": "My Wellness Super Clean Protein X5 900g",
+          "handle": "my-wellness-super-clean-protein-x5-900g",
+          "description": "Super Clean Protein X5 offers the best of both animal and plant proteins in that the amino acid profiles of the proteins perfectly complement each other. Whey Protein, Pea Protein, Hemp Protein, Whey Isolate and Rice Protein all contribute to the protein sources in this formula. This may provide a really great complete protein source that may assist muscle growth or general wellness. The other advantage is that those who are lactose sensitive will find that this product does not affect their stomach as much as a pure whey protein. Sourced from the best possible non-GMO raw materials this great tasting, clean unique protein powder has no nasties including no artificial fillers, sweeteners or colourants. #table_div { overflow:auto; padding:5px; } #table_div:fullscreen { padding:30px !important; } #tbl { max-width:100%; } #tbl { } @media print { body * {visibility: hidden;} #table_div, #table_div * {visibility: visible;} #tblhead { font-size:300%; } #table_div { width:100%; position:absolute; left:0; top:5%; } } Nutritional Information PER 32g PER 100g Energy (kJ) 702kJ 2196kJ Protein (g) 23g 73,3g Glycaemic Carbohydrate (g) 4,2g 13,3g of which total sugar (g) 2,1g 6,6g Total Fat (g) 2,6g 8,25g of which Saturated Fat (g) 1,3g 3,97g Dietary Fibre # (g) 2,6g 8,25g Total Sodium (mg) 36,8mg 115mg Superfood Blend: Hemp Protein, Baobab Powder, Wheatgrass Powder 6336mg 19800mg # AOAC 985.29 method of analysis TYPICAL AMINO PROFILE per 100g per 100g 1 Alanine 3,0g Lysine 5,2g 2 Arginine 3,6g Methionine 1,1g 3 Aspartic Acid 7,8g Phenylalanine 2,7g 4 Cystine 1,1g Proline 3,7g 5 Glutamic Acid 12,6g Serine 3,5g 6 Glycine 2,0g Threonine 3,5g 7 Histidine 1,5g Tryptophan 1,1g 8 Iso Leucine 3,6g Tyrosine 2,9g 9 Leucine 6,5g Valine 3,5g ADDITIONAL NUTRITIONAL INFORMATIONSERVING SIZE: 2 Level Scoops (32g) DIRECTIONS FOR USEAdd two level scoops (32g) to approx 250ml of water shake in a shaker cup or blender for 20 seconds until powder is dissolved. Consume one serving 2-3 times per day or as required. INGREDIENTS:Clean NON-GMO Protein Blend (Whey Protein Concentrate, Yellow Pea Protein Isolate, Whey Isolate, Rice Protein Isolate, Hemp Protein Powder) Cacao Powder (in Chocolate variant only), Low GI Natural Sweetener Blend (Erythritol, Fructose, Stevia Leaf), Coffee Granules (in chocochino variant only), Vanilla Extract (in Vanilla Bean only), Wheatgrass Powder. ALLERGENS: MILK. Made in a factory that contains nuts. DISCLAIMER: This product may be a complementary medicine and/or not have been evaluated and verified by the South African Health Products Regulatory Authority for its quality, safety or intended use. Use of this product is therefore not intended to compensate for diagnosis, treatment, cure, or mitigation of medical conditions and must not substitute the obtaining of medical advice from a registered health professional for any health or health-related conditions.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Clean-Protein-900g-1.jpg?v=1713167338",
+          "variants": [
+            {
+              "id": 41474863988815,
+              "title": "Vanilla Bean",
+              "weight": 900,
+              "available": true,
+              "buy_once_price": "329.57",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41474867691599,
+              "title": "Choco-Chino",
+              "weight": 400,
+              "available": true,
+              "buy_once_price": "329.57",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41474867724367,
+              "title": "Chocolate",
+              "weight": 400,
+              "available": true,
+              "buy_once_price": "329.57",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 42257881792591,
+              "title": "Unflavoured",
+              "weight": 900,
+              "available": true,
+              "buy_once_price": "329.57",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/super-clean-protein-1-8kg",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:10:57",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/super-clean-protein-1-8kg",
+          "product_id": 7346280267855,
+          "product_name": "My Wellness Super Clean Protein 1.8kg",
+          "handle": "super-clean-protein-1-8kg",
+          "description": "Super Clean Protein X5 offers the best of both animal and plant proteins in that the amino acid profiles of the proteins perfectly complement each other. Whey Protein, Pea Protein, Hemp Protein, Whey Isolate and Rice Protein all contribute to the protein sources in this formula. This may provide a really great complete protein source that may assist muscle growth or general wellness. The other advantage is that those who are lactose sensitive will find that this product does not affect their stomach as much as a pure whey protein. Sourced from the best possible non-GMO raw materials this great tasting, clean unique protein powder has no nasties including no artificial fillers, sweeteners or colourants. #table_div { overflow:auto; padding:5px; } #table_div:fullscreen { padding:30px !important; } #tbl { max-width:100%; } #tbl { } @media print { body * {visibility: hidden;} #table_div, #table_div * {visibility: visible;} #tblhead { font-size:300%; } #table_div { width:100%; position:absolute; left:0; top:5%; } } Nutritional Information PER 32g PER 100g Energy (kJ) 702kJ 2196kJ Protein (g) 23g 73,3g Glycaemic Carbohydrate (g) 4,2g 13,3g of which total sugar (g) 2,1g 6,6g Total Fat (g) 2,6g 8,25g of which Saturated Fat (g) 1,3g 3,97g Dietary Fibre # (g) 2,6g 8,25g Total Sodium (mg) 36,8mg 115mg Superfood Blend: Hemp Protein, Baobab Powder, Wheatgrass Powder 6336mg 19800mg # AOAC 985.29 method of analysis TYPICAL AMINO PROFILE per 100g per 100g 1 Alanine 3,0g Lysine 5,2g 2 Arginine 3,6g Methionine 1,1g 3 Aspartic Acid 7,8g Phenylalanine 2,7g 4 Cystine 1,1g Proline 3,7g 5 Glutamic Acid 12,6g Serine 3,5g 6 Glycine 2,0g Threonine 3,5g 7 Histidine 1,5g Tryptophan 1,1g 8 Iso Leucine 3,6g Tyrosine 2,9g 9 Leucine 6,5g Valine 3,5g ADDITIONAL NUTRITIONAL INFORMATIONSERVING SIZE: 2 Level Scoops (32g) DIRECTIONS FOR USEAdd two level scoops (32g) to approx 250ml of water shake in a shaker cup or blender for 20 seconds until powder is dissolved. Consume one serving 2-3 times per day or as required. INGREDIENTS:Clean NON-GMO Protein Blend (Whey Protein Concentrate, Yellow Pea Protein Isolate, Whey Isolate, Rice Protein Isolate, Hemp Protein Powder) Cacao Powder (in Chocolate variant only), Low GI Natural Sweetener Blend (Erythritol, Fructose, Stevia Leaf), Coffee Granules (in chocochino variant only), Vanilla Extract (in Vanilla Bean only), Wheatgrass Powder. ALLERGENS: MILK. Made in a factory that contains nuts. DISCLAIMER: This product may be a complementary medicine and/or not have been evaluated and verified by the South African Health Products Regulatory Authority for its quality, safety or intended use. Use of this product is therefore not intended to compensate for diagnosis, treatment, cure, or mitigation of medical conditions and must not substitute the obtaining of medical advice from a registered health professional for any health or health-related conditions.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Clean-Protein-1_8kg-Choc-1.jpg?v=1712822562",
+          "variants": [
+            {
+              "id": 41445139644495,
+              "title": "Vanilla Bean",
+              "weight": 400,
+              "available": true,
+              "buy_once_price": "555.65",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41445139677263,
+              "title": "Chocolate",
+              "weight": 1800,
+              "available": true,
+              "buy_once_price": "555.65",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41445325766735,
+              "title": "Choco-Chino",
+              "weight": 400,
+              "available": true,
+              "buy_once_price": "555.65",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/peak-performance/products/clean-diet-whey-800g",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:01",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/peak-performance/products/clean-diet-whey-800g",
+          "product_id": 7342109524047,
+          "product_name": "My Wellness Clean Diet Whey",
+          "handle": "clean-diet-whey-800g",
+          "description": "My wellness clean diet whey protein combines protein like micellar casein which assist with satiation and ingredients that may assist fat burning such as cla, l-carnitine and green tea extract to assist you in achieving your lean body goals. We have put together the ultimate combination which is also lower in calories than typical diet shakes ensuring you are able to maintain a calorie deficit whilst still getting the macro nutrients you need in order to maintain lean muscle. Feel full for longer Less than 100 calories With boabab and maca DisclaimerDISCLAIMER: This product may be a complementary medicine and/or not have been evaluated and verified by the South African Health Products Regulatory Authority for its quality, safety or intended use. Use of this product is therefore not intended to compensate for diagnosis, treatment, cure, or mitigation of medical conditions and must not substitute the obtaining of medical advice from a registered health professional for any health or health-related conditions. What's in the box 1 x 800g Clean Diet Whey Chocolate Milk",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/diet-whey-choc-1.jpg?v=1712753702",
+          "variants": [
+            {
+              "id": 41437919903823,
+              "title": "Chocolate Milk / 900g",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "303.48",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 43700753858639,
+              "title": "Chocolate Milk / 1.8kg",
+              "weight": 0,
+              "available": false,
+              "buy_once_price": "651.30",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41437947396175,
+              "title": "Vanilla / 900g",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "303.48",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 43700753891407,
+              "title": "Vanilla / 1.8kg",
+              "weight": 0,
+              "available": false,
+              "buy_once_price": "651.30",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/alpha-power-pack",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:05",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/alpha-power-pack",
+          "product_id": 7845860343887,
+          "product_name": "Alpha Power Pack",
+          "handle": "alpha-power-pack",
+          "description": "Take your training and performance to the next level with the Alpha Power Pack. This combo is designed for men who want to build lean muscle mass, support natural testosterone production, and boost overall vitality. Alpha Whey delivers premium protein for recovery and growth, while Test Boost and Libido Boost support hormonal health, stamina, and energy—helping you feel and perform at your best both in and out of the gym. Includes: Alpha Whey 2kg (Chocolate/Cookies and Cream) Libido Boost (30 Caps) Test Boost (90 Caps)",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Alphalibandtest.png?v=1757934573",
+          "variants": [
+            {
+              "id": 43603912458319,
+              "title": "Chocolate",
+              "weight": 2400,
+              "available": true,
+              "buy_once_price": "651.30",
+              "compare_at_price": "884.35",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 43603912491087,
+              "title": "Cookies and Cream",
+              "weight": 2400,
+              "available": true,
+              "buy_once_price": "651.30",
+              "compare_at_price": "884.35",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/vitality-boost-duo",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:08",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/vitality-boost-duo",
+          "product_id": 7845863391311,
+          "product_name": "Vitality Boost Duo",
+          "handle": "vitality-boost-duo",
+          "description": "The Vitality Boost Duo is the perfect combination for supporting men’s health, hormone balance, and energy. Test Boost helps optimize testosterone levels naturally, while Libido Boost enhances vitality, stamina, and performance. This stack is an excellent choice for men wanting to improve overall well-being and confidence. Includes: Test Boost (90 Caps) Libido Boost (30 Caps)",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/testboostandlibb.png?v=1757936227",
+          "variants": [
+            {
+              "id": 43603924680783,
+              "title": "Default Title",
+              "weight": 400,
+              "available": true,
+              "buy_once_price": "216.52",
+              "compare_at_price": "276.52",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/mass-strength-stack",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:12",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/mass-strength-stack",
+          "product_id": 7845862244431,
+          "product_name": "Mass & Strength Stack",
+          "handle": "mass-strength-stack",
+          "description": "The Mass & Strength Stack is built for athletes and lifters who want to add serious size and strength. Hardmass packs on clean calories with high-quality protein and carbs to fuel muscle growth, while Crea-Taurine supports explosive power, endurance, and recovery. Together, they provide the ultimate foundation for muscle mass and performance. Includes: Hardmass 4kg (Chocolate/Vanilla) Crea-Taurine (200g)",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Hardmass4kgcreatuarine.png?v=1757942290",
+          "variants": [
+            {
+              "id": 43603918356559,
+              "title": "Chocolate",
+              "weight": 4200,
+              "available": true,
+              "buy_once_price": "425.22",
+              "compare_at_price": "520.00",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 43603918389327,
+              "title": "Vanilla",
+              "weight": 4200,
+              "available": true,
+              "buy_once_price": "425.22",
+              "compare_at_price": "520.00",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/cortisol-bundle",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:16",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/cortisol-bundle",
+          "product_id": 7757491699791,
+          "product_name": "Cortisol Bundle",
+          "handle": "cortisol-bundle",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/predict-b96f0c00-7cb7-4cf3-a21a-62670b63c09c-2.webp?v=1751029506",
+          "variants": [
+            {
+              "id": 42869112963151,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "320.87",
+              "compare_at_price": "489.57",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/slim-shape-stack",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:20",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/slim-shape-stack",
+          "product_id": 7845882953807,
+          "product_name": "Slim & Shape Stack",
+          "handle": "slim-shape-stack",
+          "description": "Get ready for your best summer shape with the Slim & Shape Stack. Clean Diet Shake delivers a delicious, nutrient-packed shake to keep you full and satisfied while supporting lean muscle maintenance. Paired with Thermo Shred, this combo helps boost metabolism, burn fat, and promote healthy weight management—perfect for those looking to slim down and tone up. Includes: Clean Diet Shake 1kg (Chocolate/Vanilla) Thermo Shred (60 Caps)",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Dietshakeandthermowhey.png?v=1757942111",
+          "variants": [
+            {
+              "id": 43604026064975,
+              "title": "Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "346.96",
+              "compare_at_price": "525.22",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 43604026097743,
+              "title": "Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "346.96",
+              "compare_at_price": "525.22",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/pump-power-bundle",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:23",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/pump-power-bundle",
+          "product_id": 7845863948367,
+          "product_name": "Pump & Power Bundle",
+          "handle": "pump-power-bundle",
+          "description": "The Pump & Power Bundle is designed for serious lifters and athletes who crave intensity. With Mega Pump, you’ll experience skin-splitting pumps, laser focus, and explosive workout energy, while Creatine HCL boosts strength, endurance, and recovery. A powerhouse stack to dominate your training sessions all summer long. Includes: Mega Pump x4 (500g – Fresh Apple/Orange Burst) Creatine HCL (80 Veggie Caps)",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Hardmass4kgcreatuarine_a6e5b399-365e-4b90-879e-0f8ec84cc67b.png?v=1757942181",
+          "variants": [
+            {
+              "id": 43603930054735,
+              "title": "Apple",
+              "weight": 750,
+              "available": true,
+              "buy_once_price": "225.22",
+              "compare_at_price": "337.39",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 43603930087503,
+              "title": "Orange",
+              "weight": 750,
+              "available": true,
+              "buy_once_price": "225.22",
+              "compare_at_price": "337.39",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/bundle-product-7",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:28",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/bundle-product-7",
+          "product_id": 7757452738639,
+          "product_name": "Winter Wellness Bundle",
+          "handle": "bundle-product-7",
+          "description": "",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/predict-c10be39e-409d-4d47-960b-b89883a1d6e1-1.webp?v=1751029559",
+          "variants": [
+            {
+              "id": 42869012791375,
+              "title": "Default Title",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "255.65",
+              "compare_at_price": "276.52",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/bundles/products/lean-plant-shred-pack",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:31",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/bundles/products/lean-plant-shred-pack",
+          "product_id": 7845864931407,
+          "product_name": "Lean Plant Shred Pack",
+          "handle": "lean-plant-shred-pack",
+          "description": "Fuel your body with plant-based power while turning up your fat-burning potential. The Lean Plant Shred Pack combines Clean Diet Plant for a smooth, vegan-friendly protein source with Thermo Shred, a metabolism-boosting fat burner. Perfect for those who want clean nutrition and effective weight management while living an active lifestyle. Includes: Clean Diet Plant (900g – Chocolate/Vanilla) Thermo Shred (60 Veggie Caps)",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Dietplantandthermowhey.png?v=1757942202",
+          "variants": [
+            {
+              "id": 43603933954127,
+              "title": "Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "433.91",
+              "compare_at_price": "481.74",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 43603933986895,
+              "title": "Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "433.91",
+              "compare_at_price": "481.74",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/super-natures-bone-broth",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:35",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/super-natures-bone-broth",
+          "product_id": 3678152982607,
+          "product_name": "My Wellness Nature's Bone Broth Powder 400g",
+          "handle": "super-natures-bone-broth",
+          "description": "Super NATURE’S BONE BROTH Real constituents from Bone (Gelatine , Collagen , Glucosamine) Anti-inflammatory with Turmeric and Chondroitin Pre-biotic fibre from Baobab Supports a Healthy Gut PRODUCT DESCRIPTION A high quality beef bone broth comes with all the healthy nutrients from the bone broth process. My Wellness has succeeded in providing a convenient way to achieve the health benefits of bone brothing in powder form that is as close to natural as possible. It contains all the collagen, gelatin and micro elements such as chondroitin and glucosamine as well as 19 amino acids. There are no GMO ingredients, artificial additives like artificial sweeteners or flavours, or any added sugars only the best nature identical ingredients are used to provide the best health benefits. Bone broth plays a role in gut health, immune system support, healthy bones and joints, as well as skin and hair health. * KETO FRIENDLY * NO ARTIFICIAL INGREDIENTS * GE/GMO FREE INGREDIENTS * GUT FRIENDLY * NUT FREE * SOY FREE * GLUTEN FREE * SUGAR FREE * LOW CARB SUPERFOOD FACTS BAOBAB:is the fruit of Africa's 'Tree of Life'. It is also almost 50% prebiotic fibre (two thirds soluble and one third insoluble, making it a powerful prebiotic) and contains more antioxidants than any other whole fruit. TURMERIC and especially its most active compound curcumin have many scientifically-proven health benefits, such as the potential to prevent heart disease, Alzheimer's and cancer. It's a potent anti-inflammatory and antioxidant and may also help improve symptoms of depression and arthritis. TYPICAL NUTRITIONAL INFORMATION SERVING SIZE: 1 Heaped Scoop (22g) SERVING PER CONTAINER: 16 Servings PER 22g PER 100g Energy 490kJ 2227kJ Protein 16g 73g Carbohydrate 1.8g 8g Of which total Sugars 1.8g 8g Total Fat from MCT oil 3g 13g Of which Saturated Fats 3g 13g Dietary Fiber 1.5g 6.68g INGREDIENTS Collagen, Gelatin, MCT oil, Baobab powder, Turmeric, Natural Spices, Nutritional Yeast(high in Vitamin B ), Parsley Herb, Glucosamine, Chondroitin, Sea Salt, Stevia leaf extract. Allergens: Milk (Casein )",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Bone-Broth-400g-1-new.jpg?v=1637153247",
+          "variants": [
+            {
+              "id": 28589449478223,
+              "title": "Smokey beef flavour",
+              "weight": 500,
+              "available": true,
+              "buy_once_price": "252.17",
+              "compare_at_price": "295.65",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/super-bulletproof-keto-hot-chocolate",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:39",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/super-bulletproof-keto-hot-chocolate",
+          "product_id": 3678165303375,
+          "product_name": "My Wellness Keto Hot Chocolate 400g",
+          "handle": "super-bulletproof-keto-hot-chocolate",
+          "description": "KETO HOT CHOCOLATE Delicous low carb ketogenic hot chocolate Contains MCT oil, Collagen , BHB Salts Made with raw cacoa for extra antioxidants Zero artificial additives My Wellness Keto Hot Chocolate is a delicious and healthy, keto-friendly way to get your chocolate fix without any added sugars like normal hot chocolate. It also provides you with natural anti-oxidants found in the raw cacao used as well as brain food in the form of exogenous ketones and small amounts of natural caffeine found in the cacao powder as well as collagen protein as protein source. A great way to fuel your ketogenic lifestyle. DIRECTIONS FOR USE: Add one scoop (20g) to 250ml of boiled water. Stir with a spoon until dissolved. Enjoy! SERVING SIZE: 1 Heaped Scoop (20g) SERVING PER CONTAINER: 20 Servings PER 20g PER 100g Energy 340kJ 1600kJ Protein 2g 10g Carbohydrate 2g 10g Of which total Sugars 1g 5g Total Fat 11g 55g Of which Saturated Fats 11g 55g Dietary Fiber 0,2g 1g Sodium 200mg 1000mg INGREDIENTS MCT oil powder, raw cacoa powder, collagen, natural cacao extract, and stevia leaf extract. Allergens: Milk (casein protein) (Made in a factory that contains nuts) DISCLAIMER: My Wellness Keto Hot Chocolate has not been tested and evaluated by the MCC and in no way is meant to cure, treat, or prevent any disease or disorder. Supplements are best utilised in conjunction with a healthy diet and goal orientated exercise routine. Always consult your healthcare professional before making changes to your diet or exercise routine. Store in a cool dry place. Keep container closed and store below 25’ C. KEEP OUT OF REACH OF CHILDREN",
+          "available": false,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/Hot-Chocolate-400g-1-new.jpg?v=1713251688",
+          "variants": [
+            {
+              "id": 28589549224015,
+              "title": "Default Title",
+              "weight": 500,
+              "available": false,
+              "buy_once_price": "199.13",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/ketobolic",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:43",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/ketobolic",
+          "product_id": 3703548772431,
+          "product_name": "My Wellness Keto-Bolic Muscle Meal 1.2kg",
+          "handle": "ketobolic",
+          "description": "Double Strength Clean Muscle Meal With BHB Salts Low Carb Keto and Intermittent Fasting Meal Focused on Building Lean Muscle Gram for Gram 2 x The Calories of Regular Muscle Meals Intelligent Calories from High Energy Fats Very Low Insulin Spike Compared to Normal Meal Replacers Great for Hard Gainers looking for Quality Calories Based on current scientific research Keto-Bolic Muscle Meal is on the cutting edge when it comes to achieving desirable muscle to body fat ratios and caters to both the Ketogenic lifestyles as well as the hard gainers looking for quality calories. Those on ketogenic diets or fasting intermittently will appreciate the lower glycaemic load and the perfect composition of fats, protein and carbohydrates in this product to maintain ketosis and provide quality calories . A convenient, tasty and nutrient dense meal providing the right macronutrients to stay in ketosis. For those not on a ketogenic diet but looking to pack on lean muscle, less is more. Gram for gram Keto-bolic Muscle Meal has 2x as many calories as regular muscle builders therefore the serving sizes are considerably smaller but considerably more intelligent in helping to build lean muscle. Men need to eat plenty of dietary fat in order for testosterone levels to thrive because testosterone is a fat-based hormone, meaning that quality dietary fats need to be present in your body in order for your hormones to perform optimally. Keto-bolic Muscle Meal ensures enough fat is present to help sustain optimal testosterone production. DIRECTIONS FOR USE Use by adding 2 level scoop (80g) with 300ml of water.If necessary have 2 servings at split intervals depending on your dietary requirements. TYPICAL NUTRITIONAL INFORMATION80g = One serving (2 level scoops) Per 80g Per 100g Energy 610 Cal 2623kJ 762.5Cal 3278kJ Protein 25g 31.25g Carbohydrates 10g 12.5g Of which sugars 2g 2.5g Total Fat 50g 62.5g Of which saturated 10g 12.5g Of which mon-unsaturated 40g 50g Of which trans fats 0g 0g Fibre 3g 3.75g Sodium 25mg 31.25mg INGREDIENTS Keto-Bolic Fat Blend (Vegetable Fat Powder , MCT oil Powder) , Keto-Bolic Protein Blend ( Pea Protein Isolate , Whey Protein Isolate), Cocoa Powder (in Chocolate Flavour only) ,Taurine, Creatine HCL, Natural Spices (in Creamy Chai Flavour Only), Xanthan Gum , Baobab powder, Sea Salt, BHB Salts, Stevia Leaf Powder, Vitamin C (as ascorbic acid). ALLERGENS: Made in a factory that uses nuts",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/files/MyWellnessKeto-BolicMuscleMeal-Chocolate1.2kg-Choc-1.jpg?v=1712645189",
+          "variants": [
+            {
+              "id": 28751964930127,
+              "title": "Creamy Chocolate",
+              "weight": 1300,
+              "available": true,
+              "buy_once_price": "339.13",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 42296284184655,
+              "title": "Creamy Vanilla",
+              "weight": 1300,
+              "available": true,
+              "buy_once_price": "339.13",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/bullet-proof-keto-coffee-227g",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:46",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/bullet-proof-keto-coffee-227g",
+          "product_id": 4869029298255,
+          "product_name": "My Wellness Super Bulletproof Keto Coffee",
+          "handle": "bullet-proof-keto-coffee-227g",
+          "description": "Super BULLETPROOF KETO COFFEE - Supports a Ketogenic Diet - Energy, Metabolism & Brain Food - With Collagen, MCT Oil and Butter PRODUCT DESCRIPTION My Wellness Bulletproof Keto Coffee provides you with sustainable energy, focus and a metabolic boost with premium MCT oil, Collagen and Butter. The added caffeine from the coffee provides a great caffeine kick perfect for boosting you into high gear. DIRECTIONS FOR USE For a cup of hot coffee: Add one scoop (15g) to 220ml of boiling water and stir in. Drink as you would a normal coffee and enjoy the benefits. For a cold beverage. Add one scoop to 1500ml ice water and 50g ice. Blend until smooth and enjoy. DISCLAIMER My Wellness Super Bulletproof Keto Coffee has not been tested and evaluated by the MCC and in no way is meant to cure, treat, or prevent any disease or disorder. Supplements are best utilized in conjunction with a healthy diet and goal orientated exercise routine. Always consult your healthcare professional before making changes to your diet or exercise routine. Store in a cool dry place. Keep container closed and store below 25’ C. KEEP OUT OF REACH OF CHILDREN TYPICAL NUTRITIONAL INFORMATION SERVING SIZE: 1 Heaped Scoop (15g) PER 15g PER 100g Energy 288kJ 1920kJ Protein 2,4g 12g Carbohydrate 1,8g 12g Of which Sugars 1,0g 6,67g Total Fat 6,3g 42g Of which Saturated 5,7g 38gSodium 150mg 1000mg INGREDIENTS Medium Chain Triglyceride Powder, Instant Coffee Granules, Grass Fed Butter Fat Powder, Grass Fed Collagen Type 1, Himalayan Salt, Stevia Leaf Powder. Allergens: Made in a factory that contains nuts",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Amazon-Keto-Coffee-Front.jpg?v=1642075763",
+          "variants": [
+            {
+              "id": 41972980809807,
+              "title": "227g",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "143.48",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 41972980842575,
+              "title": "400g",
+              "weight": 0,
+              "available": false,
+              "buy_once_price": "216.52",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/zero-sugar-500g",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:50",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/zero-sugar-500g",
+          "product_id": 4503516708943,
+          "product_name": "My Wellness Zero Sugar Natural Sweetener 500g",
+          "handle": "zero-sugar-500g",
+          "description": "- All Natural Sugar Free Sweetener with Appetite Control - Tastes Like SUGAR but its not sugar - Low Calorie 1:1 Sweetness with Sugar - Perfect for Low Carb and Keto Diets - Garcinia Cambogia to assist in cravings - No Artificial Additives - Tastes like Sugar - Great For Baking - Tooth Friendly ZERO SUGAR Erythritol+Stevia is the perfect, natural and calorie-free sugar substitute for the kitchen - whether it be baking, cooking or simple sweetening of foods or beverages. To produce ZERO SUGAR , Stevia has been used in its purest form, derived from the plant \"Stevia Rebaudiana\" which is originally from South America. In order to achieve an easy dosage and to make the sweetness comparable with normal sugar erythritol was added thereto. Erythritol is a new sugar substitute, which has no calories and occurs naturally in many vegetables and fruits. This unique blend makes the product 1:1 as sweet as sugar, and the disadvantages of stevia in regards to bitterness were eliminated through this special blend. Natural GMO-free Allergen Free Blood sugar neutral Calorie Free Heat resistant Warning : Store in a dry and dark place. Excessive consumption may induce laxative effects. Nutrition Information per 100g: Energy 0 KJ / 0 kcal Fat 0 g - of which saturates 0 g Carbohydrates 97 g - of which sugar 0 g - of which Polyols (Erythritol) 97 g Protein 0 g Salt 0 g Ingredients: Sweetener erythritol (95%), stevioglycosid (0,1%), Allergen information: None",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Zero-Sugar-Front.jpg?v=1584686647",
+          "variants": [
+            {
+              "id": 31889268768847,
+              "title": "Default Title",
+              "weight": 600,
+              "available": true,
+              "buy_once_price": "129.57",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/suoer-collagen-creamer-300g-with-baobab",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:54",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/suoer-collagen-creamer-300g-with-baobab",
+          "product_id": 4503455268943,
+          "product_name": "My Wellness Super Collagen Creamer 300g with Baobab",
+          "handle": "suoer-collagen-creamer-300g-with-baobab",
+          "description": "- Lactose Free Creamer with Grass Fed Collagen and Baobab - Perfect for Low Carb And Keto Diets - C8 Caprylic Acid Dominant - Natural Vitamin C from Baobab - No Artificial Additives Product Description Collagen Creamer is an all-natural, keto friendly product that helps you make the perfect keto coffee of bullet proof coffee. Not just coffee but also can be used for tea and in smoothies and as an addition to regular shakes. Dominant in C8 caprylic acid , this product optimises ketone production and provides smooth energy from healthy fats and protein. The Collagen works great as an anti -aging agent as it is a major component of the skin, helping to prevent wrinkles and keep the skin glowing and elastic. The baobab powder is high in Vitamin C and Pre-biotic Fibre . The Vitamin C in Baobab helps the collagen to be absorbed by the body and the Pre-biotic Fibre helps support healthy gut bacteria. Busy professionals will also benefit from the Collagen Creamer by providing alertness , focus and keeping one satiated for longer. The MCT oil in Collagen Creamer also supports a healthy gut biome and is an excellent ketone body pre-cursor. Nutritional information Per 100g (g) Per 15g (g) Energy 2340kJ/559Cal 351kJ / 84 Cal Protein 45 6.0 Carbohydrates Of which sugars Of which fiber 6g 0 3g 0.90 0 0.45 Total Fat Of which Saturated Of which Cholesterol Of which Trans fats 42 42 0 0 6.0 6.0 0 0 Sodium 188mg 28.2mg Ingredients Grass Fed Hydrolysed Collagen, Medium Chain Triglycerides, Baobab Powder",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Collagen-Creamer-Front.jpg?v=1584681383",
+          "variants": [
+            {
+              "id": 31889086971983,
+              "title": "Default Title",
+              "weight": 400,
+              "available": true,
+              "buy_once_price": "286.09",
+              "compare_at_price": "233.91",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/keto-diet-shake-600g-chocolate",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:11:58",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/keto-diet-shake-600g-chocolate",
+          "product_id": 6563617865807,
+          "product_name": "My Wellness Keto Diet Shake 600g",
+          "handle": "keto-diet-shake-600g-chocolate",
+          "description": "OPTIMAL LOW CARB KETO MEAL PRODUCT FEATURES Supports ketogenic & intermittent fasting lifestyle Supports favourable metabolic goals Low glycaemic index meal PRODUCT DESCRIPTION My Wellness Keto Shake is scientifically formulated and nutrient dense, designed to support ketogenic and intermittent fasting programs in the easiest possible way. It tastes delicious and is a satisfying meal to keep you on your weight management program. Perfect keto with 3g net carbohydrates, 28g fat from MCT oil, butter, and 9g protein Formulated to provide optimal nutrition with minerals and Baobab powder high in fiber and vitamin C Free from Gluten, artificial flavours, colours and sweeteners. Great-Tasting Shake: a delicious, wholesome, real food shake for a natural energy boost. DIRECTIONS FOR USE Use by adding 2 level scoops (40g) with 200ml of water. Use a shaker or blender to dissolve and consume.If necessary have 2 servings at split intervals depending on your dietary requirements. TYPICAL NUTRITIONAL INFORMATION40g = One serving (2 level scoops) Per 40g Per 100g Energy 300 Cal 1255kJ 750Cal 3137kJ Protein 9g 22.5g Carbohydrates 5g 12.5g Of which sugars 0g 0g Fiber 2g 5g Total Fat 28g 70g Of which saturated 28g 70g Of which mon-unsaturated 0g 0g Of which trans fats 0g 0g Cholesterol 0mg 0mg Sodium 170mg 425mg Potassium 122mg 305mg Calcium 139mg 347mg Magnesium 7mg 17mg Phosphorous 92mg 230mg INGREDIENTS Fat Blend (MCT Oil Powder, Butter Powder, Vegetable Fat), Protein Blend ( Collagen Protein, Whey Protein Isolate), Cocoa Powder (in Chocolate Flavour only), Natural Spices: Nutmeg, Cloves, Cinnamon (in Chai Flavour Only), Xanthan Gum, Baobab powder, Sea Salt, BHB Salts, Stevia Leaf Powder, Vitamin C (as ascorbic acid).",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/Keto-Shake-Front.jpg?v=1620217395",
+          "variants": [
+            {
+              "id": 39349333524559,
+              "title": "Chocolate",
+              "weight": 600,
+              "available": true,
+              "buy_once_price": "242.61",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 39349333557327,
+              "title": "Vanilla Chai",
+              "weight": 600,
+              "available": true,
+              "buy_once_price": "233.91",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/keto/products/mct-oil-powder",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:12:02",
+      "products": [
+        {
+          "page_url": "https://www.my-wellness.uk/collections/keto/products/mct-oil-powder",
+          "product_id": 3941834293327,
+          "product_name": "My Wellness Pure MCT Oil Powder 350g",
+          "handle": "mct-oil-powder",
+          "description": "MEDIUM CHAIN TRIGLYCERIDES - C8 CHAIN DOMINANT PRODUCT DESCRIPTION MCT’s are found naturally in coconut oils other oils. They are made up of caprylic and capric fatty acids. Our MCT oil powder is C8 chain dominant! Which is the chain that has the most benefits. Your body metabolises MCT’s in a unique way and is converted to energy so it will not go directly to fat storage like regular fat. A diet rich in MCT’s help those on KetoGenic diets achieve ketosis and can help increase the number of calories you burn. Use in smoothies to provide creaminess and add to coffee or tea as a creamer. DIRECTIONS FOR USE Add one scoop (9g) to water or smoothie and mix as required. Dosage can be increased as desired DISCLAIMERMy Wellness MCT oil powder is not a medicine. It has not been tested or evaluated by the MCC and in no way is meant to cure, treat or prevent any disease or disorder. Supplements are best utilized in conjunction with a healthy diet and goal-orientated exercise routine. Always consult your healthcare professional. TYPICAL NUTRITIONAL INFORMATIONSERVING SIZE: 1 heaped scoop (9g)SERVINGS PER CONTAINER: 18 servingsPER 9g PER 100gEnergy 251kJ 2788kJProtein 1g 11gCarbohydrate 1g 11gOf which total sugar 0.5g 5.5gTotal Fat 7g 77.8gOf which Saturated 0.1g 0.4gDietary Fibre 0.1g 1.1gTotal Sodium 8mg 88mgINGREDIENTSMCT oil Powder, Cocoa powder (in chocolate flavor only) ALLERGENS: Milk (Caseinate)",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0096/0888/8399/products/MCT-Oil-Powder-Front.jpg?v=1569877019",
+          "variants": [
+            {
+              "id": 29478034931791,
+              "title": "Default Title",
+              "weight": 450,
+              "available": true,
+              "buy_once_price": "286.09",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/all",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:12:10",
+      "products": [],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:12:18",
+      "products": [],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/protein",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:12:21",
+      "products": [],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/vegan",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:12:25",
+      "products": [],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    },
+    {
+      "url": "https://www.my-wellness.uk/collections/wellness-pantry",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:12:28",
+      "products": [],
+      "links_found": [
+        "https://www.my-wellness.uk/collections/all",
+        "https://www.my-wellness.uk/",
+        "https://www.my-wellness.uk/collections",
+        "https://www.my-wellness.uk/collections/protein",
+        "https://www.my-wellness.uk/collections/vegan",
+        "https://www.my-wellness.uk/collections/wellness-pantry",
+        "https://www.my-wellness.uk/collections/body-building",
+        "https://www.my-wellness.uk/collections/superfoods",
+        "https://www.my-wellness.uk/collections/mens-and-womans-health",
+        "https://www.my-wellness.uk/collections/performance",
+        "https://www.my-wellness.uk/collections/keto",
+        "https://www.my-wellness.uk/collections/vitamins",
+        "https://www.my-wellness.uk/collections/current-promos",
+        "https://www.my-wellness.uk/pages/about-us",
+        "https://www.my-wellness.uk/blogs/ambassadors",
+        "https://www.my-wellness.uk/blogs/news",
+        "https://www.my-wellness.uk/pages/contact-us",
+        "https://www.my-wellness.uk/pages/legal",
+        "https://www.my-wellness.uk/policies/privacy-policy",
+        "https://www.my-wellness.uk/policies/refund-policy"
+      ]
+    }
+  ]
+}

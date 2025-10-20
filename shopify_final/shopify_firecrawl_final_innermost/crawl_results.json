@@ -1,0 +1,2085 @@
+{
+  "crawl_time": "2025-10-20 14:03:24",
+  "total_pages": 30,
+  "product_pages": 17,
+  "total_products": 17,
+  "pages": [
+    {
+      "url": "https://www.innermostglobal.com/",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:17",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/products/the-hydrate-blend",
+        "https://www.innermostglobal.com/products/the-glow-blend",
+        "https://www.innermostglobal.com/products/the-rise-blend",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-fit-protein",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-rise-capsules"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-relax-capsules",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:21",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-relax-capsules",
+          "product_id": 1575086424157,
+          "product_name": "The Relax Capsules",
+          "handle": "the-relax-capsules",
+          "description": "Relax and reset. The right way. Life can be stressful, and stress can cause all sorts of issues that can affect your mood and physical health. These daily nootropic capsules contain research-backed ingredients that help reduce stress, promote relaxation and help you get a great night's sleep. Get some chill in your life. Per 2 Capsules: Lion’s Mane Mushroom (350mg): White fungi that have long, shaggy spines. Research suggests that they may offer a range of health benefits, including reduced inflammation and improved cognitive and heart health. References > 1, 2. L-Glycine (250mg): An important amino acid and a neurotransmitter, glycine helps increase serotonin levels, which is required to make the sleep hormone melatonin. Can help reduce symptoms of insomnia, restore healthy sleep patterns, and encourage deeper, more restful and refreshing sleep. References > 3, 4. Ashwagandha (200mg): One of the most powerful and revered adaptogenic herbs in Ayurvedic medicine, Ashwagandha is well-known for its restorative and rejuvenating benefits. Used to help the body cope with external stresses such as toxins in the environment and internal stresses such as anxiety and insomnia. References > 5, 6. Valerian Root (100mg): This medicinal herbal has been used since ancient times to reduce the symptoms of anxiety and for the relief of sleep disturbances. Results from multiple studies indicate that valerian root can help reduce the time it takes to fall asleep and promote a deeper more restful sleep. References > 7, 8. Reishi Mushroom (100mg): Reishi mushrooms are knowing for their calming properties, and can aid sleep and relaxation. They have attracted the interest of the scientific community over the last decade for their potent antioxidant, antiviral, antibacterial and, most importantly, direct immune-modulating and stimulating effects. Lemon Balm (100mg): A relaxing but non-sedative amino acid that has been shown to help reduce cortisol levels in the body (the stress hormone). It works by helping reduce feelings of stress and improving attention. Other Ingredients: A plant-based capsule shell, and nothing else.Allergens: None. Active Ingredients For every serving of The Relax Capsules: Lion’s Mane Mushroom (350mg), L-Glycine (250mg), Ashwagandha (200mg), Valerian Root (100mg), Reishi Mushroom(100mg), Lemon Balm (100mg). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. How And When To Use Take 2 capsules daily as you prepare to go to sleep. Serving Sizes: One jar of The Relax Capsules contains 30 servings if following the above directions. That's about one month's worth if consuming daily. Works Well With: The Health Protein to enhance wellbeing, health and support lean muscle development. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/TheRelaxCapsules.png?v=1690283129",
+          "variants": [
+            {
+              "id": 15426186379357,
+              "title": "60 Capsules / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "24.95",
+              "compare_at_price": null,
+              "subscription_price": "19.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/blogs/insight/4-breathing-exercises-to-to-relax-and-energise",
+        "https://www.innermostglobal.com/blogs/insight/get-better-sleep-the-short-course",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-hydrate-blend",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:29",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-hydrate-blend",
+          "product_id": 8103051755762,
+          "product_name": "The Hydrate Blend",
+          "handle": "the-hydrate-blend",
+          "description": "Sip happens, stay hydrated. The Hydrate Blend is a all-in-one solution for optimal hydration, energy, and performance. Perfectly balanced with a complete electrolyte spectrum, and enhanced with vitamins and minerals, this blend works as hard as you do, supporting hydration, recovery, and cognitive performance. Hydration, reimagined. Per Serving: Electrolytes (Chloride 488mg, Magnesium 100mg, Potassium 200mg, Sodium 225mg, Calcium 60mg, Phosphorus 50mg): A complete full spectrum blend of electrolytes to support complete hydration inside and out. References > 1, 2. Magnesium (100mg): Magnesium is crucial for hydration as it maintains electrolyte balance, regulates muscle and nerve activity. It supports proper fluid distribution within cells, addressing cramp and fatigue. References > 3, 4. Potassium (200mg): Potassium works alongside sodium to regulate cellular fluid levels, preventing dehydration-related issues. Incorporating potassium-rich foods or hydration drinks can maintain this balance. References > 5, 6. Sodium (225mg): Sodium acts as a magnet drawing water into cells, supporting bodily function. Sodium replenishment during exercise prevents dehydration by promoting efficient water absorption. References > 5, 6. Zinc (3mg): Supports immune system and is an important mineral that helps the body heal efficiently. Active Ingredients For every serving of The Hydrate Blend: Chloride (488mg), Magnesium (100mg), Potassium (200mg), Sodium (225mg), Calcium (60mg), Phosphorus (50mg), Zinc (3mg), Chromium (50µg), Vitamin C (150mg), Vitamin B6 (1.4mg), Vitamin B12 (2.5µg). Scroll down to learn about these ingredients and how they benefit you. This product is cruelty free, gluten free, lactose free, soy free, halal, non-GMO, and free from all 14 major allergens. Furthermore, the product contains zero sugar, no artificial fillers, sweeteners, silica, preservatives, additives, bulking agents or colours. Nutritionals Per: 4g serving 100g Energy 16 kJ 315 kJ Calories 4 kcal 75 kcal Protein 0g 0g Carbohydrates 0g 0g of which sugars 0g 0g Fats 0g 0g of which saturates 0g 0g Dietary fibre 0g 0g Salt 581g 12mg Electrolytes: 4g serving %NRV* Chloride 488mg NA Magnesium 100mg 27% Potassium 200mg 10% Sodium 225mg 4% Calcium 60mg 8% Phosphorus 50mg 7% Vitamins & Minerals: 4g serving %NRV* Vitamin C 150mg 188% Vitamin B6 1.4mg 100% Vitamin B12 2.5µg 100% Zinc 3mg 30% Chromium 50µg 126% *NRV (Nutrient Reference Values) Allergens: None.Other ingredients: Natural flavours only and we use a tiny amount of stevia, which is a natural plant based sweetener. How And When To Use Enjoy anytime during your day to optimise your hydration, particularly helpful after exercise or if you've had a tough day. Directions: Add contents of one sachet (4g) to 500ml of cold water. Shake or stir between sips. The amount of water will affect sweetness so find what works best for you. Serving Sizes: One box of The Hydrate Blend contains 30 individual use sachets. Works Well With: The Fit Protein to energise the body and boost exercise performance. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/The_Hydrate_Blend_box_elderberry_shadow_1x1_8a3d50b9-ccc9-4b92-b90d-e7e7ca65982a.png?v=1747064020",
+          "variants": [
+            {
+              "id": 45207681040626,
+              "title": "30 x 4g / Lemon and Mint",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 45322965614834,
+              "title": "30 x 4g / Elderberry",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 54832934355322,
+              "title": "30 x 4g / Orange",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-hydrate-blend",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/products/the-glow-booster",
+        "https://www.innermostglobal.com/products/the-hydrate-blend-old",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-glow-blend",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:33",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-glow-blend",
+          "product_id": 15097780633978,
+          "product_name": "The Glow Blend",
+          "handle": "the-glow-blend",
+          "description": "Get your glow up. Better self-care involves addressing it from different angles, including your nutrition. The Glow Blend contains a science-backed combination of the most effective ingredients to nourish your skin, hair and nails including hydrolysed collagen peptides, hyaluronic acid, biotin, folate and vitamin C. Developed to promote skin elasticity, smooth appearance, increase radiance, while strengthening you hair and nails. It’s time to get your glow. Per Serving: Hydrolysed Collagen Peptides (6g): The most abundant protein in your body and the major component of the connective tissues found in your skin, hair and nails. As we age, collagen levels fall, which can result in a decrease in your skin’s structural integrity. References > 1, 2. Hyaluronic Acid (100mg): Skin ageing is commonly associated with loss of skin moisture. Hyaluronic acid has a unique ability to bind and retain water molecules. This ingredient can be found increasingly in skincare products where it offers multi-depth skin hydration and helps maintain dermal moisture. The result? Plumper looking skin that appears firmer with visibly less wrinkles. References > 3, 4. Vitamin C (160mg): Vitamin C stimulates the body’s natural ability to make collagen as well as acting as a potent antioxidant that protects against UV damage. Supplementing with vitamin C is especially important as you age and your body’s natural collagen production slows down. References > 5, 6. Biotin (2,500µg): Biotin, often hailed as the “beauty vitamin,” helps support the production of keratin — a key protein in hair, skin, and nails. It also helps your body convert food into energy supporting the metabolism of fats, proteins, and carbs. Supplementing with biotin can be especially beneficial if you have brittle nails, thinning hair, or during pregnancy. References > 7, 8. Folate (200µg): Folate is often linked to pregnancy health, but it’s vital for everyone. Folate contributes to cell renewal, helping your skin look fresher and more radiant. It also helps your body make DNA and red blood cells, supporting energy levels and a healthy immune system. References > 9, 10. Active Ingredients For every serving of The Glow Blend: Collagen Peptides (Bovine Collagen Source) (6g), Hyaluronic Acid (100mg), Vitamin C (160mg), Biotin (2,500µg), Folate (200µg). Scroll down to learn about these ingredients and how they benefit you. This product is cruelty free, gluten free, lactose free, soy free, halal, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. Nutritionals Per: 6g 100g Energy 89 kJ 1,494 kJ Calories 22 kcal 355 kcal Protein 5g 86g Carbohydrates 0g 0g of which sugars 0g 0g Fats 0g 0g of which saturates 0g 0g Dietary fibre 0g 0g Sodium 0.02g 0.38g Allergens: None. How And When To Use Enjoy anytime with hot or cold liquids including water, tea, smoothies and juices, or mixed into porridge or desserts. Directions: Add contents of one sachet to a cup of juice or your choice of drink, and stir until dissolved. Serving Sizes: One box of The Glow Blend contains 30 individual use sachets. Works Well With: The Digest Capsules for healthy gut and digestion. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/1_709915d5-ca8e-4c51-86e2-8e092bd9a11d.png?v=1749316058",
+          "variants": [
+            {
+              "id": 55376216686970,
+              "title": "30 x 6g / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/blogs/insight/nutrition-101-what-you-need-to-know",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/blogs/insight/what-is-biotin-uses-and-health-benefits",
+        "https://www.innermostglobal.com/blogs/insight/what-is-folate-uses-and-health-benefits",
+        "https://www.innermostglobal.com/products/the-glow-blend",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/blogs/insight/5-reasons-you-should-be-taking-collagen",
+        "https://www.innermostglobal.com/blogs/insight/your-pathway-to-glowing-skin",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/the-detox-booster",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/products/the-hydrate-blend-old",
+        "https://www.innermostglobal.com/pages/press"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-rise-blend",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:37",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-rise-blend",
+          "product_id": 15101191487866,
+          "product_name": "The Rise Blend",
+          "handle": "the-rise-blend",
+          "description": "Upgrade Your Health. What if you could upgrade your daily caffeine fix into a daily brew that also provided potent science-backed health benefits? The Rise Blend combines health-optimising mushrooms with premium grade Arabica coffee. Formulated to support brain health, increase energy, improve skin quality and strengthen immunity without any coffee jitters. Say hello to your new daily health elixir. Per Serving: Arabica Coffee (1.5g): Renowned for its rich flavour and aromatic profile, these premium coffee beans not only deliver a natural energy boost but also enhance mental alertness. Moreover, they contribute to bolstering our cell-mediated immune response, making every cup a delightful and health-promoting experience. Chaga (250mg): Typically found growing on birch trees in cold climates, these mushrooms are highly valued for their antioxidant and anti-inflammatory properties. They have been used in traditional medicine for centuries to support immune function and overall wellness. References > 1, 2. Tremella (250mg): These mushrooms are known for their natural moisture-retaining properties, contributing to skin health and hydration. They contain bioactive compounds that are believed to support the immune system and can benecifically support cognitive health. References > 3, 4. Shiitake (250mg): This nutrient-packed fungi supports the immune system and contains compounds that reduce inflammation and enhance heart health. Shiitake mushrooms are also rich in essential vitamins and minerals, making them a valuable addition to a balanced diet. References > 5, 6. Maitake(250mg): This distinct fan like mushroom is considered an adaptogen, assisting the body in managing stress and maintaining balance. It further contains compounds such as beta-glucans to enhance the body’s immune response, whilst also aiding blood sugar regulation and heart health. References > 7. Reishi (250mg): With its distinctive kidney-shaped cap, this fungus is prized for its adaptogenic properties. Containing bioactive compounds that enhance immune function and reduce inflammation. Reishi is also known to promote relaxation and stress reduction, making it a valuable resource for managing the effects of modern life's demands. Additionally, it has been studied for its potential to support heart health and enhance sleep quality. References > 8, 9, 10. Cordyceps (250mg): This mushroom has been found to improve athletic performance by increasing stamina, endurance and energy levels, through involvement in the body's production of ATP. Cordyceps have been used for thousands of years in eastern medicine as an immune system support and to reduce fatigue. References > 11, 12. Active Ingredients For every serving of The Rise Blend: Arabica Coffee (1.5g), Chaga (250mg), Tremella (250mg), Shiitake (250mg), Maitake (250mg), Reishi (250mg), Cordyceps (250mg). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours. Nutritionals Per: 3g 100g Energy 15kJ 515kJ Calories 4kcal 125kcal Protein 0.2g 8g Carbohydrates 0.2g 8g of which sugars 0g 0g Fats 0.02g 0.75g of which saturates 0g 0.15g Fibre 0.8g 28g Sodium 0g 0.02g Allergens: None. How And When To Use Upgrade your daily brew with this healthy multi-mushroom blend. Directions: Add contents of one sachet to a cup of hot water and stir. Add milk and sweetener of your choice if needed for a healthier alternative to your daily tea or coffee. Can also be added to shakes, smoothies, iced drinks or used in healthy recipes. Serving Sizes: One box of The Rise Blend contains 30 Single-serve sticks Works Well With: The Digest Capsules to support a healthy gut, improve digestion and reduce bloating. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/TheRiseBlendBoxcoffee_noshadow.png?v=1755850990",
+          "variants": [
+            {
+              "id": 55384607785338,
+              "title": "30 x 3g / Mushroom Coffee",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-rise-blend",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/products/the-glow-booster",
+        "https://www.innermostglobal.com/products/the-hydrate-blend-old",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-strong-protein",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:41",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-strong-protein",
+          "product_id": 1575018627165,
+          "product_name": "The Strong Protein",
+          "handle": "the-strong-protein",
+          "description": "Strength simplified. Protein won’t automatically give you muscles. We had to be smarter than that, so we added ingredients to this protein blend to help you push yourself harder, reduce inflammation and speed up recovery to help you get stronger, quicker. Formulated to maximise muscle growth, strength and power output. Get on the road to making gains. Per Serving: Protein (34g): The building block of bones, muscles, hair, skin, and nails, this blend of dairy-based whey concentrate and isolate contains all the essential amino acids your body needs for repair, recovery and muscle development. References > [1], [2] Casein: A slower-digesting protein that, when combined with faster-digesting sources of protein, encourages optimal protein uptake and absorption over time. This lends itself to improved muscle growth and repair. References > 3, 4. Creatine Monohydrate (3g): Research has shown that creatine can improve strength, increase lean muscle mass and help muscles recover more quickly during exercise. This muscular boost can help achieve increased bursts of speed and energy, especially during high-intensity activities such as weight lifting or running. Additionally, it has been studied for its potential cognitive benefits, such as improved memory and mental clarity. References > 5, 6, 7. Montmorency Cherries (300mg): Variety of sour cherry containing high levels of anthocyanins that have powerful anti-inflammatory properties to help reduce damage from intensive exercise. There is also emerging research looking at how these cherries can reduce pain and benefit processes of sleep. References > 8, 9, 10. Bilberries (250mg):Belonging to a class of natural bioactives with wide-reaching health benefits, these dark berries rich in antioxidants and resveratrol to improve cardiovascular health, glucose control, inflammation and ageing. References > 11, 12, 13. Magnesium (200mg, 53%*): A crucial mineral is involved in over 300 essential metabolic reactions, including nerve transmission, muscle contraction, blood sugar and pressure regulation, and energy production. Its role in various bodily processes makes it vital for overall well-being. References > 14, 15, 16. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet. Active Ingredients For every serving of The Strong Protein: Protein (34g), Casein, Creatine Monohydrate (3g), Montmorency Cherries (300mg), Bilberries (250mg), Magnesium (200mg). Scroll down to learn about these ingredients and how they benefit you. This product is vegetarian, cruelty free, gluten free, soy free, halal, suitable for kosher diets, non-GMO, and free from most major allergens. Furthermore, the product contains no artificial flavours, fillers, bulking agents or colours. The protein in this product is sourced from whey (milk); a complete source of protein containing all the amino acids your body needs. We've added guar gum, which is a GMO-free, gluten-free, natural fibre that comes from the guar bean to give our shakes a creamy texture. We use sunflower lecithin instead of soy lecithin, which is the only kind of lecithin that can be obtained raw and chemical-free using a cold press system similar to that used with olive oil. We also add some sweetness to the product by adding a tiny bit of sucralose, which is the most widely tested low-calorie sweetener and approved by all food standard agencies in the world. Nutritionals Per: 40g 100g Energy 620 kJ 1,551 kJ Calories 147 kcal 367 kcal Protein 34g 85g Carbohydrates 2.0g 5.0g of which sugars 1.0g 2.5g Fats 1.1g 2.8g of which saturates 0.3g 0.8g Dietary fibre 1.6g 4.1g Salt 0.18g 0.45g Allergens: Milk (whey). NB: Nutritional information is for the vanilla version. How And When To Use A nutritious addition to your diet to help meet your daily nutrient needs. Directions: Add 40g (4 flat Innermost scoops) with 250-350ml of water or any kind of milk and shake for the perfect post-workout recovery drink or healthy snack whenever you need it. Best served cold or with ice. The amount and type of liquid will affect sweetness and thickness, so experiment to find what works best for you. Can also be added to smoothies, porridge and used in recipes. Serving Sizes: We recommend up to 40g per serving depending on how you use the product. We typically find from customer feedback that a 520g pouch should last around a month on average give or take. Works Well With: The Power Booster to push your power output and performance to the maximum. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/products/TheStrongProteinVanilla_3256109b-fad8-4c6e-99c9-4c944a71fc55.png?v=1672392388",
+          "variants": [
+            {
+              "id": 15424608895069,
+              "title": "520g / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 15424608927837,
+              "title": "520g / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 44553472213234,
+              "title": "520g / Strawberry",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/blogs/insight/inflammation-and-muscle-growth-a-primer",
+        "https://www.innermostglobal.com/blogs/insight/the-best-shoulder-exercises-to-build-strength",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-fit-protein",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:45",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-fit-protein",
+          "product_id": 1575023902813,
+          "product_name": "The Fit Protein",
+          "handle": "the-fit-protein",
+          "description": "Further your fitness. If you complain about lacking energy, you're not alone. This vegan protein blend was developed for people who regularly push themselves further than most, but don't want to let that compromise other aspects of their lives. Formulated to rehydrate and restore energy, and support muscle growth and repair. Don't take on the world without it. Per Serving: Vegan Protein (31g): This protein blend is easily digestible and provides a complete amino acid profile. Pea protein is rich in lysine, while brown rice protein excels in methionine, complementing each other perfectly. These protein support muscle growth and repair whilst being free of common allergens such soy and dairy. References > 1, 2, 3. Cocomineral (1g): This powder derived from coconut water, a popular rehydration aid, contains high levels of sodium and potassium, key electrolytes lost through sweating when exercising, to help combat tiredness and rebalance energy levels. References > 4, 5. Maca (1g): Grown for more than 2,000 years in the highest mountains of Peru, maca has recently found widespread popularity as an adaptogen. These are a select group of natural ingredients that support your ability to deal with physical and mental pressure, as well as enhancing energy provision. References > 6, 7. Magnesium (250mg, 67%*): This natural mineral contributes to electrolyte balance and our normal energy-yielding metabolism. Required to regulate blood pressure, keep bones strong, and the heart rhythm steady. Those deficient in magnesium are more likely to have elevated inflammation markers. References > 8, 9. Rhodiola Root (250mg): A nootropic powerhouse, this flowering plant has mounting research to support its claims to reducing the effects of physical exhaustion that can result in fatigue, stress and 'burnout'. It has further uses with its potential to enhance performance and improve mood regulation and anxiety. References > 10, 11, 12, 13. Pink Himalayan Sea Salt (150mg): Rock salt from the Punjab region of India. Contains 84 trace minerals and elements including calcium, potassium, and magnesium, which help to assist muscle function, nerve transmission and rehydration. Because of its unique cellular structure, the minerals it contains exist in colloidal form, which means that they are small enough for our cells to easily absorb. References > 14, 15. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet. Active Ingredients For every serving of The Fit Protein: Vegan Protein from Pea + Brown Rice (31g), Cocomineral (1g), Maca (1g), Magnesium (250mg), Rhodiola Root (250mg), Pink Himalayan Sea Salt (150mg). Scroll down to learn about these ingredients and how they benefit you. The protein in this product is sourced from from Pea + Brown Rice; a complete source of protein containing all the amino acids your body needs. Natural flavours only. Guar gum, which is a GMO-free, gluten-free, natural fibre that comes from the guar bean to give our shakes a creamy texture. We use sucralose as it is the most widely tested low-calorie sweetener and approved by all major food standard agencies in the world. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours. Nutritionals Per: 40g 100g Energy 608 kJ 1,520 kJ Calories 144 kcal 359 kcal Protein 31g 78g Carbohydrates 4.3g 10.8g of which sugars 1.0g 2.6g Fats 1.1g 2.7g of which saturates 0.1g 0.2g Fibre 2.8g 6.9g Salt 0.35g 0.9g Allergens: None.NB: Nutritional information is for the vanilla version. How And When To Use A nutritious addition to your diet to help meet your daily nutrient needs. Directions: Add 40g (4 flat Innermost scoops) with 250-350ml of water or any kind of milk and shake for the perfect post-workout recovery drink or healthy snack whenever you need it. Best served cold or with ice. The amount and type of liquid will affect sweetness and thickness, so experiment to find what works best for you. Can also be added to smoothies, porridge and used in recipes. Serving Sizes: We recommend up to 40g per serving depending on how you use the product. We typically find from customer feedback that a 520g pouch should last around a month on average give or take. Works Well With: The Energy Booster to push yourself further and to get the most out of each workout. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/products/TheFitProteinChocolateVanilla.png?v=1672392454",
+          "variants": [
+            {
+              "id": 15424740032605,
+              "title": "520g / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 15424740065373,
+              "title": "520g / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 44553491841266,
+              "title": "520g / Strawberry",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-fit-protein",
+        "https://www.innermostglobal.com/blogs/insight/these-are-the-performance-secrets-top-athletes-use-to-succeed-every-time",
+        "https://www.innermostglobal.com/blogs/insight/hydration-101-and-why-it-matters",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-lean-protein",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:49",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-lean-protein",
+          "product_id": 1382221676637,
+          "product_name": "The Lean Protein",
+          "handle": "the-lean-protein",
+          "description": "Get lean the right way. Our protein blends won’t make you bulky. This one was actually crafted to help you slim-down. We want to make it easier to reach your ideal weight so we packed it with ingredients to support fat metabolism. Formulated to encourage healthy fat-loss, reduce cravings, and maintain energy levels. A smarter way to lean-up. Per Serving: Protein (31g): The building block of bones, muscles, hair, skin, and nails, this blend of dairy-based whey concentrate and isolate contains all the essential amino acids your body needs for repair, recovery and muscle development. References >1, 2. Inulin (1g): Advanced research in weight management emphasises recognising the importance of our gut as a metabolic organ. Inulin is a prebiotic fibre that encourages growth of good gut bacteria linked to lower levels of fat. References > 3, 4. Acetyl L-Carnitine (750mg): A non-essential amino acid necessary for transporting fat to the body’s power-generating mitochondria. Without it, we wouldn’t be able to use fat effectively as a source of energy, which could result in the body having to break down muscle instead. References > 5, 6. Pomegranates (500mg): This fruit has sparked interest in recent years largely due to its punicalagin and ellagic acid content. These compounds are retained in the gut where they encourage the growth of good gut bacteria linked to lower levels of fat. References > 7, 8. Yerba Mate (500mg): Dried leaves of an evergreen holly tree native to South America. An incredibly high antioxidant content and has been shown to have possible effects in the area of weight management, which could be due to it helping delay intestinal absorption of dietary fat. References > 9, 10. Bilberries (200mg): Belonging to a class of natural bioactives with wide-reaching health benefits, including improving cardiovascular health, glucose control and inflammation. These dark berries are rich in antioxidants and resveratrol, which are seeing increased use for their purported anti-aging properties. References > 11, 12. Active Ingredients For every serving of The Lean Protein: Protein (31g), Inulin (1g), Acetyl L-Carnitine (750mg), Pomegranates (500mg), Yerba Mate (500mg), Bilberries (200mg). Scroll down to learn about these ingredients and how they benefit you. This product is vegetarian, cruelty free, gluten free, soy free, halal, suitable for kosher diets, non-GMO, and free from most major allergens. Furthermore, the product contains no artificial flavours, fillers, bulking agents or colours. The protein in this product is sourced from whey (milk); a complete source of protein containing all the amino acids your body needs. We've added guar gum, which is a GMO-free, gluten-free, natural fibre that comes from the guar bean to give our shakes a creamy texture. We use sunflower lecithin instead of soy lecithin, which is the only kind of lecithin that can be obtained raw and chemical-free using a cold press system similar to that used with olive oil. We also add some sweetness to the product by adding a tiny bit of sucralose, which is the most widely tested low-calorie sweetener and approved by all food standard agencies in the world. Nutritionals Per: 40g 100g Energy 626 kJ 1,565 kJ Calories 148 kcal 370 kcal Protein 31g 78g Carbohydrates 2.0g 5.0g of which sugars 1.1g 2.7g Fats 1.0g 2.5g of which saturates 0.4g 1.0g Fibre 1.5g 3.8g Salt 0.20g 0.50g Allergens: Milk (whey). NB: Nutritional information is for the vanilla version. How And When To Use A nutritious addition to your diet to help meet your daily nutrient needs. Directions: Add 40g (4 flat Innermost scoops) with 250-350ml of water or any kind of milk and shake for the perfect post-workout recovery drink or healthy snack whenever you need it. Best served cold or with ice. The amount and type of liquid will affect sweetness and thickness, so experiment to find what works best for you. Can also be added to smoothies, porridge and used in recipes. Serving Sizes: We recommend up to 40g per serving depending on how you use the product. We typically find from customer feedback that a 520g pouch should last around a month on average give or take. Works Well With: The Define Booster to further assist with metabolising fat and supporting energy levels. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/The_Lean_Protein_53d84d00-d65f-49e4-9469-893b2fc76f99.png?v=1722350607",
+          "variants": [
+            {
+              "id": 12405003681885,
+              "title": "520g / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 12405003616349,
+              "title": "520g / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 44553510584562,
+              "title": "520g / Strawberry",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/blogs/insight/your-gut-could-hold-the-secret-to-getting-leaner",
+        "https://www.innermostglobal.com/blogs/insight/how-protein-can-help-you-lose-weight",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-health-protein",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:00:53",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-health-protein",
+          "product_id": 1575013023837,
+          "product_name": "The Health Protein",
+          "handle": "the-health-protein",
+          "description": "Vegan protein. Perfected. We wanted to create the best vegan protein on the market with a perfectly balanced amino acid profile and added ingredients to support the immune system, without sacrificing taste and texture. Everyone keeps telling us we nailed it. Formulated to boost your health, and keep you feeling strong. Get your glow up. Per Serving: Vegan Protein (31g): The building block of bones, muscles, hair, skin, and nails, this blend of plant-based pea and brown rice protein contains all the essential amino acids your body needs for repair, recovery and development. References > 1, 2. Glutamine (3g): An amino acid regarded as the fuel of the immune system. During periods when we are run down or highly stressed, glutamine levels can become depleted, suppressing our immune system and affecting our stamina, strength and recovery. References > 3, 4. Shiitake (250mg), Maitake (250mg), Reishi (250mg), Cordyceps (250mg): Medicinal mushrooms have been used for millennia in Eastern medicine to ward off sickness and improve wellbeing. They have attracted the interest of the scientific community over the last decade for their potent antioxidant, antiviral, antibacterial and, most importantly, direct immune-modulating and stimulating effects. References > 5, 6. Bilberries (250mg): Belonging to a class of natural bioactives with wide-reaching health benefits, including improving cardiovascular health, glucose control and inflammation. These dark berries are rich in antioxidants and resveratrol, which are seeing increased use for their purported anti-aging properties. References > 7, 8. Camu Camu (250mg): Amazonian fruit rich in bioactive nutrients including antioxidants, vitamins, minerals, carotenoids, and phenols. Its greatest bragging right is that it’s the richest dietary source of vitamin C that exists, making it a must-have in any immune support product. References > 9, 10. Acai Berries (250mg): A nutrient-dense purple berry native to South America that offers celebrated brain health and anti-ageing benefits. Packed full of antioxidants, amino acids, fibre, essential fatty acids, vitamins, minerals, and a wealth of health benefits. References > 11, 12. Active Ingredients For every serving of The Health Protein: Vegan Protein from Pea + Brown Rice (31g), Glutamine (3g), Shiitake (250mg), Maitake (250mg), Reishi (250mg), Cordyceps (250mg), Bilberries (250mg), Camu Camu (250mg), Acai Berries (250mg). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. The protein in this product is sourced from from Pea + Brown Rice; a complete source of protein containing all the amino acids your body needs. Natural flavours only. We've added guar gum, which is a GMO-free, gluten-free, natural fibre that comes from the guar bean to give our shakes a creamy texture. We also add some sweetness to the product by adding a tiny bit of sucralose, which is the most widely tested low-calorie sweetener and approved by all food standard agencies in the world. Nutritionals Per: 40g 100g Energy 634 kJ 1,584 kJ Calories 149 kcal 373 kcal Protein 31g 78g Carbohydrates 2.5g 6.2g of which sugars 0.3g 0.6g Fats 1.4g 3.5g of which saturates 0.4g 0.9g Fibre 1.1g 2.7g Salt 0.26g 0.65g Allergens: None.NB: Nutritional information is for the vanilla version. How And When To Use A nutritious addition to your diet to help meet your daily nutrient needs. Directions: Add 40g (4 flat Innermost scoops) with 250-350ml of water or any kind of milk and shake for the perfect post-workout recovery drink or healthy snack whenever you need it. Best served cold or with ice. The amount and type of liquid will affect sweetness and thickness, so experiment to find what works best for you. Can also be added to smoothies, porridge and used in recipes. Serving Sizes: We recommend up to 40g per serving depending on how you use the product. We typically find from customer feedback that a 520g pouch should last around a month on average give or take. Works Well With: The Detox Booster to promote wellbeing and immunity through a totally natural detox and cleanse. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/products/TheHealthProteinVanilla_53ee7d6b-da0b-4600-b798-4fdad14f2958.png?v=1672392487",
+          "variants": [
+            {
+              "id": 15424473399389,
+              "title": "520g / Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 15424473432157,
+              "title": "520g / Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 44553494102258,
+              "title": "520g / Strawberry",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/blogs/insight/veganism-email-course",
+        "https://www.innermostglobal.com/blogs/insight/are-japanese-mushrooms-both-the-past-and-future-of-wellness",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-power-booster",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:01:08",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-power-booster",
+          "product_id": 1575060111453,
+          "product_name": "The Power Booster",
+          "handle": "the-power-booster",
+          "description": "Exceed your limits. The reason that creatine monohydrate is the most popular sports supplement in the world is because everyone agrees that it works. The go-to product for athletes and gym-goers looking to increase power, strength and speed. Perfect for high-intensity training. Take your workout to the next level. Per Serving: Creatine Monohydrate (5g): One of the most researched sport supplements in the world today. Favoured by athletes and recreational gym goers alike who are undertaking high-intensity exercise. Creatine is found naturally in muscle cells and research has shown that it can improve strength, increase lean muscle mass and help muscles recover more quickly during exercise. This muscular boost can help achieve increased bursts of speed and energy, especially during high-intensity activities such as weight lifting or running. References > 1, 2. Allergens: None. Active Ingredients For every serving of The Power Booster: Creatine Monohydrate (5g). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. How And When To Use To be taken during your day, once a day. Use continuously for up to 8 weeks before discontinuing for 1 week and then repeating. Directions: Mix 5g (1 rounded teaspoon) with around 100ml water or juice in your Innermost shaker bottle, or simply add 5g to your pre or post-workout protein shake. Serving Sizes: One bag of The Power Booster contains 60 servings if following the above directions. That's just over 8 weeks' worth if consuming daily. Works Well With: The Recover Capsules for faster recovery and to support optimal hormone activity in men and women. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/ThePowerBooster.png?v=1690291075",
+          "variants": [
+            {
+              "id": 15425571192925,
+              "title": "300g / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "24.95",
+              "compare_at_price": null,
+              "subscription_price": "19.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/blogs/insight/the-best-hiit-workouts-to-enhance-muscle-growth",
+        "https://www.innermostglobal.com/blogs/insight/creatine-101-all-you-need-to-know",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/products/the-glow-booster",
+        "https://www.innermostglobal.com/products/the-hydrate-blend-old",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-energy-booster",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:01:16",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-energy-booster",
+          "product_id": 1575078297693,
+          "product_name": "The Energy Booster",
+          "handle": "the-energy-booster",
+          "description": "Elevate your energy. We set out to create the most effective pre-workout with added BCAAs on the market. One that wasn’t packed with crazy amounts of caffeine. Did we succeed? It's won a bunch of Best Pre-workout Awards, so yeah. Formulated to raise energy, improve stamina and to help push yourself further. Activate your superpowers. Per Serving: BCAA Complex (5g): Of the twenty amino acids, nine are considered essential amino acids, meaning they must be obtained through your diet. Three of these nine are called branched-chain amino acids (BCAAs): leucine, isoleucine and valine. These are the most important amino acids for muscle growth and maintenance. You can find them here in an optimal 2:1:1 ratio. References > 1, 2. Citrulline Malate (2g): This is L-Citrulline (an amino acid) combined with malic acid (an organic salt). Citrulline malate can improve aerobic and anaerobic performance during prolonged exercise by reducing fatigue and increasing nitric oxide in the body. This relaxes blood vessels and increases blood flow and oxygen to working muscles. References > 3, 4. Maca (1.25g): Reduces effects of physical and mental stress, and increases energy and libido. Grown for more than 2,000 years in the highest mountains of Peru, maca has recently found widespread popularity as an adaptogen. These are a group of natural ingredients that support the body's ability to deal with stress. References > 5, 6. Beta Alanine (1.2g): When you exercise, metabolites accumulate in the muscles causing pH levels to drop resulting in fatigue. Carnosine can help reduce this acidity but the amount of carnosine made in the body depends on the amount of beta alanine available, and it's only when there's excess beta alanine that carnosine levels can increase to offset fatigue and aid performance. References > 7, 8. Guarana (100mg): An Amazonian fruit regarded as the elixir of long life. In addition to the stimulating action of its caffeine content, other benefits have been attributed to it’s alkaloid content. These include improved alertness, reaction time, memory, mood and performance during physical exercise. References > 9, 10. Caffeine (71mg): The value of caffeine on mental and physical performance has been well-established. Research evidences positive effects on improving alertness, mood, cognitive function, fat oxidation, and exercise performance. References > 11, 12. Vitamin B Complex (B1, B2, B3, B5, B6, B7, B9, B12 all at 100%*): For reduction of tiredness and fatigue. They also play a role in maintaining hair and skin health, and regulating the nervous system. There are eight essential B vitamins: thiamin, riboflavin, niacin, pantothenic acid, vitamin B6, biotin, folic acid and vitamin B12. We bring all eight together at each one's daily recommended intake. References > 13, 14. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet. Active Ingredients For every serving of The Energy Booster: BCAA Complex (5g) as Leucine (2g), Isoleucine (1g), Valine (1g), Citrulline Malate (2g), Maca (1.25g), Beta Alanine (1.2g), Guarana (100mg), Caffeine (71mg), Vitamin B Complex (B1, B2, B3, B5, B6, B7, B9, B12 all at 100% NRV). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. Nutritionals Per: 10g 100g Energy 162 kJ 1,624 kJ Calories 38 kcal 382 kcal Protein 7g 74g Carbohydrates 2.0g 19.7g of which sugars 0.3g 3.2g Fats 0.02g 0.20g of which saturates 0.01g 0.06g Dietary fibre 0.3g 2.5g Sodium Nil Nil Allergens: None. Other ingredients: Natural flavours only. We use sucralose as it is the most widely tested low-calorie sweetener and approved by all major food standard agencies in the world. How And When To Use Ideal as a pre/intra-workout drink or when you need an energy boost. Directions: Add 10g (2 rounded teaspoons) to 300-400ml of cold water in your Innermost shaker and shake until dissolved. Adjust amount of water for desired level of sweetness. Shake between sips. Serving Sizes: One bag of The Energy Booster contains 30 servings if following the above directions. That's about one month's worth if consuming daily. Works Well With: The Focus Capsules to complement your increased energy with enhanced mental processing and cognitive performance. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/TheEnergyBoosterPineapple.png?v=1690283755",
+          "variants": [
+            {
+              "id": 15425981513821,
+              "title": "300g / Pineapple",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            },
+            {
+              "id": 45431755374834,
+              "title": "300g / Wild Berry",
+              "weight": 300,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/blogs/insight/boost-your-cardio-performance-with-these-easy-steps",
+        "https://www.innermostglobal.com/blogs/insight/why-is-running-so-good-for-you-heres-why-you-should-dust-off-your-trainers",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/products/the-glow-booster",
+        "https://www.innermostglobal.com/products/the-hydrate-blend-old",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-define-booster",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:01:32",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-define-booster",
+          "product_id": 1575083343965,
+          "product_name": "The Define Booster",
+          "handle": "the-define-booster",
+          "description": "Definition done properly. To decrease body fat you need the right nutrients. That's where this product comes in. Acetyl-l-carnitine is the most popular non-stimulant fat-loss supplement in the world. Combined with vitamins B6 and B12, the product works by ensuring your body is metabolising fat efficiently. A helping hand to optimal fat-loss. Per Serving: Acetyl L-Carnitine (2g): One of the most popular non-stimulant fat-loss supplements on the market today. A non-essential amino acid found naturally in the human body, necessary for transporting fat to the body’s power-generating mitochondria for use as energy during physical activity. Without carnitine, we wouldn’t be able to use fat effectively as a source of energy, which could result in the body having to break down muscle instead. The key benefit of the acetyl form of carnitine is that it can cross the blood-brain barrier to improve mood, learning and memory as well. References > 1, 2. Vitamin B6 (1.4mg, 100%*) and Vitamin B12 (2.5µg, 100%*): For the reduction of tiredness and fatigue and normal energy-yielding metabolism. These also play a role in maintaining hair and skin health, and a regulated nervous system. Allergens: None. Active Ingredients For every serving of The Define Booster: Acetyl l-carnitine (2g), vitamin B6 (1.4mg, 100%*), vitamin B12 (2.5µg, 100%*) Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains natural flavours only with no artificial fillers, bulking agents or colours. We use a tiny amount of sucralose to add a little sweetness to the product. Sucralose is the safest and most widely tested zero-calorie sweetener on the market and approved by all food standard agencies in the world. How And When To Use To be taken during the day, once a day. Directions: Mix 2g (1 flat teaspoon) with around 250ml of cold water and stir until dissolved. Serving Sizes: One bag of The Define Booster contains 60 servings if following the above directions. That's 2 month's worth if consuming daily. Works Well With: The Tone Capsules to raise your metabolism and support healthy fat-loss. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/TheDefineBoosterJuicyOrange.png?v=1690283573",
+          "variants": [
+            {
+              "id": 15426717646941,
+              "title": "120g / Juicy Orange",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "29.95",
+              "compare_at_price": null,
+              "subscription_price": "23.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "23.96",
+                  "compare_at_price": "29.95",
+                  "per_delivery_price": "23.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/blogs/insight/6-habits-to-melt-fat-fast",
+        "https://www.innermostglobal.com/blogs/insight/5-reasons-why-you-arent-getting-leaner",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/the-glow-booster",
+        "https://www.innermostglobal.com/products/the-hydrate-blend-old",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-recover-capsules",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:01:46",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-recover-capsules",
+          "product_id": 1575084556381,
+          "product_name": "The Recover Capsules",
+          "handle": "the-recover-capsules",
+          "description": "Recovery reinvented. Rest and recovery are important but often overlooked. We wanted to fix that. These daily nootropic capsules contain research-backed ingredients that support the recovery process, reduce inflammation, and regulate hormone activity. Get back to doing what you do best. Per 2 Capsules: Maca (1g): Reduces effects of physical and mental stress, and increases energy and libido. Grown for more than 2,000 years in the highest mountains of Peru, maca has recently found widespread popularity as an adaptogen. These are a group of natural ingredients that support the body's ability to deal with stress. References > 1, 2. ZMA (150mg): A natural mineral supplement made up of an optimal balance of zinc, magnesium, and vitamin B6. Zinc plays a role in supporting normal testosterone levels. Magnesium plays a role in metabolism and muscle function. Vitamin B6 reduces tiredness and may help boost energy levels. References > 3, 4. Chocamine (60mg): A cocoa extract high in a group of natural bioactives called flavanols (in particular epicatechin, also found in dark chocolate). Studies have found that epicatechin reduced myostatin (a protein that inhibits muscle growth) and increased follistatin (a protein that promotes muscle growth) in the body. References > 5, 6. Ubiquinone CoQ10 (25mg): A nutrient essential for the optimal functioning of our mitochondria – the energy producing factories of our bodies. This vitamin-like compound is made in the body and used by our cells to produce energy for growth and repair. Research suggests that we don’t get enough of it and levels drop as we get older. References > 7, 8. Selenium (50ug): An essential trace mineral best known as an antioxidant needed for a strong immune system, and playing a role in male and female fertility. Research suggests that increased selenium intake may lead to reduced cancer risk. Selenium deficiency, notably in Western countries, is increasing the call for its supplementation. References > 9, 10. Vitamin D (1000IU, 500%*): Regulates the amount of calcium and phosphate in the body, which are needed to keep bones, teeth and muscles healthy. While there are early suggestions that vitamin D supplementation could provide some protection against COVID-19, more trials are needed before this can be confirmed. Regardless, it would be a good idea to achieve your recommended daily intake given the overall health risks of vitamin D deficiency. References > 11, 12. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet. Other Ingredients: A plant-based capsule shell, and nothing else.Allergens: None. Active Ingredients For every serving of The Recover Capsules: Maca (1g), ZMA (150mg), Chocamine (60mg), Ubiquinone CoQ10 (25mg), Selenium (50ug), Vitamin D (1000IU). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. How And When To Use Take 2 capsules daily after exercise or before you go to sleep. Serving Sizes: One jar of The Recover Capsules contains 30 servings if following the above directions. That's about one month's worth if consuming daily. Works Well With: The Strong Protein to maximise strength and muscle gains. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/TheRecoverCapsules.png?v=1690283212",
+          "variants": [
+            {
+              "id": 15426140569693,
+              "title": "60 Capsules / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "24.95",
+              "compare_at_price": null,
+              "subscription_price": "19.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/blogs/insight/5-reasons-why-you-keep-getting-injured",
+        "https://www.innermostglobal.com/blogs/insight/back-pain-email-course",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-rise-capsules",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:01",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-rise-capsules",
+          "product_id": 8140762972402,
+          "product_name": "The Rise Capsules",
+          "handle": "the-rise-capsules",
+          "description": "Feel your best. Experience all-day energy and peak performance. These daily capsules ensure sustained energy and vitality. Enhance cognitive function, boost stamina, and stay alert, whether you’re facing a challenging day at work or working towards your fitness goals. It’s time to level-up. Per 2 Capsules: Iron(14mg): An essential mineral critical for the formation of haemoglobin, which transports oxygen in red blood cells. Its benefits include preventing anaemia, supporting cognitive function, enhancing the immune system, promoting healthy growth, and aiding in energy metabolism. References > 1 2. Cordyceps (500mg): This Japanese mushroom has been found to improve athletic performance by increasing stamina, endurance and energy levels, through involvement in the body's production of ATP. Cordyceps have been used for thousands of years in Eastern medicine as an immune system support and to reduce fatigue. References > 3, 4. Maca (150mg): Reduces effects of physical and mental stress, and increases energy and libido. Grown for more than 2,000 years in the highest mountains of Peru, maca has recently found widespread popularity as an adaptogen. These are a select group of natural ingredients that support the body's ability to deal with stress. References > 5, 6. Bacopa Monnieri (150mg): A nootropic herb often used in Ayurveda, it has been shown to improve cognition, by reducing anxiety, and improving memory formation. It works by enhancing the rate at which the nervous system can communicate by increasing the growth of nerve endings, also called dendrites. References > 7, 8, 9. Vitamin B Complex (100mg): This is a combination of all eight essential water-soluble B vitamins including: thiamin, riboflavin, niacin, pantothenic acid, vitamin B6, biotin, folic acid and vitamin B12. Collectively, these vitamins support normal energy metabolism, red blood cell formation, and functioning of the nervous system, for reduction of tiredness and fatigue. References > 10, 11. Other Ingredients: A plant-based capsule shell, and nothing else.Allergens: None. Active Ingredients For every serving of The Rise Capsules: Iron (14mg), Cordyceps (500mg), Maca (150mg), Bacopa Monnieri (150mg), Vitamin B Complex (100mg) Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. How And When To Use Take 2 capsules daily, ideally in the morning. Serving Sizes: One jar of The Rise Capsules contains 30 servings if following the above directions. That's about one month's worth if consuming daily. Works Well With: The Fit Protein to support energy, vitality and recovery. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/The_Rise_Capsules_a78ebe4b-3059-47c9-a682-796b2b2bfc59.png?v=1722258852",
+          "variants": [
+            {
+              "id": 45343506006258,
+              "title": "60 Capsules / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "24.95",
+              "compare_at_price": null,
+              "subscription_price": "19.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-digest-capsules",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:13",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-digest-capsules",
+          "product_id": 6571328045214,
+          "product_name": "The Digest Capsules",
+          "handle": "the-digest-capsules",
+          "description": "Great health starts on the inside. An unhealthy gut and poor digestion can lead to bloating, constipation, IBS and a range of serious health issues. These daily capsules contain probiotics and prebiotics to encourage the growth of good gut bacteria, with digestive enzymes and ginger to improve digestion and reduce bloating. Get healthier, inside and out. Per 2 Capsules: Acacia Fibre (800mg): A powerful prebiotic sourced from the sap of the Acacia tree. It works by feeding the good bacteria in your gut, which in turns helps build a stronger and more diverse microbiome. Research also suggests it could decrease gut inflammation and ease IBS symptoms. References > 1, 2. Ginger Root 5:1 Extract (60mg): With a long history of being used for its anti-inflammatory, antibacterial and antiviral properties, ginger is thought to improve digestive processes and help increase movement through the digestive tract. In doing so, it can help reduce constipation, bloating and indigestion. References > 3, 4. Lactospore ® (60mg, 1 billion spores): Probiotic bacteria from Bacillus coagulans. Probiotics are good bacteria that help improve gut health and digestion, enhancing the absorption of nutrients and fighting inflammation in the body to improve your overall health. References > 5, 6. Digezyme ® (100mg): A blend of 5 digestive enzymes (amylase, lactase, cellulose, lipase and protease) that play an important role in helping your body's digestive processes, assisting in the breaking down and absorption of nutrients while reducing constipation, bloating and indigestion. References > 7, 8. Other Ingredients: A plant-based capsule shell, and nothing else.Allergens: None. Active Ingredients For every serving of The Digest Capsules: Acacia Fibre (800mg), Ginger Root 5:1 Extract (60mg), Lactospore® (Probiotic, Bacillus Coagulans, 65mg containing 1 billion spores), Digezyme® (100mg containing following digestive enzymes: 2,400μg Alpha-Amylase, 600μg Neutral Protease, 400μg Lactase, 100μg Lipase, 20μg Cellulase). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. How And When To Use Take 2 capsules daily with your main meal of the day. Serving Sizes: One jar of The Digest Capsules contains 30 servings if following the above directions. That's about one month's worth if consuming daily. Works Well With: Any of our Protein Blends to support your overall health, fitness and wellbeing. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/TheDigestCapsules.png?v=1690283448",
+          "variants": [
+            {
+              "id": 39355953741982,
+              "title": "60 Capsules / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "24.95",
+              "compare_at_price": null,
+              "subscription_price": "19.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/blogs/insight/the-link-between-gut-health-and-mental-health",
+        "https://www.innermostglobal.com/blogs/insight/prebiotics-and-probiotics-ask-the-experts",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-tone-capsules",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:24",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-tone-capsules",
+          "product_id": 1575086555229,
+          "product_name": "The Tone Capsules",
+          "handle": "the-tone-capsules",
+          "description": "Finesse and tone. Forget fad diets, they don’t work. These daily nootropic capsules contain research-backed ingredients that gently raise your metabolism, reduce cravings and promote sustainable fat-loss. People keep telling us that they love it. You will too. Per 2 Capsules: Matcha Green Tea (500mg): Matcha is a specifically concentrated green tea powder, bursting with flavonoids called catechins. Its health benefits span the whole spectrum from fat loss, to protection against heart disease, improved skin, energy and focus. References > 1, 2. Yerba Mate (300mg) Dried leaves of an evergreen holly tree native to South America. An incredibly high antioxidant content and has been shown to have possible effects in the area of weight management, which could be due to it helping delay intestinal absorption of dietary fat. References > 3, 4. Vitamin C (250mg, 313%*): An important vitamin used to support the immune system. It also helps stabilise green tea compounds to enhance absorption and maximise their benefits. References > 5, 6. Alpha Lipoic Acid (200mg): Essential for aerobic energy metabolism, also acting as a powerful antioxidant, breaking down harmful free-radicals. It's also thought to help the body utilise stored fat, which can aid high-intensity exercise performance and help with weight management. References > 7, 8. Capsicum (100mg): A compound with bioactive properties found in chilli peppers. Regular consumption can reduce abdominal fat and appetite. Evidence suggests that it could play a beneficial role as part of a weight management programme. References > 9, 10. Vitamin B6 (0.7mg, 50%*)and Vitamin B12 (1.25µg, 50%*): For the reduction of tiredness and fatigue and normal energy-yielding metabolism. These also play a role in maintaining hair and skin health, and a regulated nervous system. References > 13, 14. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet. Other Ingredients: A plant-based capsule shell, and nothing else.Allergens: None. Active Ingredients For every serving of The Tone Capsules: Matcha (500mg), Yerba Mate (300mg), Vitamin C (250mg), Alpha Lipoic Acid (200mg), Capsicum (100mg), Vitamin B6 (0.7mg), Vitamin B12 (1.25µg). Scroll down to learn about these ingredients and how they benefit you. This product is vegan, cruelty free, gluten free, lactose free, soy free, halal, suitable for kosher diets, non-GMO, and free from all 14 major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. How And When To Use Take 2 capsules daily with your breakfast or lunch. Serving Sizes: One jar of The Tone Capsules contains 30 servings if following the above directions. That's about one month's worth if consuming daily. Works Well With: The Lean Protein to encourage effective fat-loss and support lean muscle development. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/files/TheToneCapsules.png?v=1690282996",
+          "variants": [
+            {
+              "id": 15426193719389,
+              "title": "60 Capsules / Unflavoured",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "24.95",
+              "compare_at_price": null,
+              "subscription_price": "19.96",
+              "subscription_options": [
+                {
+                  "plan_id": 5217845490,
+                  "plan_name": "Every 6 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295028090,
+                  "plan_name": "Every 4 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                },
+                {
+                  "plan_id": 710295060858,
+                  "plan_name": "Every 8 weeks",
+                  "group_name": "Subscription",
+                  "discount_percent": 20,
+                  "price": "19.96",
+                  "compare_at_price": "24.95",
+                  "per_delivery_price": "19.96"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/blogs/insight/6-habits-to-melt-fat-fast",
+        "https://www.innermostglobal.com/blogs/insight/the-incredible-health-benefits-of-matcha-green-tea",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-muscle-collection",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:32",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-muscle-collection",
+          "product_id": 1575107002461,
+          "product_name": "The Strength Collection",
+          "handle": "the-muscle-collection",
+          "description": "You have the power. Save money with our Collections. All the products from our Strength range in a convenient bundle along with an Innermost Shaker Bottle. Use the dropdown below to choose your protein flavour. Per Serving: The Strong Protein: Protein (34g): The building block of bones, muscles, hair, skin, and nails, this blend of dairy-based whey concentrate and isolate contains all the essential amino acids your body needs for repair, recovery and muscle development. Casein: A slower-digesting protein that, when combined with faster-digesting sources of protein, encourages optimal protein uptake and absorption over time. This lends itself to improved muscle growth and repair. Creatine Monohydrate (3g): Research has shown that creatine can improve strength, increase lean muscle mass and help muscles recover more quickly during exercise. This muscular boost can help achieve increased bursts of speed and energy, especially during high-intensity activities such as weight lifting or running. Montmorency Cherries (300mg): Variety of sour cherry containing high levels of anthocyanins that have powerful anti-inflammatory properties to help reduce damage from intensive exercise. There is also emerging research looking at how these cherries can offer relief from the pain of arthritis and osteoarthritis. Bilberries (250mg): Belonging to a class of natural bioactives with wide-reaching health benefits, including improving cardiovascular health, glucose control and inflammation. These dark berries are rich in antioxidants and resveratrol, which are seeing increased use for their purported anti-aging properties. Magnesium (200mg, 53%*): Contributes to electrolyte balance and normal energy-yielding metabolism. Required to regulate blood pressure, keep bones strong, and the heart rhythm steady. Adults who are deficient in magnesium are more likely to have elevated inflammation markers, which in turn, has been associated with serious health conditions. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet.Allergens: Milk (whey). The Power Booster: Creatine Monohydrate (5g): One of the most researched sport supplements on the market. Recommended for athletes and recreational gym goers undertaking high-intensity exercise. Creatine is stored within muscle and plays a crucial role in the production of energy during high- intensity exercise such as sprinting or weightlifting. Allergens: None. The Recover Capsules: Maca (2g): Reduces effects of physical and mental stress, and increases energy and libido. Grown for more than 2,000 years in the highest mountains of Peru, maca has recently found widespread popularity as an adaptogen. These are a group of natural ingredients that support the body's ability to deal with stress. ZMA (300mg): A natural mineral supplement made up of an optimal balance of zinc, magnesium, and vitamin B6. Zinc plays a role in supporting normal testosterone levels. Magnesium plays a role in metabolism and muscle function. Vitamin B6 reduces tiredness and may help boost energy levels. Chocamine (120mg): A cocoa extract high in flavanols, a group of natural bioactives. An early study on epicatechin (the main sirt activator in cocoa) found that it reduced myostatin (a protein secreted in muscle tissues) and increased follistatin which promotes muscle growth. Ubiquinone CoQ10 (50mg): A nutrient essential for the optimal functioning of our mitochondria – the energy producing factories of our bodies. This vitamin-like compound is made in the body and used by our cells to produce energy for growth and repair. Research suggests that we don’t get enough of it and levels drop as we get older. Selenium (100ug): An essential trace mineral best known as an antioxidant needed for a strong immune system, and playing a role in male and female fertility. Research suggests that increased selenium intake may lead to reduced cancer risk. Selenium deficiency, notably in Western countries, is increasing the call for its supplementation. Vitamin D (500IU, 250%*): Regulates the amount of calcium and phosphate in the body, which are needed to keep bones, teeth and muscles healthy. While there are early suggestions that vitamin D supplementation could provide some protection against COVID-19, more trials are needed before this can be confirmed. Regardless, it would be a good idea to achieve your recommended daily intake given the overall health risks of vitamin D deficiency. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet.Allergens: None. Active Ingredients For every serving of The Strong Protein: Protein (31g), Casein, Creatine Monohydrate (3g), Montmorency Cherries (300mg), Bilberries (250mg), Magnesium (200mg). The protein in this product is sourced from whey (milk); a complete source of protein containing all the amino acids your body needs. We've added guar gum, which is a GMO-free, gluten-free, natural fibre that comes from the guar bean to give our shakes a creamy texture. We use sunflower lecithin instead of soy lecithin, which is the only kind of lecithin that can be obtained raw and chemical-free using a cold press system similar to that used with olive oil. We also add some sweetness to the product by adding a tiny bit of sucralose, which is the most widely tested low-calorie sweetener and approved by all food standard agencies in the world. For every serving of The Power Booster: Creatine Monohydrate (5g). For every serving of The Recover Capsules: Maca (1g), ZMA (150mg), Chocamine (60mg), Ubiquinone CoQ10 (25mg), Selenium (50ug), Vitamin D (1000IU). These products are vegetarian, cruelty free, gluten free, soy free, halal, suitable for kosher diets, non-GMO, and free from most major allergens. Furthermore, the products contain no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. Nutritionals Per: 40g 100g Energy 620 kJ 1,551 kJ Calories 147 kcal 367 kcal Protein 34g 85g Carbohydrates 2.0g 5.0g of which sugars 1.0g 2.5g Fats 1.1g 2.8g of which saturates 0.3g 0.8g Dietary fibre 1.6g 4.1g Sodium 0.18g 0.45g Allergens: Milk (whey). How And When To Use The Strong Protein: A nutritious addition to your diet to help meet your daily nutrient needs. The perfect post-workout recovery drink or as a healthy snack whenever needed. Directions: Add 40g (4 flat Innermost scoops) with 250-350ml of water or any kind of milk and shake for. Best served cold or with ice. The amount and type of liquid will affect sweetness and thickness, so experiment to find what works best for you. Can also be added to smoothies, porridge and used in recipes. The Power Booster: To be taken during your day, once a day. Use continuously for up to 8 weeks before discontinuing for 1 week and then repeating. Directions: Mix 5g (1 rounded teaspoon) with around 100ml water or juice in your Innermost shaker bottle, or simply add 5g to your pre or post-workout protein shake. The Recover Capsules: Take 2 capsules daily after exercise or before you go to sleep. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/products/TheMuscleCollection.png?v=1637833373",
+          "variants": [
+            {
+              "id": 15426744647773,
+              "title": "Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "74.95",
+              "compare_at_price": "84.80",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 19503659122781,
+              "title": "Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "74.95",
+              "compare_at_price": "84.80",
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 44553618063602,
+              "title": "Strawberry",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "74.95",
+              "compare_at_price": "84.80",
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-muscle-collection",
+        "https://www.innermostglobal.com/products/the-weight-loss-collection",
+        "https://www.innermostglobal.com/products/the-wellbeing-collection",
+        "https://www.innermostglobal.com/products/the-performance-collection",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/products/the-strong-protein-travel-kit",
+      "is_product_page": true,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:38",
+      "products": [
+        {
+          "page_url": "https://www.innermostglobal.com/products/the-strong-protein-travel-kit",
+          "product_id": 3648765395037,
+          "product_name": "The Strong Protein Trial Pack",
+          "handle": "the-strong-protein-travel-kit",
+          "description": "Strength simplified. Three single-serve pouches of The Strong Protein in vanilla, chocolate, or strawberry. Ideal for when you're travelling or on-the-go. The Strong Protein is our whey protein powder for muscle growth. Per Serving: Protein (34g): The building block of bones, muscles, hair, skin, and nails, this blend of dairy-based whey concentrate and isolate contains all the essential amino acids your body needs for repair, recovery and muscle development. References >1, 2. Casein: A slower-digesting protein that, when combined with faster-digesting sources of protein, encourages optimal protein uptake and absorption over time. This lends itself to improved muscle growth and repair. References > 3, 4. Creatine Monohydrate (3g): Research has shown that creatine can improve strength, increase lean muscle mass and help muscles recover more quickly during exercise. This muscular boost can help achieve increased bursts of speed and energy, especially during high-intensity activities such as weight lifting or running. References > 5, 6. Montmorency Cherries (300mg): A sour cherry containing high levels of anthocyanins that have powerful anti-inflammatory properties that can help reduce damage that may occur during exercise. There is also increasing amounts of research looking at how they can offer relief from arthritis and osteoarthritis. References > 7, 8. Bilberries (250mg): Belonging to a class of natural bioactives with wide-reaching health benefits, including improving cardiovascular health, glucose control and inflammation. These dark berries are rich in antioxidants and resveratrol, which are seeing increased use for their purported anti-aging properties. References > 9, 10. Magnesium (200mg, 53%*): An important mineral that contributes to electrolyte balance and normal energy-yielding metabolism. It is required to regulate blood pressure, keep bones strong, and the heart rhythm steady. Adults who are deficient in magnesium are more likely to have elevated inflammation markers, which in turn, has been associated with serious health conditions. References > 11, 12. *%NRV (Nutrient Reference Values) are guidelines on daily amounts of vitamins and minerals to be consumed to maintain a healthy diet. Active Ingredients For every serving of The Strong Protein: Protein (34g), Casein, Creatine Monohydrate (3g), Montmorency Cherries (300mg), Bilberries (250mg), Magnesium (200mg). Scroll down to learn about these ingredients and how they benefit you. This product is vegetarian, cruelty free, gluten free, soy free, halal, suitable for kosher diets, non-GMO, and free from most major allergens. Furthermore, the product contains no artificial fillers, bulking agents or colours, and our packaging is 100% recyclable. The protein in this product is sourced from whey (milk); a complete source of protein containing all the amino acids your body needs. We've added guar gum, which is a GMO-free, gluten-free, natural fibre that comes from the guar bean to give our shakes a creamy texture. We use sunflower lecithin instead of soy lecithin, which is the only kind of lecithin that can be obtained raw and chemical-free using a cold press system similar to that used with olive oil. We also add some sweetness to the product by adding a tiny bit of sucralose, which is the most widely tested low-calorie sweetener and approved by all food standard agencies in the world. Nutritionals Per: 40g 100g Energy 620 kJ 1,551 kJ Calories 147 kcal 367 kcal Protein 34g 85g Carbohydrates 2.0g 5.0g of which sugars 1.0g 2.5g Fats 1.1g 2.8g of which saturates 0.3g 0.8g Dietary fibre 1.6g 4.1g Sodium 0.18g 0.45g Allergens: Milk (whey). How And When To Use A nutritious addition to your diet to help meet your daily nutrient needs. Directions: Add 40g (4 flat Innermost scoops) with 250-350ml of water or any kind of milk and shake for the perfect post-workout recovery drink or healthy snack whenever you need it. Best served cold or with ice. The amount and type of liquid will affect sweetness and thickness, so experiment to find what works best for you. Can also be added to smoothies, porridge and used in recipes. Serving Sizes: We recommend up to 40g per serving depending on how you use the product. Works Well With: The Innermost Shaker Bottle. Our 600ml Tritan plastic, BPA-free, multi-purpose shaker bottle. Screw top lid, carry handle and stainless steel whisking ball. Giving Back For every order you place with Innermost, we donate a meal to a child in need. Innermost is proud to partner with The Akshaya Patra Foundation who provide school meals to children in need supporting their ability to get an education. Learn more here.",
+          "available": true,
+          "featured_image": "https://cdn.shopify.com/s/files/1/0011/8502/2045/products/TheStrongProteinTrialPack.png?v=1632402407",
+          "variants": [
+            {
+              "id": 28653025787997,
+              "title": "Vanilla",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "9.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 28653025820765,
+              "title": "Chocolate",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "9.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 44553515073778,
+              "title": "Strawberry",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "9.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            },
+            {
+              "id": 44554651533554,
+              "title": "One Of Each Flavour",
+              "weight": 0,
+              "available": true,
+              "buy_once_price": "9.95",
+              "compare_at_price": null,
+              "subscription_price": null,
+              "subscription_options": []
+            }
+          ]
+        }
+      ],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/rewards",
+        "https://www.innermostglobal.com/products/the-strong-protein-travel-kit",
+        "https://www.innermostglobal.com/blogs/insight/inflammation-and-muscle-growth-a-primer",
+        "https://www.innermostglobal.com/blogs/insight/the-best-shoulder-exercises-to-build-strength",
+        "https://www.innermostglobal.com/products/the-weight-loss-collection",
+        "https://www.innermostglobal.com/products/the-wellbeing-collection",
+        "https://www.innermostglobal.com/products/the-performance-collection",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/collections/immunity",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:41",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/collections/energy-collection",
+        "https://www.innermostglobal.com/collections/weight-loss-collection",
+        "https://www.innermostglobal.com/collections/gut-health-collection",
+        "https://www.innermostglobal.com/collections/immunity-collection",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/products/the-rise-blend",
+        "https://www.innermostglobal.com/pages/quiz",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/collections/weight-loss",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:45",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/collections/energy-collection",
+        "https://www.innermostglobal.com/collections/weight-loss-collection",
+        "https://www.innermostglobal.com/collections/gut-health-collection",
+        "https://www.innermostglobal.com/collections/immunity-collection",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/products/the-weight-loss-collection",
+        "https://www.innermostglobal.com/products/the-lean-protein-travel-kit",
+        "https://www.innermostglobal.com/products/innermost-shaker-bottle",
+        "https://www.innermostglobal.com/products/scoop",
+        "https://www.innermostglobal.com/products/the-define-booster",
+        "https://www.innermostglobal.com/pages/quiz",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/collections/brain-care-collection",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:48",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/collections/energy-collection",
+        "https://www.innermostglobal.com/collections/weight-loss-collection",
+        "https://www.innermostglobal.com/collections/gut-health-collection",
+        "https://www.innermostglobal.com/collections/immunity-collection",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/products/the-rise-blend",
+        "https://www.innermostglobal.com/pages/quiz",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/collections/skin-hair-collection",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:53",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/collections/energy-collection",
+        "https://www.innermostglobal.com/collections/weight-loss-collection",
+        "https://www.innermostglobal.com/collections/gut-health-collection",
+        "https://www.innermostglobal.com/collections/immunity-collection",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-fit-protein",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/products/the-hydrate-blend",
+        "https://www.innermostglobal.com/products/the-glow-blend",
+        "https://www.innermostglobal.com/products/the-rise-blend",
+        "https://www.innermostglobal.com/pages/quiz"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/collections/performance",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:02:58",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/collections/energy-collection",
+        "https://www.innermostglobal.com/collections/weight-loss-collection",
+        "https://www.innermostglobal.com/collections/gut-health-collection",
+        "https://www.innermostglobal.com/collections/immunity-collection",
+        "https://www.innermostglobal.com/products/the-fit-protein",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/innermost-shaker-bottle",
+        "https://www.innermostglobal.com/products/the-performance-collection",
+        "https://www.innermostglobal.com/products/the-fit-protein-travel-kit",
+        "https://www.innermostglobal.com/products/scoop",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/pages/quiz",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/collections/all",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:03:02",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/collections/energy-collection",
+        "https://www.innermostglobal.com/collections/weight-loss-collection",
+        "https://www.innermostglobal.com/collections/gut-health-collection",
+        "https://www.innermostglobal.com/collections/immunity-collection",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/products/the-fit-protein",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/products/the-digest-capsules",
+        "https://www.innermostglobal.com/products/the-relax-capsules",
+        "https://www.innermostglobal.com/products/the-rise-capsules",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/the-energy-booster"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/pages/press",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:03:05",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/press",
+        "https://www.innermostglobal.com/pages/womens-fitness-23-06",
+        "https://www.innermostglobal.com/pages/metro-12-07",
+        "https://www.innermostglobal.com/pages/absolutely",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/pages/cosmopolitan",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/collections/energy-collection",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:03:08",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/collections/energy-collection",
+        "https://www.innermostglobal.com/collections/weight-loss-collection",
+        "https://www.innermostglobal.com/collections/gut-health-collection",
+        "https://www.innermostglobal.com/collections/immunity-collection",
+        "https://www.innermostglobal.com/products/the-energy-booster",
+        "https://www.innermostglobal.com/products/the-lean-protein",
+        "https://www.innermostglobal.com/products/the-strong-protein",
+        "https://www.innermostglobal.com/products/the-health-protein",
+        "https://www.innermostglobal.com/products/the-fit-protein",
+        "https://www.innermostglobal.com/products/the-tone-capsules",
+        "https://www.innermostglobal.com/products/the-power-booster",
+        "https://www.innermostglobal.com/products/the-recover-capsules",
+        "https://www.innermostglobal.com/products/innermost-gift-card",
+        "https://www.innermostglobal.com/products/the-rise-blend"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/pages/quiz",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:03:13",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/pages/privacy-policy",
+        "https://www.innermostglobal.com/pages/terms-of-use",
+        "https://www.innermostglobal.com/pages/terms-and-conditions",
+        "https://www.innermostglobal.com/pages/quiz"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/blogs/insight/the-myth-of-optimal-health",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:03:17",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/blogs/insight/tagged/fitness",
+        "https://www.innermostglobal.com/blogs/insight/tagged/health",
+        "https://www.innermostglobal.com/blogs/insight/tagged/nutrition",
+        "https://www.innermostglobal.com/blogs/insight/tagged/life",
+        "https://www.innermostglobal.com/blogs/insight/tagged/community",
+        "https://www.innermostglobal.com/blogs/insight/tagged/playlists",
+        "https://www.innermostglobal.com/blogs/insight/tagged/courses",
+        "https://www.innermostglobal.com/blogs/insight/tagged/questions",
+        "https://www.innermostglobal.com/products/the-hydrate-blend",
+        "https://www.innermostglobal.com/products/the-rise-blend",
+        "https://www.innermostglobal.com/collections/proteins",
+        "https://www.innermostglobal.com/blogs/insight/the-myth-of-optimal-health",
+        "https://www.innermostglobal.com/blogs/insight/what-is-folate-uses-and-health-benefits",
+        "https://www.innermostglobal.com/blogs/insight/dev-test"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/blogs/insight/tagged/Nutrition",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:03:20",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/blogs/insight/tagged/fitness",
+        "https://www.innermostglobal.com/blogs/insight/tagged/health",
+        "https://www.innermostglobal.com/blogs/insight/tagged/nutrition",
+        "https://www.innermostglobal.com/blogs/insight/tagged/life",
+        "https://www.innermostglobal.com/blogs/insight/tagged/community",
+        "https://www.innermostglobal.com/blogs/insight/tagged/playlists",
+        "https://www.innermostglobal.com/blogs/insight/tagged/courses",
+        "https://www.innermostglobal.com/blogs/insight/tagged/questions",
+        "https://www.innermostglobal.com/blogs/insight/the-myth-of-optimal-health",
+        "https://www.innermostglobal.com/blogs/insight/what-is-folate-uses-and-health-benefits",
+        "https://www.innermostglobal.com/blogs/insight/nutrition-101-what-you-need-to-know",
+        "https://www.innermostglobal.com/blogs/insight/what-is-biotin-uses-and-health-benefits",
+        "https://www.innermostglobal.com/blogs/insight/the-truth-behind-ozempic",
+        "https://www.innermostglobal.com/blogs/insight/complete-guide-to-halal-protein-powder"
+      ]
+    },
+    {
+      "url": "https://www.innermostglobal.com/blogs/insight/what-is-folate-uses-and-health-benefits",
+      "is_product_page": false,
+      "page_title": "",
+      "crawled_at": "2025-10-20 14:03:24",
+      "products": [],
+      "links_found": [
+        "https://www.innermostglobal.com/collections/immunity",
+        "https://www.innermostglobal.com/collections/weight-loss",
+        "https://www.innermostglobal.com/collections/brain-care-collection",
+        "https://www.innermostglobal.com/collections/skin-hair-collection",
+        "https://www.innermostglobal.com/collections/performance",
+        "https://www.innermostglobal.com/collections/all",
+        "https://www.innermostglobal.com/blogs/insight/tagged/fitness",
+        "https://www.innermostglobal.com/blogs/insight/tagged/health",
+        "https://www.innermostglobal.com/blogs/insight/tagged/nutrition",
+        "https://www.innermostglobal.com/blogs/insight/tagged/life",
+        "https://www.innermostglobal.com/blogs/insight/tagged/community",
+        "https://www.innermostglobal.com/blogs/insight/tagged/playlists",
+        "https://www.innermostglobal.com/blogs/insight/tagged/courses",
+        "https://www.innermostglobal.com/blogs/insight/tagged/questions",
+        "https://www.innermostglobal.com/blogs/insight/tagged/author_zak-hillard",
+        "https://www.innermostglobal.com/blogs/insight/nutrition-101-what-you-need-to-know",
+        "https://www.innermostglobal.com/blogs/insight/how-to-get-enough-vitamin-b12",
+        "https://www.innermostglobal.com/products/the-glow-blend?srsltid=AfmBOoof6_ivOMFlh7QAKM4mmSs29ZbH3kN2-Q6FgRHuGNi8-k5QunuO",
+        "https://www.innermostglobal.com/blogs/insight/collagen-supplements",
+        "https://www.innermostglobal.com/blogs/insight/innermost-ingredients-hyaluronic-acid"
+      ]
+    }
+  ]
+}

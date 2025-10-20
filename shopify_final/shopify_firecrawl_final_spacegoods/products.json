@@ -1,0 +1,4806 @@
+{
+  "total_products": 11,
+  "products": [
+    {
+      "page_url": "https://spacegoods.com/en-us/products/hydro-dust-starter-kit",
+      "product_id": 8109139820727,
+      "product_name": "hydro dust - starter kit",
+      "handle": "hydro-dust-starter-kit",
+      "description": "IN STOCK watermelon flavour powder blend - 174g bag = 30x 5.8g servings free UK delivery + 60 day money-back guarantee :) HYDRATE - ENERGISE - REFRESH Hydro dust is a powerful all-in-one mushroom & adaptogenic powder blend to unlock your super, natural self experience sharper focus, sustained energy and a zen-like calm throughout the day - zero jitters and zero crash unlock your potential with our powerful, potent mushroom & adaptogenic blend designed to taste great, feel great and make you do great... made with all-natural ingredients, our Rainbow Dust is a delicious chocolate powder concoction designed to be part of your new everyday routine - vegan & cruelty-free, you can scoop, mix, drink and create to your heart's content! a super versatile & convenient all-in-one blend - you can drink it by itself with water or milk (hot or cold) - or add it to your usual coffee, tea, or protein shake - Rainbow Dust is designed for ease of use and can be mixed with just about anything you like! try our trial pack, or subscribe for greater long-term benefits - consistency is key, so we recommend using Rainbow Dust for at least 3 months for the maximum benefit...",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/SPG-Hydro-FreeCallouts_1x_3x-50.jpg?v=1760358570",
+      "variants": [
+        {
+          "id": 44901082071223,
+          "title": "Watermelon / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1517781175,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 44901082103991,
+          "title": "Watermelon / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1522663607,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 45290840588471,
+          "title": "Pineapple / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1517781175,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 45290840621239,
+          "title": "Pineapple / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1522663607,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/glow-dust-starter-kit",
+      "product_id": 8220995944631,
+      "product_name": "glow dust - starter kit",
+      "handle": "glow-dust-starter-kit",
+      "description": "We believe feeling good starts within — because real glow is deeper than just your skin. It's not just about looking your best, it's about feeling good in yourself, every single day. Glow Dust makes that easy — with one delicious, all-in-one ritual.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/2_1.jpg?v=1758882125",
+      "variants": [
+        {
+          "id": 45205043151031,
+          "title": "Berry / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "49.00",
+          "subscription_price": "39.00",
+          "subscription_options": [
+            {
+              "plan_id": 1666908343,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "39.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "39.00"
+            }
+          ]
+        },
+        {
+          "id": 45205043183799,
+          "title": "Berry / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "64.00",
+          "compare_at_price": "84.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1666941111,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 45251198189751,
+          "title": "Berry / 1x bag + no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "49.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45251198222519,
+          "title": "Berry / 2x bags + no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "84.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/rainbow-dust",
+      "product_id": 7357201055927,
+      "product_name": "rainbow dust",
+      "handle": "rainbow-dust",
+      "description": "Rainbow Dust combines the coffee you love with 5 functional mushrooms & adaptogens to promote focus, energy and calm. Choose from 6 delicious flavours, mix with water or milk and enjoy hot or cold. Contains 30 servings per bag.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/rainbow-dust-Spacegoods-90210697.jpg?v=1756816367",
+      "variants": [
+        {
+          "id": 42871136321719,
+          "title": "Coffee / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 42871136387255,
+          "title": "Coffee / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 42871136485559,
+          "title": "Coffee / 3 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        },
+        {
+          "id": 42871136288951,
+          "title": "Vanilla Cinnamon / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 42871136354487,
+          "title": "Vanilla Cinnamon / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 42871136452791,
+          "title": "Vanilla Cinnamon / 3 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        },
+        {
+          "id": 41896704835767,
+          "title": "Chocolate / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 41896704868535,
+          "title": "Chocolate / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 41896704901303,
+          "title": "Chocolate / 3 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        },
+        {
+          "id": 43176287535287,
+          "title": "Strawberry / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 43176287568055,
+          "title": "Strawberry / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 43176287600823,
+          "title": "Strawberry / 3 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        },
+        {
+          "id": 43279827534007,
+          "title": "Raw Chocolate / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 43279827566775,
+          "title": "Raw Chocolate / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 43279827599543,
+          "title": "Raw Chocolate / 3 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        },
+        {
+          "id": 44973584285879,
+          "title": "Coffee Caramel / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 44973584318647,
+          "title": "Coffee Caramel / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 44973584351415,
+          "title": "Coffee Caramel / 3 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        },
+        {
+          "id": 44991845662903,
+          "title": "Decaf Coffee / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 44991845695671,
+          "title": "Decaf Coffee / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 44991845728439,
+          "title": "Decaf Coffee / 3 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/astro-dust",
+      "product_id": 7376266985655,
+      "product_name": "astro dust",
+      "handle": "astro-dust",
+      "description": "Astro Dust combines mushrooms with science backed natural adaptogens to help you achieve deep, restorative functional sleep without grogginess. It’s not only functional but a delicious low calorie chocolatey treat too. Contains 30 servings per bag.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/astro-dust-Spacegoods-90030633.jpg?v=1737114033",
+      "variants": [
+        {
+          "id": 41956637376695,
+          "title": "Chocolate / 1x bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 41956637409463,
+          "title": "Chocolate / 2x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 41956637442231,
+          "title": "Chocolate / 3x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        },
+        {
+          "id": 45065980051639,
+          "title": "Chai / 1x bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538392247,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538425015,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1538457783,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 45065980084407,
+          "title": "Chai / 2x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538490551,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538523319,
+              "plan_name": "Every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1538556087,
+              "plan_name": "Every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 45065980117175,
+          "title": "Chai / 3x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "74.00",
+          "subscription_options": [
+            {
+              "plan_id": 1443692727,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476591799,
+              "plan_name": "Delivery every 2 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476624567,
+              "plan_name": "Delivery every 6 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            },
+            {
+              "plan_id": 1476657335,
+              "plan_name": "Delivery every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "74.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "74.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/rainbow-dust-starter-kit",
+      "product_id": 7357275930807,
+      "product_name": "rainbow dust - starter kit",
+      "handle": "rainbow-dust-starter-kit",
+      "description": "Rainbow Dust combines the coffee you love with 5 functional mushrooms & adaptogens to promote focus, energy and calm. Choose from 6 delicious flavours, mix with water or milk and enjoy hot or cold. Contains 30 servings per bag.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/Test-Spacegoods-93499425.jpg?v=1756396191",
+      "variants": [
+        {
+          "id": 42885218959543,
+          "title": "Coffee / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 42885218992311,
+          "title": "Coffee / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "130.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 42885219025079,
+          "title": "Coffee / 3x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "74.00",
+          "compare_at_price": "169.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073296567,
+          "title": "Coffee / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073329335,
+          "title": "Coffee / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073362103,
+          "title": "Coffee / 3x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "117.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        },
+        {
+          "id": 42835448463543,
+          "title": "Vanilla Cinnamon / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 42835448496311,
+          "title": "Vanilla Cinnamon / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "130.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 42835448529079,
+          "title": "Vanilla Cinnamon / 3x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "74.00",
+          "compare_at_price": "169.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073394871,
+          "title": "Vanilla Cinnamon / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073427639,
+          "title": "Vanilla Cinnamon / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073460407,
+          "title": "Vanilla Cinnamon / 3x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "117.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        },
+        {
+          "id": 41896987394231,
+          "title": "Chocolate / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 42782599119031,
+          "title": "Chocolate / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "130.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 42782599151799,
+          "title": "Chocolate / 3x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "74.00",
+          "compare_at_price": "169.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073493175,
+          "title": "Chocolate / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073525943,
+          "title": "Chocolate / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073558711,
+          "title": "Chocolate / 3x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "117.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        },
+        {
+          "id": 43177678078135,
+          "title": "Strawberry / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 43177678110903,
+          "title": "Strawberry / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "130.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 43177678143671,
+          "title": "Strawberry / 3x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "74.00",
+          "compare_at_price": "169.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073591479,
+          "title": "Strawberry / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073624247,
+          "title": "Strawberry / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073657015,
+          "title": "Strawberry / 3x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "117.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        },
+        {
+          "id": 43279851978935,
+          "title": "Raw Chocolate / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 43279852011703,
+          "title": "Raw Chocolate / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 43279852077239,
+          "title": "Raw Chocolate / 3x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "74.00",
+          "compare_at_price": "217.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073689783,
+          "title": "Raw Chocolate / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073722551,
+          "title": "Raw Chocolate / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 44655073755319,
+          "title": "Raw Chocolate / 3x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        },
+        {
+          "id": 44973607977143,
+          "title": "Coffee Caramel / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 44973608009911,
+          "title": "Coffee Caramel / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "130.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 44973608042679,
+          "title": "Coffee Caramel / 3x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "74.00",
+          "compare_at_price": "169.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 44973608075447,
+          "title": "Coffee Caramel / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 44973608108215,
+          "title": "Coffee Caramel / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 44973608140983,
+          "title": "Coffee Caramel / 3x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "117.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        },
+        {
+          "id": 44991784091831,
+          "title": "Decaf Coffee / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 44991784124599,
+          "title": "Decaf Coffee / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "130.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 44991784157367,
+          "title": "Decaf Coffee / 3x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "74.00",
+          "compare_at_price": "169.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "74.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 44991784190135,
+          "title": "Decaf Coffee / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 44991784222903,
+          "title": "Decaf Coffee / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 44991784255671,
+          "title": "Decaf Coffee / 3x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "117.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/astro-dust-starter-kit",
+      "product_id": 7377476583607,
+      "product_name": "astro dust - starter kit",
+      "handle": "astro-dust-starter-kit",
+      "description": "Astro Dust combines mushrooms with science backed natural adaptogens to help you achieve deep, restorative functional sleep without grogginess. It’s not only functional but a delicious low calorie chocolatey treat too. Contains 30 servings per bag.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/SPG-Astro-FreeCallouts_3x-50_a8870c88-8271-4a7b-906a-7a4e2fe2ccdc.jpg?v=1753278113",
+      "variants": [
+        {
+          "id": 41959395459255,
+          "title": "Chocolate / 1x bag + FREE accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "29.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 42782777245879,
+          "title": "Chocolate / 2x bags + FREE accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "49.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "49.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "49.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "49.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 42782777278647,
+          "title": "Chocolate / 3x bags + FREE accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "64.00",
+          "compare_at_price": "217.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 45146201981111,
+          "title": "Chocolate / 1x bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "24.00",
+          "compare_at_price": "39.00",
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "24.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "24.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "24.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 45146202046647,
+          "title": "Chocolate / 2x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "44.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "44.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "44.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "44.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 45146202112183,
+          "title": "Chocolate / 3x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        },
+        {
+          "id": 45131459952823,
+          "title": "Chai / 1x bag + FREE accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "29.00",
+          "compare_at_price": "91.00",
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531117751,
+              "plan_name": "Every 1 month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531150519,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1531183287,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            },
+            {
+              "plan_id": 1680212151,
+              "plan_name": "Every 8 weeks",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "29.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 45131459985591,
+          "title": "Chai / 2x bags + FREE accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "49.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531216055,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "49.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531248823,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "49.00",
+              "per_delivery_price": "49.00"
+            },
+            {
+              "plan_id": 1531281591,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "49.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 45131460018359,
+          "title": "Chai / 3x bags + FREE accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "64.00",
+          "compare_at_price": "217.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531314359,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531347127,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            },
+            {
+              "plan_id": 1531379895,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 45146202013879,
+          "title": "Chai / 1x bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "24.00",
+          "compare_at_price": "39.00",
+          "subscription_price": "24.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531412663,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "24.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531445431,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "24.00",
+              "per_delivery_price": "24.00"
+            },
+            {
+              "plan_id": 1531478199,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "24.00",
+              "compare_at_price": "24.00",
+              "per_delivery_price": "24.00"
+            }
+          ]
+        },
+        {
+          "id": 45146202079415,
+          "title": "Chai / 2x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "44.00",
+          "compare_at_price": "79.00",
+          "subscription_price": "44.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531510967,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "44.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531543735,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "44.00",
+              "per_delivery_price": "44.00"
+            },
+            {
+              "plan_id": 1531576503,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "44.00",
+              "compare_at_price": "44.00",
+              "per_delivery_price": "44.00"
+            }
+          ]
+        },
+        {
+          "id": 45146202144951,
+          "title": "Chai / 3x bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "59.00",
+          "compare_at_price": "99.00",
+          "subscription_price": "59.00",
+          "subscription_options": [
+            {
+              "plan_id": 1531936951,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1531969719,
+              "plan_name": "Every 3 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "59.00"
+            },
+            {
+              "plan_id": 1532002487,
+              "plan_name": "Every 6 months",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "59.00",
+              "compare_at_price": "59.00",
+              "per_delivery_price": "59.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/day-night-starter-kit",
+      "product_id": 7441780506807,
+      "product_name": "day + night starter kit",
+      "handle": "day-night-starter-kit",
+      "description": "Optimise your daily stack with the Rainbow Dust + Astro Dust power combo. Start your day with Rainbow Dust and feel laser focus and sustained energy all day. Then wind down naturally in the evenings with Astro Dust to drift off into deeper and more restorative sleep. Wake up feeling refreshed and ready to take on the day. Contains 30 servings per bag.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/day-_-night-starter-kit-Spacegoods-89310783.jpg?v=1755250772",
+      "variants": [
+        {
+          "id": 42092415189175,
+          "title": "Chocolate (Rainbow) + Chocolate (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 42871206641847,
+          "title": "Vanilla Cinnamon (Rainbow) + Chocolate (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 42871206674615,
+          "title": "Coffee (Rainbow) + Chocolate (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 43533605634231,
+          "title": "Strawberry (Rainbow) + Chocolate (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 43533605666999,
+          "title": "Raw Chocolate (Rainbow) + Chocolate (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44991392907447,
+          "title": "Coffee Caramel (Rainbow) + Chocolate (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44991395791031,
+          "title": "Decaf Coffee (Rainbow) + Chocolate (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45128588165303,
+          "title": "Chocolate (Rainbow) + Chai (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45128588198071,
+          "title": "Vanilla Cinnamon (Rainbow) + Chai (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45128588230839,
+          "title": "Coffee (Rainbow) + Chai (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45128588263607,
+          "title": "Strawberry (Rainbow) + Chai (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45128588296375,
+          "title": "Coffee Caramel (Rainbow) + Chai (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45128588329143,
+          "title": "Decaf Coffee (Rainbow) + Chai (Astro) / 2x mugs + frother + spoon",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "89.00",
+          "compare_at_price": "149.00",
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538588855,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "89.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/focus-glow-starter-kit",
+      "product_id": 8233581117623,
+      "product_name": "focus + restore starter kit",
+      "handle": "focus-glow-starter-kit",
+      "description": "Optimise your daily stack with the Rainbow Dust + Glow Dust power combo. Achieve laser focus and flow with Rainbow Dust, and supercharge your life with glow gust. Contains 30 servings per bag.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/Starter_GlowDust_RDChocolate_Kit_x1_Front.jpg?v=1757406839",
+      "variants": [
+        {
+          "id": 45235790446775,
+          "title": "Berry / Coffee / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "56.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "56.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669955767,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "56.00",
+              "compare_at_price": "56.00",
+              "per_delivery_price": "56.00"
+            }
+          ]
+        },
+        {
+          "id": 45235790479543,
+          "title": "Berry / Coffee / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "102.00",
+          "compare_at_price": "156.00",
+          "subscription_price": "102.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669988535,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "102.00",
+              "compare_at_price": "102.00",
+              "per_delivery_price": "102.00"
+            }
+          ]
+        },
+        {
+          "id": 45235860275383,
+          "title": "Berry / Coffee / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "78.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235860308151,
+          "title": "Berry / Coffee / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "142.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235790512311,
+          "title": "Berry / Chocolate / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "56.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "56.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669955767,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "56.00",
+              "compare_at_price": "56.00",
+              "per_delivery_price": "56.00"
+            }
+          ]
+        },
+        {
+          "id": 45235790545079,
+          "title": "Berry / Chocolate / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "102.00",
+          "compare_at_price": "156.00",
+          "subscription_price": "102.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669988535,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "102.00",
+              "compare_at_price": "102.00",
+              "per_delivery_price": "102.00"
+            }
+          ]
+        },
+        {
+          "id": 45235860340919,
+          "title": "Berry / Chocolate / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "78.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235860373687,
+          "title": "Berry / Chocolate / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "142.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235790577847,
+          "title": "Berry / Vanilla Cinnamon / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "56.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "56.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669955767,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "56.00",
+              "compare_at_price": "56.00",
+              "per_delivery_price": "56.00"
+            }
+          ]
+        },
+        {
+          "id": 45235790610615,
+          "title": "Berry / Vanilla Cinnamon / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "102.00",
+          "compare_at_price": "156.00",
+          "subscription_price": "102.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669988535,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "102.00",
+              "compare_at_price": "102.00",
+              "per_delivery_price": "102.00"
+            }
+          ]
+        },
+        {
+          "id": 45235860406455,
+          "title": "Berry / Vanilla Cinnamon / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "78.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235860439223,
+          "title": "Berry / Vanilla Cinnamon / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "142.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235790643383,
+          "title": "Berry / Strawberry / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "56.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "56.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669955767,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "56.00",
+              "compare_at_price": "56.00",
+              "per_delivery_price": "56.00"
+            }
+          ]
+        },
+        {
+          "id": 45235790676151,
+          "title": "Berry / Strawberry / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "102.00",
+          "compare_at_price": "156.00",
+          "subscription_price": "102.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669988535,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "102.00",
+              "compare_at_price": "102.00",
+              "per_delivery_price": "102.00"
+            }
+          ]
+        },
+        {
+          "id": 45235860471991,
+          "title": "Berry / Strawberry / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "78.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235860504759,
+          "title": "Berry / Strawberry / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "142.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235790774455,
+          "title": "Berry / Coffee Caramel / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "56.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "56.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669955767,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "56.00",
+              "compare_at_price": "56.00",
+              "per_delivery_price": "56.00"
+            }
+          ]
+        },
+        {
+          "id": 45235790807223,
+          "title": "Berry / Coffee Caramel / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "102.00",
+          "compare_at_price": "156.00",
+          "subscription_price": "102.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669988535,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "102.00",
+              "compare_at_price": "102.00",
+              "per_delivery_price": "102.00"
+            }
+          ]
+        },
+        {
+          "id": 45235860537527,
+          "title": "Berry / Coffee Caramel / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "78.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235860570295,
+          "title": "Berry / Coffee Caramel / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "142.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235790839991,
+          "title": "Berry / Decaf Coffee / 1x bag + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "56.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "56.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669955767,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "56.00",
+              "compare_at_price": "56.00",
+              "per_delivery_price": "56.00"
+            }
+          ]
+        },
+        {
+          "id": 45235790872759,
+          "title": "Berry / Decaf Coffee / 2x bags + free accessories with 1st order",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "102.00",
+          "compare_at_price": "156.00",
+          "subscription_price": "102.00",
+          "subscription_options": [
+            {
+              "plan_id": 1669988535,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "102.00",
+              "compare_at_price": "102.00",
+              "per_delivery_price": "102.00"
+            }
+          ]
+        },
+        {
+          "id": 45235860603063,
+          "title": "Berry / Decaf Coffee / 1x bag | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "78.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45235860635831,
+          "title": "Berry / Decaf Coffee / 2x bags | no accessories",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "142.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/hydrate-focus-combo",
+      "product_id": 8035612885175,
+      "product_name": "hydrate + focus combo",
+      "handle": "hydrate-focus-combo",
+      "description": "Optimise your daily stack with the Rainbow Dust + Hydro Dust power combo. Achieve laser focus and flow with Rainbow Dust, and supercharge your hydration with electrolytes and immunity boosting vitamins with Hydro Dust. Contains 30 servings per bag.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/Bundle_HDWater_RDCoffee_x1_Front_6a4bb33e-c35a-49e9-82be-e598e7780810.jpg?v=1760619160",
+      "variants": [
+        {
+          "id": 44825022922935,
+          "title": "Coffee (Rainbow) + Watermelon (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44825022955703,
+          "title": "Coffee (Rainbow) + Watermelon (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 44825009684663,
+          "title": "Chocolate (Rainbow) + Watermelon (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44825009717431,
+          "title": "Chocolate (Rainbow) + Watermelon (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 44825022824631,
+          "title": "Vanilla Cinnamon (Rainbow) + Watermelon (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44825022857399,
+          "title": "Vanilla Cinnamon (Rainbow) + Watermelon (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 44825023021239,
+          "title": "Strawberry (Rainbow) + Watermelon (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44825023054007,
+          "title": "Strawberry (Rainbow) + Watermelon (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 44825023119543,
+          "title": "Raw Chocolate (Rainbow) + Watermelon (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44825023152311,
+          "title": "Raw Chocolate (Rainbow) + Watermelon (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 44991607537847,
+          "title": "Coffee Caramel (Rainbow) + Watermelon (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44991607570615,
+          "title": "Coffee Caramel (Rainbow) + Watermelon (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 44991617532087,
+          "title": "Decaf Coffee (Rainbow) + Watermelon (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 44991617564855,
+          "title": "Decaf Coffee (Rainbow) + Watermelon (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092143287,
+          "title": "Coffee (Rainbow) + Pineapple (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092176055,
+          "title": "Coffee (Rainbow) + Pineapple (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092208823,
+          "title": "Chocolate (Rainbow) + Pineapple (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092241591,
+          "title": "Chocolate (Rainbow) + Pineapple (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092274359,
+          "title": "Vanilla Cinnamon (Rainbow) + Pineapple (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092307127,
+          "title": "Vanilla Cinnamon (Rainbow) + Pineapple (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092339895,
+          "title": "Strawberry (Rainbow) + Pineapple (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092372663,
+          "title": "Strawberry (Rainbow) + Pineapple (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092405431,
+          "title": "Raw Chocolate (Rainbow) + Pineapple (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45293092438199,
+          "title": "Raw Chocolate (Rainbow) + Pineapple (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45293092470967,
+          "title": "Coffee Caramel (Rainbow) + Pineapple (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092503735,
+          "title": "Coffee Caramel (Rainbow) + Pineapple (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092536503,
+          "title": "Decaf Coffee (Rainbow) + Pineapple (Hydro) / 1 bag of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "68.00",
+          "compare_at_price": null,
+          "subscription_price": "48.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538687159,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "48.00",
+              "compare_at_price": "68.00",
+              "per_delivery_price": "48.00"
+            }
+          ]
+        },
+        {
+          "id": 45293092569271,
+          "title": "Decaf Coffee (Rainbow) + Pineapple (Hydro) / 2 bags of each",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "106.00",
+          "compare_at_price": "136.00",
+          "subscription_price": "76.00",
+          "subscription_options": [
+            {
+              "plan_id": 1538719927,
+              "plan_name": "Every month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "76.00",
+              "compare_at_price": "106.00",
+              "per_delivery_price": "76.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/glow-dust",
+      "product_id": 8221018292407,
+      "product_name": "glow dust",
+      "handle": "glow-dust",
+      "description": "We believe feeling good starts within — because real glow is deeper than just your skin. It's not just about looking your best, it's about feeling good in yourself, every single day. Glow Dust makes that easy — with one delicious, all-in-one ritual.",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/GlowDust_Drink_x1_Front.jpg?v=1760535899",
+      "variants": [
+        {
+          "id": 45205077688503,
+          "title": "Berry / 1x bag (Subscription)",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": "49.00",
+          "subscription_price": "39.00",
+          "subscription_options": [
+            {
+              "plan_id": 1666908343,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "39.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "39.00"
+            }
+          ]
+        },
+        {
+          "id": 45205077721271,
+          "title": "Berry / 2x bags (Subscription)",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "64.00",
+          "compare_at_price": "98.00",
+          "subscription_price": "64.00",
+          "subscription_options": [
+            {
+              "plan_id": 1666941111,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "64.00",
+              "compare_at_price": "64.00",
+              "per_delivery_price": "64.00"
+            }
+          ]
+        },
+        {
+          "id": 45251260940471,
+          "title": "Berry / 1x bag (OTP)",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "49.00",
+          "compare_at_price": null,
+          "subscription_price": null,
+          "subscription_options": []
+        },
+        {
+          "id": 45251260973239,
+          "title": "Berry / 2x bags (OTP)",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "84.00",
+          "compare_at_price": "98.00",
+          "subscription_price": null,
+          "subscription_options": []
+        }
+      ]
+    },
+    {
+      "page_url": "https://spacegoods.com/en-us/products/hydro-dust",
+      "product_id": 8030309515447,
+      "product_name": "hydro dust",
+      "handle": "hydro-dust",
+      "description": "IN STOCK watermelon flavour powder blend - 174g bag = 30x 5.8g servings free UK delivery + 60 day money-back guarantee :) HYDRATE - ENERGISE - REFRESH Hydro dust is a powerful all-in-one mushroom & adaptogenic powder blend to unlock your super, natural self experience sharper focus, sustained energy and a zen-like calm throughout the day - zero jitters and zero crash unlock your potential with our powerful, potent mushroom & adaptogenic blend designed to taste great, feel great and make you do great... made with all-natural ingredients, our Rainbow Dust is a delicious chocolate powder concoction designed to be part of your new everyday routine - vegan & cruelty-free, you can scoop, mix, drink and create to your heart's content! a super versatile & convenient all-in-one blend - you can drink it by itself with water or milk (hot or cold) - or add it to your usual coffee, tea, or protein shake - Rainbow Dust is designed for ease of use and can be mixed with just about anything you like! try our trial pack, or subscribe for greater long-term benefits - consistency is key, so we recommend using Rainbow Dust for at least 3 months for the maximum benefit...",
+      "available": true,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0588/9307/4615/files/Hydro-Dust-_-Offer-Spacegoods-92425675.jpg?v=1752753596",
+      "variants": [
+        {
+          "id": 44818489999543,
+          "title": "Watermelon / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1517781175,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 44818490032311,
+          "title": "Watermelon / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1522663607,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        },
+        {
+          "id": 45293011992759,
+          "title": "Pineapple / 1 bag",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "39.00",
+          "compare_at_price": null,
+          "subscription_price": "29.00",
+          "subscription_options": [
+            {
+              "plan_id": 1517781175,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "29.00",
+              "compare_at_price": "39.00",
+              "per_delivery_price": "29.00"
+            }
+          ]
+        },
+        {
+          "id": 45293012025527,
+          "title": "Pineapple / 2 bags",
+          "weight": 240,
+          "available": true,
+          "buy_once_price": "69.00",
+          "compare_at_price": "78.00",
+          "subscription_price": "49.00",
+          "subscription_options": [
+            {
+              "plan_id": 1522663607,
+              "plan_name": "Every Month",
+              "group_name": "Subscription",
+              "discount_percent": null,
+              "price": "49.00",
+              "compare_at_price": "69.00",
+              "per_delivery_price": "49.00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
